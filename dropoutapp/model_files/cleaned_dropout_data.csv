@@ -1,0 +1,3345 @@
+State/UT,DropoutRate,Year,Level,Gender,StartYear
+Andaman and Nicobar Islands,3.1,2003-2004,Elementary,Boys,2003
+Andhra Pradesh,6.6,2003-2004,Elementary,Boys,2003
+Arunachal Pradesh,1.0,2003-2004,Elementary,Boys,2003
+Assam,0.2,2003-2004,Elementary,Boys,2003
+Bihar,1.3,2003-2004,Elementary,Boys,2003
+Chandigarh,7.3,2003-2004,Elementary,Boys,2003
+Chhattisgarh,5.6,2003-2004,Elementary,Boys,2003
+Dadra and Nagar Haveli,1.8,2003-2004,Elementary,Boys,2003
+Daman and Diu,6.4,2003-2004,Elementary,Boys,2003
+Delhi,2.2,2003-2004,Elementary,Boys,2003
+Goa,2.7,2003-2004,Elementary,Boys,2003
+Gujarat,1.3,2003-2004,Elementary,Boys,2003
+Haryana,4.2,2003-2004,Elementary,Boys,2003
+Himachal Pradesh,5.4,2003-2004,Elementary,Boys,2003
+Jammu and Kashmir,5.6,2003-2004,Elementary,Boys,2003
+Jharkhand,1.0,2003-2004,Elementary,Boys,2003
+Karnataka,5.5,2003-2004,Elementary,Boys,2003
+Kerala,6.8,2003-2004,Elementary,Boys,2003
+Ladakh,1.2,2003-2004,Elementary,Boys,2003
+Lakshadweep,2.3,2003-2004,Elementary,Boys,2003
+Madhya Pradesh,7.3,2003-2004,Elementary,Boys,2003
+Maharashtra,5.3,2003-2004,Elementary,Boys,2003
+Manipur,0.6,2003-2004,Elementary,Boys,2003
+Meghalaya,7.1,2003-2004,Elementary,Boys,2003
+Mizoram,2.5,2003-2004,Elementary,Boys,2003
+Nagaland,4.1,2003-2004,Elementary,Boys,2003
+Odisha,4.6,2003-2004,Elementary,Boys,2003
+Puducherry,4.3,2003-2004,Elementary,Boys,2003
+Punjab,6.3,2003-2004,Elementary,Boys,2003
+Rajasthan,6.9,2003-2004,Elementary,Boys,2003
+Sikkim,3.4,2003-2004,Elementary,Boys,2003
+Tamil Nadu,3.0,2003-2004,Elementary,Boys,2003
+Telangana,0.2,2003-2004,Elementary,Boys,2003
+Tripura,6.6,2003-2004,Elementary,Boys,2003
+Uttar Pradesh,0.3,2003-2004,Elementary,Boys,2003
+Uttarakhand,4.9,2003-2004,Elementary,Boys,2003
+West Bengal,1.5,2003-2004,Elementary,Boys,2003
+All India,1.0,2003-2004,Elementary,Boys,2003
+Andaman and Nicobar Islands,1.3,2003-2004,Elementary,Girls,2003
+Andhra Pradesh,5.8,2003-2004,Elementary,Girls,2003
+Arunachal Pradesh,1.4,2003-2004,Elementary,Girls,2003
+Assam,0.2,2003-2004,Elementary,Girls,2003
+Bihar,0.1,2003-2004,Elementary,Girls,2003
+Chandigarh,1.8,2003-2004,Elementary,Girls,2003
+Chhattisgarh,0.1,2003-2004,Elementary,Girls,2003
+Dadra and Nagar Haveli,4.4,2003-2004,Elementary,Girls,2003
+Daman and Diu,2.1,2003-2004,Elementary,Girls,2003
+Delhi,6.0,2003-2004,Elementary,Girls,2003
+Goa,1.3,2003-2004,Elementary,Girls,2003
+Gujarat,6.6,2003-2004,Elementary,Girls,2003
+Haryana,2.4,2003-2004,Elementary,Girls,2003
+Himachal Pradesh,7.8,2003-2004,Elementary,Girls,2003
+Jammu and Kashmir,3.3,2003-2004,Elementary,Girls,2003
+Jharkhand,4.1,2003-2004,Elementary,Girls,2003
+Karnataka,1.5,2003-2004,Elementary,Girls,2003
+Kerala,0.2,2003-2004,Elementary,Girls,2003
+Ladakh,1.6,2003-2004,Elementary,Girls,2003
+Lakshadweep,5.2,2003-2004,Elementary,Girls,2003
+Madhya Pradesh,5.2,2003-2004,Elementary,Girls,2003
+Maharashtra,1.0,2003-2004,Elementary,Girls,2003
+Manipur,3.8,2003-2004,Elementary,Girls,2003
+Meghalaya,1.6,2003-2004,Elementary,Girls,2003
+Mizoram,0.3,2003-2004,Elementary,Girls,2003
+Nagaland,0.7,2003-2004,Elementary,Girls,2003
+Odisha,2.3,2003-2004,Elementary,Girls,2003
+Puducherry,7.1,2003-2004,Elementary,Girls,2003
+Punjab,6.1,2003-2004,Elementary,Girls,2003
+Rajasthan,1.1,2003-2004,Elementary,Girls,2003
+Sikkim,5.3,2003-2004,Elementary,Girls,2003
+Tamil Nadu,5.0,2003-2004,Elementary,Girls,2003
+Telangana,1.8,2003-2004,Elementary,Girls,2003
+Tripura,3.8,2003-2004,Elementary,Girls,2003
+Uttar Pradesh,3.9,2003-2004,Elementary,Girls,2003
+Uttarakhand,7.6,2003-2004,Elementary,Girls,2003
+West Bengal,3.8,2003-2004,Elementary,Girls,2003
+All India,4.7,2003-2004,Elementary,Girls,2003
+Andaman and Nicobar Islands,24.8,2003-2004,Secondary,Boys,2003
+Andhra Pradesh,11.3,2003-2004,Secondary,Boys,2003
+Arunachal Pradesh,16.3,2003-2004,Secondary,Boys,2003
+Assam,19.6,2003-2004,Secondary,Boys,2003
+Bihar,23.0,2003-2004,Secondary,Boys,2003
+Chandigarh,20.1,2003-2004,Secondary,Boys,2003
+Chhattisgarh,22.0,2003-2004,Secondary,Boys,2003
+Dadra and Nagar Haveli,21.0,2003-2004,Secondary,Boys,2003
+Daman and Diu,20.0,2003-2004,Secondary,Boys,2003
+Delhi,17.4,2003-2004,Secondary,Boys,2003
+Goa,13.9,2003-2004,Secondary,Boys,2003
+Gujarat,13.6,2003-2004,Secondary,Boys,2003
+Haryana,19.5,2003-2004,Secondary,Boys,2003
+Himachal Pradesh,10.3,2003-2004,Secondary,Boys,2003
+Jammu and Kashmir,14.5,2003-2004,Secondary,Boys,2003
+Jharkhand,16.6,2003-2004,Secondary,Boys,2003
+Karnataka,15.9,2003-2004,Secondary,Boys,2003
+Kerala,10.1,2003-2004,Secondary,Boys,2003
+Ladakh,19.7,2003-2004,Secondary,Boys,2003
+Lakshadweep,15.4,2003-2004,Secondary,Boys,2003
+Madhya Pradesh,21.1,2003-2004,Secondary,Boys,2003
+Maharashtra,11.2,2003-2004,Secondary,Boys,2003
+Manipur,21.5,2003-2004,Secondary,Boys,2003
+Meghalaya,20.6,2003-2004,Secondary,Boys,2003
+Mizoram,11.2,2003-2004,Secondary,Boys,2003
+Nagaland,21.6,2003-2004,Secondary,Boys,2003
+Odisha,23.1,2003-2004,Secondary,Boys,2003
+Puducherry,10.5,2003-2004,Secondary,Boys,2003
+Punjab,23.5,2003-2004,Secondary,Boys,2003
+Rajasthan,16.5,2003-2004,Secondary,Boys,2003
+Sikkim,25.1,2003-2004,Secondary,Boys,2003
+Tamil Nadu,19.7,2003-2004,Secondary,Boys,2003
+Telangana,9.1,2003-2004,Secondary,Boys,2003
+Tripura,12.7,2003-2004,Secondary,Boys,2003
+Uttar Pradesh,14.3,2003-2004,Secondary,Boys,2003
+Uttarakhand,11.7,2003-2004,Secondary,Boys,2003
+West Bengal,18.9,2003-2004,Secondary,Boys,2003
+All India,19.9,2003-2004,Secondary,Boys,2003
+Andaman and Nicobar Islands,25.5,2003-2004,Secondary,Girls,2003
+Andhra Pradesh,18.9,2003-2004,Secondary,Girls,2003
+Arunachal Pradesh,10.9,2003-2004,Secondary,Girls,2003
+Assam,13.9,2003-2004,Secondary,Girls,2003
+Bihar,18.8,2003-2004,Secondary,Girls,2003
+Chandigarh,10.3,2003-2004,Secondary,Girls,2003
+Chhattisgarh,18.7,2003-2004,Secondary,Girls,2003
+Dadra and Nagar Haveli,11.0,2003-2004,Secondary,Girls,2003
+Daman and Diu,14.8,2003-2004,Secondary,Girls,2003
+Delhi,10.1,2003-2004,Secondary,Girls,2003
+Goa,21.4,2003-2004,Secondary,Girls,2003
+Gujarat,17.3,2003-2004,Secondary,Girls,2003
+Haryana,19.1,2003-2004,Secondary,Girls,2003
+Himachal Pradesh,25.3,2003-2004,Secondary,Girls,2003
+Jammu and Kashmir,26.0,2003-2004,Secondary,Girls,2003
+Jharkhand,19.3,2003-2004,Secondary,Girls,2003
+Karnataka,12.9,2003-2004,Secondary,Girls,2003
+Kerala,11.5,2003-2004,Secondary,Girls,2003
+Ladakh,11.2,2003-2004,Secondary,Girls,2003
+Lakshadweep,15.3,2003-2004,Secondary,Girls,2003
+Madhya Pradesh,21.0,2003-2004,Secondary,Girls,2003
+Maharashtra,21.1,2003-2004,Secondary,Girls,2003
+Manipur,24.5,2003-2004,Secondary,Girls,2003
+Meghalaya,17.3,2003-2004,Secondary,Girls,2003
+Mizoram,16.7,2003-2004,Secondary,Girls,2003
+Nagaland,14.9,2003-2004,Secondary,Girls,2003
+Odisha,15.0,2003-2004,Secondary,Girls,2003
+Puducherry,14.8,2003-2004,Secondary,Girls,2003
+Punjab,10.8,2003-2004,Secondary,Girls,2003
+Rajasthan,20.4,2003-2004,Secondary,Girls,2003
+Sikkim,19.1,2003-2004,Secondary,Girls,2003
+Tamil Nadu,21.7,2003-2004,Secondary,Girls,2003
+Telangana,18.7,2003-2004,Secondary,Girls,2003
+Tripura,14.1,2003-2004,Secondary,Girls,2003
+Uttar Pradesh,11.4,2003-2004,Secondary,Girls,2003
+Uttarakhand,17.9,2003-2004,Secondary,Girls,2003
+West Bengal,21.2,2003-2004,Secondary,Girls,2003
+All India,19.0,2003-2004,Secondary,Girls,2003
+Andaman and Nicobar Islands,6.4,2004-2005,Elementary,Boys,2004
+Andhra Pradesh,5.1,2004-2005,Elementary,Boys,2004
+Arunachal Pradesh,1.3,2004-2005,Elementary,Boys,2004
+Assam,0.8,2004-2005,Elementary,Boys,2004
+Bihar,6.2,2004-2005,Elementary,Boys,2004
+Chandigarh,7.8,2004-2005,Elementary,Boys,2004
+Chhattisgarh,3.6,2004-2005,Elementary,Boys,2004
+Dadra and Nagar Haveli,3.7,2004-2005,Elementary,Boys,2004
+Daman and Diu,0.9,2004-2005,Elementary,Boys,2004
+Delhi,1.9,2004-2005,Elementary,Boys,2004
+Goa,0.0,2004-2005,Elementary,Boys,2004
+Gujarat,2.9,2004-2005,Elementary,Boys,2004
+Haryana,7.1,2004-2005,Elementary,Boys,2004
+Himachal Pradesh,7.4,2004-2005,Elementary,Boys,2004
+Jammu and Kashmir,1.3,2004-2005,Elementary,Boys,2004
+Jharkhand,3.1,2004-2005,Elementary,Boys,2004
+Karnataka,7.3,2004-2005,Elementary,Boys,2004
+Kerala,1.2,2004-2005,Elementary,Boys,2004
+Ladakh,4.5,2004-2005,Elementary,Boys,2004
+Lakshadweep,2.1,2004-2005,Elementary,Boys,2004
+Madhya Pradesh,6.8,2004-2005,Elementary,Boys,2004
+Maharashtra,0.9,2004-2005,Elementary,Boys,2004
+Manipur,1.2,2004-2005,Elementary,Boys,2004
+Meghalaya,6.6,2004-2005,Elementary,Boys,2004
+Mizoram,3.2,2004-2005,Elementary,Boys,2004
+Nagaland,5.6,2004-2005,Elementary,Boys,2004
+Odisha,3.7,2004-2005,Elementary,Boys,2004
+Puducherry,3.7,2004-2005,Elementary,Boys,2004
+Punjab,6.5,2004-2005,Elementary,Boys,2004
+Rajasthan,6.2,2004-2005,Elementary,Boys,2004
+Sikkim,2.3,2004-2005,Elementary,Boys,2004
+Tamil Nadu,6.8,2004-2005,Elementary,Boys,2004
+Telangana,5.7,2004-2005,Elementary,Boys,2004
+Tripura,4.9,2004-2005,Elementary,Boys,2004
+Uttar Pradesh,7.5,2004-2005,Elementary,Boys,2004
+Uttarakhand,1.8,2004-2005,Elementary,Boys,2004
+West Bengal,2.1,2004-2005,Elementary,Boys,2004
+All India,4.2,2004-2005,Elementary,Boys,2004
+Andaman and Nicobar Islands,2.3,2004-2005,Elementary,Girls,2004
+Andhra Pradesh,6.3,2004-2005,Elementary,Girls,2004
+Arunachal Pradesh,1.5,2004-2005,Elementary,Girls,2004
+Assam,6.7,2004-2005,Elementary,Girls,2004
+Bihar,8.2,2004-2005,Elementary,Girls,2004
+Chandigarh,4.5,2004-2005,Elementary,Girls,2004
+Chhattisgarh,1.1,2004-2005,Elementary,Girls,2004
+Dadra and Nagar Haveli,3.8,2004-2005,Elementary,Girls,2004
+Daman and Diu,0.6,2004-2005,Elementary,Girls,2004
+Delhi,2.8,2004-2005,Elementary,Girls,2004
+Goa,7.6,2004-2005,Elementary,Girls,2004
+Gujarat,2.5,2004-2005,Elementary,Girls,2004
+Haryana,6.9,2004-2005,Elementary,Girls,2004
+Himachal Pradesh,2.0,2004-2005,Elementary,Girls,2004
+Jammu and Kashmir,7.4,2004-2005,Elementary,Girls,2004
+Jharkhand,3.0,2004-2005,Elementary,Girls,2004
+Karnataka,3.8,2004-2005,Elementary,Girls,2004
+Kerala,1.0,2004-2005,Elementary,Girls,2004
+Ladakh,1.0,2004-2005,Elementary,Girls,2004
+Lakshadweep,6.8,2004-2005,Elementary,Girls,2004
+Madhya Pradesh,3.8,2004-2005,Elementary,Girls,2004
+Maharashtra,4.2,2004-2005,Elementary,Girls,2004
+Manipur,1.9,2004-2005,Elementary,Girls,2004
+Meghalaya,4.6,2004-2005,Elementary,Girls,2004
+Mizoram,2.2,2004-2005,Elementary,Girls,2004
+Nagaland,4.2,2004-2005,Elementary,Girls,2004
+Odisha,3.0,2004-2005,Elementary,Girls,2004
+Puducherry,2.3,2004-2005,Elementary,Girls,2004
+Punjab,2.7,2004-2005,Elementary,Girls,2004
+Rajasthan,7.9,2004-2005,Elementary,Girls,2004
+Sikkim,5.0,2004-2005,Elementary,Girls,2004
+Tamil Nadu,3.9,2004-2005,Elementary,Girls,2004
+Telangana,8.1,2004-2005,Elementary,Girls,2004
+Tripura,0.0,2004-2005,Elementary,Girls,2004
+Uttar Pradesh,5.1,2004-2005,Elementary,Girls,2004
+Uttarakhand,7.6,2004-2005,Elementary,Girls,2004
+West Bengal,1.0,2004-2005,Elementary,Girls,2004
+All India,2.7,2004-2005,Elementary,Girls,2004
+Andaman and Nicobar Islands,13.4,2004-2005,Secondary,Boys,2004
+Andhra Pradesh,11.2,2004-2005,Secondary,Boys,2004
+Arunachal Pradesh,19.3,2004-2005,Secondary,Boys,2004
+Assam,13.2,2004-2005,Secondary,Boys,2004
+Bihar,23.0,2004-2005,Secondary,Boys,2004
+Chandigarh,16.7,2004-2005,Secondary,Boys,2004
+Chhattisgarh,15.6,2004-2005,Secondary,Boys,2004
+Dadra and Nagar Haveli,17.9,2004-2005,Secondary,Boys,2004
+Daman and Diu,18.6,2004-2005,Secondary,Boys,2004
+Delhi,14.6,2004-2005,Secondary,Boys,2004
+Goa,14.8,2004-2005,Secondary,Boys,2004
+Gujarat,14.7,2004-2005,Secondary,Boys,2004
+Haryana,15.4,2004-2005,Secondary,Boys,2004
+Himachal Pradesh,15.8,2004-2005,Secondary,Boys,2004
+Jammu and Kashmir,17.4,2004-2005,Secondary,Boys,2004
+Jharkhand,10.7,2004-2005,Secondary,Boys,2004
+Karnataka,14.7,2004-2005,Secondary,Boys,2004
+Kerala,12.4,2004-2005,Secondary,Boys,2004
+Ladakh,22.3,2004-2005,Secondary,Boys,2004
+Lakshadweep,14.5,2004-2005,Secondary,Boys,2004
+Madhya Pradesh,24.0,2004-2005,Secondary,Boys,2004
+Maharashtra,16.1,2004-2005,Secondary,Boys,2004
+Manipur,21.1,2004-2005,Secondary,Boys,2004
+Meghalaya,12.0,2004-2005,Secondary,Boys,2004
+Mizoram,21.6,2004-2005,Secondary,Boys,2004
+Nagaland,15.8,2004-2005,Secondary,Boys,2004
+Odisha,17.8,2004-2005,Secondary,Boys,2004
+Puducherry,19.7,2004-2005,Secondary,Boys,2004
+Punjab,13.1,2004-2005,Secondary,Boys,2004
+Rajasthan,21.6,2004-2005,Secondary,Boys,2004
+Sikkim,16.5,2004-2005,Secondary,Boys,2004
+Tamil Nadu,17.7,2004-2005,Secondary,Boys,2004
+Telangana,18.5,2004-2005,Secondary,Boys,2004
+Tripura,14.7,2004-2005,Secondary,Boys,2004
+Uttar Pradesh,12.0,2004-2005,Secondary,Boys,2004
+Uttarakhand,18.1,2004-2005,Secondary,Boys,2004
+West Bengal,20.0,2004-2005,Secondary,Boys,2004
+All India,20.0,2004-2005,Secondary,Boys,2004
+Andaman and Nicobar Islands,15.4,2004-2005,Secondary,Girls,2004
+Andhra Pradesh,12.9,2004-2005,Secondary,Girls,2004
+Arunachal Pradesh,23.6,2004-2005,Secondary,Girls,2004
+Assam,10.9,2004-2005,Secondary,Girls,2004
+Bihar,20.4,2004-2005,Secondary,Girls,2004
+Chandigarh,19.7,2004-2005,Secondary,Girls,2004
+Chhattisgarh,19.6,2004-2005,Secondary,Girls,2004
+Dadra and Nagar Haveli,16.0,2004-2005,Secondary,Girls,2004
+Daman and Diu,10.7,2004-2005,Secondary,Girls,2004
+Delhi,23.4,2004-2005,Secondary,Girls,2004
+Goa,21.0,2004-2005,Secondary,Girls,2004
+Gujarat,20.1,2004-2005,Secondary,Girls,2004
+Haryana,18.0,2004-2005,Secondary,Girls,2004
+Himachal Pradesh,20.4,2004-2005,Secondary,Girls,2004
+Jammu and Kashmir,16.4,2004-2005,Secondary,Girls,2004
+Jharkhand,15.3,2004-2005,Secondary,Girls,2004
+Karnataka,22.7,2004-2005,Secondary,Girls,2004
+Kerala,19.5,2004-2005,Secondary,Girls,2004
+Ladakh,14.9,2004-2005,Secondary,Girls,2004
+Lakshadweep,15.6,2004-2005,Secondary,Girls,2004
+Madhya Pradesh,11.1,2004-2005,Secondary,Girls,2004
+Maharashtra,18.5,2004-2005,Secondary,Girls,2004
+Manipur,24.1,2004-2005,Secondary,Girls,2004
+Meghalaya,16.3,2004-2005,Secondary,Girls,2004
+Mizoram,11.5,2004-2005,Secondary,Girls,2004
+Nagaland,17.8,2004-2005,Secondary,Girls,2004
+Odisha,10.9,2004-2005,Secondary,Girls,2004
+Puducherry,19.7,2004-2005,Secondary,Girls,2004
+Punjab,10.2,2004-2005,Secondary,Girls,2004
+Rajasthan,17.8,2004-2005,Secondary,Girls,2004
+Sikkim,16.0,2004-2005,Secondary,Girls,2004
+Tamil Nadu,22.0,2004-2005,Secondary,Girls,2004
+Telangana,18.4,2004-2005,Secondary,Girls,2004
+Tripura,12.4,2004-2005,Secondary,Girls,2004
+Uttar Pradesh,17.0,2004-2005,Secondary,Girls,2004
+Uttarakhand,14.3,2004-2005,Secondary,Girls,2004
+West Bengal,24.5,2004-2005,Secondary,Girls,2004
+All India,24.0,2004-2005,Secondary,Girls,2004
+Andaman and Nicobar Islands,3.5,2005-2006,Elementary,Boys,2005
+Andhra Pradesh,1.3,2005-2006,Elementary,Boys,2005
+Arunachal Pradesh,0.5,2005-2006,Elementary,Boys,2005
+Assam,1.6,2005-2006,Elementary,Boys,2005
+Bihar,0.6,2005-2006,Elementary,Boys,2005
+Chandigarh,6.1,2005-2006,Elementary,Boys,2005
+Chhattisgarh,6.6,2005-2006,Elementary,Boys,2005
+Dadra and Nagar Haveli,0.4,2005-2006,Elementary,Boys,2005
+Daman and Diu,5.1,2005-2006,Elementary,Boys,2005
+Delhi,2.9,2005-2006,Elementary,Boys,2005
+Goa,3.5,2005-2006,Elementary,Boys,2005
+Gujarat,0.8,2005-2006,Elementary,Boys,2005
+Haryana,2.3,2005-2006,Elementary,Boys,2005
+Himachal Pradesh,3.7,2005-2006,Elementary,Boys,2005
+Jammu and Kashmir,6.6,2005-2006,Elementary,Boys,2005
+Jharkhand,6.3,2005-2006,Elementary,Boys,2005
+Karnataka,6.7,2005-2006,Elementary,Boys,2005
+Kerala,3.9,2005-2006,Elementary,Boys,2005
+Ladakh,2.6,2005-2006,Elementary,Boys,2005
+Lakshadweep,2.4,2005-2006,Elementary,Boys,2005
+Madhya Pradesh,2.2,2005-2006,Elementary,Boys,2005
+Maharashtra,3.5,2005-2006,Elementary,Boys,2005
+Manipur,4.6,2005-2006,Elementary,Boys,2005
+Meghalaya,6.9,2005-2006,Elementary,Boys,2005
+Mizoram,1.6,2005-2006,Elementary,Boys,2005
+Nagaland,1.0,2005-2006,Elementary,Boys,2005
+Odisha,6.7,2005-2006,Elementary,Boys,2005
+Puducherry,2.0,2005-2006,Elementary,Boys,2005
+Punjab,6.6,2005-2006,Elementary,Boys,2005
+Rajasthan,8.3,2005-2006,Elementary,Boys,2005
+Sikkim,4.6,2005-2006,Elementary,Boys,2005
+Tamil Nadu,1.1,2005-2006,Elementary,Boys,2005
+Telangana,6.9,2005-2006,Elementary,Boys,2005
+Tripura,4.3,2005-2006,Elementary,Boys,2005
+Uttar Pradesh,6.2,2005-2006,Elementary,Boys,2005
+Uttarakhand,1.8,2005-2006,Elementary,Boys,2005
+West Bengal,4.4,2005-2006,Elementary,Boys,2005
+All India,3.7,2005-2006,Elementary,Boys,2005
+Andaman and Nicobar Islands,4.2,2005-2006,Elementary,Girls,2005
+Andhra Pradesh,5.2,2005-2006,Elementary,Girls,2005
+Arunachal Pradesh,1.5,2005-2006,Elementary,Girls,2005
+Assam,3.0,2005-2006,Elementary,Girls,2005
+Bihar,0.3,2005-2006,Elementary,Girls,2005
+Chandigarh,4.2,2005-2006,Elementary,Girls,2005
+Chhattisgarh,5.6,2005-2006,Elementary,Girls,2005
+Dadra and Nagar Haveli,1.2,2005-2006,Elementary,Girls,2005
+Daman and Diu,5.7,2005-2006,Elementary,Girls,2005
+Delhi,3.7,2005-2006,Elementary,Girls,2005
+Goa,6.0,2005-2006,Elementary,Girls,2005
+Gujarat,1.7,2005-2006,Elementary,Girls,2005
+Haryana,3.0,2005-2006,Elementary,Girls,2005
+Himachal Pradesh,4.6,2005-2006,Elementary,Girls,2005
+Jammu and Kashmir,6.5,2005-2006,Elementary,Girls,2005
+Jharkhand,6.4,2005-2006,Elementary,Girls,2005
+Karnataka,7.0,2005-2006,Elementary,Girls,2005
+Kerala,5.4,2005-2006,Elementary,Girls,2005
+Ladakh,5.5,2005-2006,Elementary,Girls,2005
+Lakshadweep,6.6,2005-2006,Elementary,Girls,2005
+Madhya Pradesh,2.1,2005-2006,Elementary,Girls,2005
+Maharashtra,1.8,2005-2006,Elementary,Girls,2005
+Manipur,0.3,2005-2006,Elementary,Girls,2005
+Meghalaya,5.6,2005-2006,Elementary,Girls,2005
+Mizoram,3.1,2005-2006,Elementary,Girls,2005
+Nagaland,3.9,2005-2006,Elementary,Girls,2005
+Odisha,4.5,2005-2006,Elementary,Girls,2005
+Puducherry,4.8,2005-2006,Elementary,Girls,2005
+Punjab,7.3,2005-2006,Elementary,Girls,2005
+Rajasthan,6.2,2005-2006,Elementary,Girls,2005
+Sikkim,2.3,2005-2006,Elementary,Girls,2005
+Tamil Nadu,1.0,2005-2006,Elementary,Girls,2005
+Telangana,0.2,2005-2006,Elementary,Girls,2005
+Tripura,7.3,2005-2006,Elementary,Girls,2005
+Uttar Pradesh,3.1,2005-2006,Elementary,Girls,2005
+Uttarakhand,1.2,2005-2006,Elementary,Girls,2005
+West Bengal,0.9,2005-2006,Elementary,Girls,2005
+All India,3.1,2005-2006,Elementary,Girls,2005
+Andaman and Nicobar Islands,11.7,2005-2006,Secondary,Boys,2005
+Andhra Pradesh,22.5,2005-2006,Secondary,Boys,2005
+Arunachal Pradesh,15.3,2005-2006,Secondary,Boys,2005
+Assam,14.0,2005-2006,Secondary,Boys,2005
+Bihar,22.9,2005-2006,Secondary,Boys,2005
+Chandigarh,16.1,2005-2006,Secondary,Boys,2005
+Chhattisgarh,24.2,2005-2006,Secondary,Boys,2005
+Dadra and Nagar Haveli,17.4,2005-2006,Secondary,Boys,2005
+Daman and Diu,9.9,2005-2006,Secondary,Boys,2005
+Delhi,20.8,2005-2006,Secondary,Boys,2005
+Goa,21.9,2005-2006,Secondary,Boys,2005
+Gujarat,22.2,2005-2006,Secondary,Boys,2005
+Haryana,15.9,2005-2006,Secondary,Boys,2005
+Himachal Pradesh,11.8,2005-2006,Secondary,Boys,2005
+Jammu and Kashmir,9.4,2005-2006,Secondary,Boys,2005
+Jharkhand,26.2,2005-2006,Secondary,Boys,2005
+Karnataka,17.0,2005-2006,Secondary,Boys,2005
+Kerala,21.3,2005-2006,Secondary,Boys,2005
+Ladakh,14.7,2005-2006,Secondary,Boys,2005
+Lakshadweep,20.8,2005-2006,Secondary,Boys,2005
+Madhya Pradesh,14.2,2005-2006,Secondary,Boys,2005
+Maharashtra,14.2,2005-2006,Secondary,Boys,2005
+Manipur,21.0,2005-2006,Secondary,Boys,2005
+Meghalaya,21.8,2005-2006,Secondary,Boys,2005
+Mizoram,18.2,2005-2006,Secondary,Boys,2005
+Nagaland,11.9,2005-2006,Secondary,Boys,2005
+Odisha,15.3,2005-2006,Secondary,Boys,2005
+Puducherry,21.1,2005-2006,Secondary,Boys,2005
+Punjab,14.4,2005-2006,Secondary,Boys,2005
+Rajasthan,17.0,2005-2006,Secondary,Boys,2005
+Sikkim,15.4,2005-2006,Secondary,Boys,2005
+Tamil Nadu,13.2,2005-2006,Secondary,Boys,2005
+Telangana,23.0,2005-2006,Secondary,Boys,2005
+Tripura,21.0,2005-2006,Secondary,Boys,2005
+Uttar Pradesh,15.6,2005-2006,Secondary,Boys,2005
+Uttarakhand,21.5,2005-2006,Secondary,Boys,2005
+West Bengal,10.4,2005-2006,Secondary,Boys,2005
+All India,19.2,2005-2006,Secondary,Boys,2005
+Andaman and Nicobar Islands,15.7,2005-2006,Secondary,Girls,2005
+Andhra Pradesh,13.9,2005-2006,Secondary,Girls,2005
+Arunachal Pradesh,21.9,2005-2006,Secondary,Girls,2005
+Assam,12.5,2005-2006,Secondary,Girls,2005
+Bihar,10.2,2005-2006,Secondary,Girls,2005
+Chandigarh,15.4,2005-2006,Secondary,Girls,2005
+Chhattisgarh,21.8,2005-2006,Secondary,Girls,2005
+Dadra and Nagar Haveli,21.9,2005-2006,Secondary,Girls,2005
+Daman and Diu,15.8,2005-2006,Secondary,Girls,2005
+Delhi,21.9,2005-2006,Secondary,Girls,2005
+Goa,20.6,2005-2006,Secondary,Girls,2005
+Gujarat,19.0,2005-2006,Secondary,Girls,2005
+Haryana,21.5,2005-2006,Secondary,Girls,2005
+Himachal Pradesh,20.3,2005-2006,Secondary,Girls,2005
+Jammu and Kashmir,12.8,2005-2006,Secondary,Girls,2005
+Jharkhand,19.5,2005-2006,Secondary,Girls,2005
+Karnataka,15.7,2005-2006,Secondary,Girls,2005
+Kerala,13.5,2005-2006,Secondary,Girls,2005
+Ladakh,15.8,2005-2006,Secondary,Girls,2005
+Lakshadweep,21.5,2005-2006,Secondary,Girls,2005
+Madhya Pradesh,13.3,2005-2006,Secondary,Girls,2005
+Maharashtra,13.7,2005-2006,Secondary,Girls,2005
+Manipur,21.4,2005-2006,Secondary,Girls,2005
+Meghalaya,20.7,2005-2006,Secondary,Girls,2005
+Mizoram,11.3,2005-2006,Secondary,Girls,2005
+Nagaland,19.4,2005-2006,Secondary,Girls,2005
+Odisha,16.4,2005-2006,Secondary,Girls,2005
+Puducherry,16.2,2005-2006,Secondary,Girls,2005
+Punjab,16.9,2005-2006,Secondary,Girls,2005
+Rajasthan,16.4,2005-2006,Secondary,Girls,2005
+Sikkim,12.6,2005-2006,Secondary,Girls,2005
+Tamil Nadu,17.9,2005-2006,Secondary,Girls,2005
+Telangana,12.9,2005-2006,Secondary,Girls,2005
+Tripura,16.4,2005-2006,Secondary,Girls,2005
+Uttar Pradesh,20.9,2005-2006,Secondary,Girls,2005
+Uttarakhand,21.3,2005-2006,Secondary,Girls,2005
+West Bengal,20.0,2005-2006,Secondary,Girls,2005
+All India,9.4,2005-2006,Secondary,Girls,2005
+Andaman and Nicobar Islands,1.0,2006-2007,Elementary,Boys,2006
+Andhra Pradesh,2.7,2006-2007,Elementary,Boys,2006
+Arunachal Pradesh,0.3,2006-2007,Elementary,Boys,2006
+Assam,4.2,2006-2007,Elementary,Boys,2006
+Bihar,0.2,2006-2007,Elementary,Boys,2006
+Chandigarh,1.9,2006-2007,Elementary,Boys,2006
+Chhattisgarh,4.8,2006-2007,Elementary,Boys,2006
+Dadra and Nagar Haveli,1.9,2006-2007,Elementary,Boys,2006
+Daman and Diu,2.2,2006-2007,Elementary,Boys,2006
+Delhi,6.9,2006-2007,Elementary,Boys,2006
+Goa,0.6,2006-2007,Elementary,Boys,2006
+Gujarat,1.2,2006-2007,Elementary,Boys,2006
+Haryana,5.1,2006-2007,Elementary,Boys,2006
+Himachal Pradesh,5.0,2006-2007,Elementary,Boys,2006
+Jammu and Kashmir,6.8,2006-2007,Elementary,Boys,2006
+Jharkhand,4.3,2006-2007,Elementary,Boys,2006
+Karnataka,6.4,2006-2007,Elementary,Boys,2006
+Kerala,3.6,2006-2007,Elementary,Boys,2006
+Ladakh,6.0,2006-2007,Elementary,Boys,2006
+Lakshadweep,1.1,2006-2007,Elementary,Boys,2006
+Madhya Pradesh,4.7,2006-2007,Elementary,Boys,2006
+Maharashtra,1.3,2006-2007,Elementary,Boys,2006
+Manipur,0.5,2006-2007,Elementary,Boys,2006
+Meghalaya,4.9,2006-2007,Elementary,Boys,2006
+Mizoram,7.6,2006-2007,Elementary,Boys,2006
+Nagaland,3.5,2006-2007,Elementary,Boys,2006
+Odisha,3.1,2006-2007,Elementary,Boys,2006
+Puducherry,0.9,2006-2007,Elementary,Boys,2006
+Punjab,4.2,2006-2007,Elementary,Boys,2006
+Rajasthan,0.4,2006-2007,Elementary,Boys,2006
+Sikkim,1.5,2006-2007,Elementary,Boys,2006
+Tamil Nadu,0.6,2006-2007,Elementary,Boys,2006
+Telangana,7.1,2006-2007,Elementary,Boys,2006
+Tripura,0.6,2006-2007,Elementary,Boys,2006
+Uttar Pradesh,0.7,2006-2007,Elementary,Boys,2006
+Uttarakhand,4.7,2006-2007,Elementary,Boys,2006
+West Bengal,6.5,2006-2007,Elementary,Boys,2006
+All India,6.3,2006-2007,Elementary,Boys,2006
+Andaman and Nicobar Islands,2.2,2006-2007,Elementary,Girls,2006
+Andhra Pradesh,3.7,2006-2007,Elementary,Girls,2006
+Arunachal Pradesh,3.9,2006-2007,Elementary,Girls,2006
+Assam,2.4,2006-2007,Elementary,Girls,2006
+Bihar,5.1,2006-2007,Elementary,Girls,2006
+Chandigarh,4.9,2006-2007,Elementary,Girls,2006
+Chhattisgarh,1.1,2006-2007,Elementary,Girls,2006
+Dadra and Nagar Haveli,4.0,2006-2007,Elementary,Girls,2006
+Daman and Diu,0.9,2006-2007,Elementary,Girls,2006
+Delhi,5.8,2006-2007,Elementary,Girls,2006
+Goa,6.1,2006-2007,Elementary,Girls,2006
+Gujarat,1.6,2006-2007,Elementary,Girls,2006
+Haryana,2.1,2006-2007,Elementary,Girls,2006
+Himachal Pradesh,5.3,2006-2007,Elementary,Girls,2006
+Jammu and Kashmir,2.5,2006-2007,Elementary,Girls,2006
+Jharkhand,5.6,2006-2007,Elementary,Girls,2006
+Karnataka,5.3,2006-2007,Elementary,Girls,2006
+Kerala,3.2,2006-2007,Elementary,Girls,2006
+Ladakh,7.2,2006-2007,Elementary,Girls,2006
+Lakshadweep,3.7,2006-2007,Elementary,Girls,2006
+Madhya Pradesh,0.1,2006-2007,Elementary,Girls,2006
+Maharashtra,3.7,2006-2007,Elementary,Girls,2006
+Manipur,3.1,2006-2007,Elementary,Girls,2006
+Meghalaya,1.8,2006-2007,Elementary,Girls,2006
+Mizoram,3.6,2006-2007,Elementary,Girls,2006
+Nagaland,1.0,2006-2007,Elementary,Girls,2006
+Odisha,4.5,2006-2007,Elementary,Girls,2006
+Puducherry,1.9,2006-2007,Elementary,Girls,2006
+Punjab,3.3,2006-2007,Elementary,Girls,2006
+Rajasthan,1.8,2006-2007,Elementary,Girls,2006
+Sikkim,2.6,2006-2007,Elementary,Girls,2006
+Tamil Nadu,3.3,2006-2007,Elementary,Girls,2006
+Telangana,2.9,2006-2007,Elementary,Girls,2006
+Tripura,4.0,2006-2007,Elementary,Girls,2006
+Uttar Pradesh,1.9,2006-2007,Elementary,Girls,2006
+Uttarakhand,0.4,2006-2007,Elementary,Girls,2006
+West Bengal,4.8,2006-2007,Elementary,Girls,2006
+All India,0.0,2006-2007,Elementary,Girls,2006
+Andaman and Nicobar Islands,12.5,2006-2007,Secondary,Boys,2006
+Andhra Pradesh,15.9,2006-2007,Secondary,Boys,2006
+Arunachal Pradesh,14.4,2006-2007,Secondary,Boys,2006
+Assam,11.4,2006-2007,Secondary,Boys,2006
+Bihar,21.7,2006-2007,Secondary,Boys,2006
+Chandigarh,18.8,2006-2007,Secondary,Boys,2006
+Chhattisgarh,18.7,2006-2007,Secondary,Boys,2006
+Dadra and Nagar Haveli,18.3,2006-2007,Secondary,Boys,2006
+Daman and Diu,20.8,2006-2007,Secondary,Boys,2006
+Delhi,14.5,2006-2007,Secondary,Boys,2006
+Goa,10.4,2006-2007,Secondary,Boys,2006
+Gujarat,9.9,2006-2007,Secondary,Boys,2006
+Haryana,10.0,2006-2007,Secondary,Boys,2006
+Himachal Pradesh,14.0,2006-2007,Secondary,Boys,2006
+Jammu and Kashmir,18.7,2006-2007,Secondary,Boys,2006
+Jharkhand,18.7,2006-2007,Secondary,Boys,2006
+Karnataka,14.6,2006-2007,Secondary,Boys,2006
+Kerala,13.9,2006-2007,Secondary,Boys,2006
+Ladakh,21.8,2006-2007,Secondary,Boys,2006
+Lakshadweep,24.3,2006-2007,Secondary,Boys,2006
+Madhya Pradesh,22.0,2006-2007,Secondary,Boys,2006
+Maharashtra,21.4,2006-2007,Secondary,Boys,2006
+Manipur,12.6,2006-2007,Secondary,Boys,2006
+Meghalaya,13.7,2006-2007,Secondary,Boys,2006
+Mizoram,21.3,2006-2007,Secondary,Boys,2006
+Nagaland,19.1,2006-2007,Secondary,Boys,2006
+Odisha,15.7,2006-2007,Secondary,Boys,2006
+Puducherry,10.4,2006-2007,Secondary,Boys,2006
+Punjab,16.0,2006-2007,Secondary,Boys,2006
+Rajasthan,21.8,2006-2007,Secondary,Boys,2006
+Sikkim,11.0,2006-2007,Secondary,Boys,2006
+Tamil Nadu,23.5,2006-2007,Secondary,Boys,2006
+Telangana,11.1,2006-2007,Secondary,Boys,2006
+Tripura,18.1,2006-2007,Secondary,Boys,2006
+Uttar Pradesh,15.1,2006-2007,Secondary,Boys,2006
+Uttarakhand,17.3,2006-2007,Secondary,Boys,2006
+West Bengal,18.4,2006-2007,Secondary,Boys,2006
+All India,10.8,2006-2007,Secondary,Boys,2006
+Andaman and Nicobar Islands,12.3,2006-2007,Secondary,Girls,2006
+Andhra Pradesh,16.9,2006-2007,Secondary,Girls,2006
+Arunachal Pradesh,14.9,2006-2007,Secondary,Girls,2006
+Assam,22.0,2006-2007,Secondary,Girls,2006
+Bihar,18.3,2006-2007,Secondary,Girls,2006
+Chandigarh,16.0,2006-2007,Secondary,Girls,2006
+Chhattisgarh,9.7,2006-2007,Secondary,Girls,2006
+Dadra and Nagar Haveli,24.5,2006-2007,Secondary,Girls,2006
+Daman and Diu,15.9,2006-2007,Secondary,Girls,2006
+Delhi,16.4,2006-2007,Secondary,Girls,2006
+Goa,18.0,2006-2007,Secondary,Girls,2006
+Gujarat,12.3,2006-2007,Secondary,Girls,2006
+Haryana,16.7,2006-2007,Secondary,Girls,2006
+Himachal Pradesh,16.1,2006-2007,Secondary,Girls,2006
+Jammu and Kashmir,14.6,2006-2007,Secondary,Girls,2006
+Jharkhand,11.5,2006-2007,Secondary,Girls,2006
+Karnataka,13.6,2006-2007,Secondary,Girls,2006
+Kerala,17.3,2006-2007,Secondary,Girls,2006
+Ladakh,18.3,2006-2007,Secondary,Girls,2006
+Lakshadweep,10.7,2006-2007,Secondary,Girls,2006
+Madhya Pradesh,20.9,2006-2007,Secondary,Girls,2006
+Maharashtra,15.3,2006-2007,Secondary,Girls,2006
+Manipur,14.2,2006-2007,Secondary,Girls,2006
+Meghalaya,15.1,2006-2007,Secondary,Girls,2006
+Mizoram,20.4,2006-2007,Secondary,Girls,2006
+Nagaland,22.3,2006-2007,Secondary,Girls,2006
+Odisha,9.5,2006-2007,Secondary,Girls,2006
+Puducherry,16.3,2006-2007,Secondary,Girls,2006
+Punjab,13.7,2006-2007,Secondary,Girls,2006
+Rajasthan,10.9,2006-2007,Secondary,Girls,2006
+Sikkim,15.2,2006-2007,Secondary,Girls,2006
+Tamil Nadu,22.1,2006-2007,Secondary,Girls,2006
+Telangana,15.2,2006-2007,Secondary,Girls,2006
+Tripura,20.1,2006-2007,Secondary,Girls,2006
+Uttar Pradesh,19.1,2006-2007,Secondary,Girls,2006
+Uttarakhand,20.2,2006-2007,Secondary,Girls,2006
+West Bengal,16.7,2006-2007,Secondary,Girls,2006
+All India,12.1,2006-2007,Secondary,Girls,2006
+Andaman and Nicobar Islands,0.3,2007-2008,Elementary,Boys,2007
+Andhra Pradesh,5.1,2007-2008,Elementary,Boys,2007
+Arunachal Pradesh,0.1,2007-2008,Elementary,Boys,2007
+Assam,3.2,2007-2008,Elementary,Boys,2007
+Bihar,5.2,2007-2008,Elementary,Boys,2007
+Chandigarh,3.0,2007-2008,Elementary,Boys,2007
+Chhattisgarh,6.6,2007-2008,Elementary,Boys,2007
+Dadra and Nagar Haveli,1.6,2007-2008,Elementary,Boys,2007
+Daman and Diu,5.2,2007-2008,Elementary,Boys,2007
+Delhi,1.5,2007-2008,Elementary,Boys,2007
+Goa,6.2,2007-2008,Elementary,Boys,2007
+Gujarat,0.6,2007-2008,Elementary,Boys,2007
+Haryana,6.1,2007-2008,Elementary,Boys,2007
+Himachal Pradesh,0.9,2007-2008,Elementary,Boys,2007
+Jammu and Kashmir,5.4,2007-2008,Elementary,Boys,2007
+Jharkhand,1.5,2007-2008,Elementary,Boys,2007
+Karnataka,6.5,2007-2008,Elementary,Boys,2007
+Kerala,5.4,2007-2008,Elementary,Boys,2007
+Ladakh,1.7,2007-2008,Elementary,Boys,2007
+Lakshadweep,1.6,2007-2008,Elementary,Boys,2007
+Madhya Pradesh,3.6,2007-2008,Elementary,Boys,2007
+Maharashtra,6.0,2007-2008,Elementary,Boys,2007
+Manipur,7.2,2007-2008,Elementary,Boys,2007
+Meghalaya,2.6,2007-2008,Elementary,Boys,2007
+Mizoram,1.0,2007-2008,Elementary,Boys,2007
+Nagaland,6.3,2007-2008,Elementary,Boys,2007
+Odisha,0.6,2007-2008,Elementary,Boys,2007
+Puducherry,3.4,2007-2008,Elementary,Boys,2007
+Punjab,4.4,2007-2008,Elementary,Boys,2007
+Rajasthan,1.2,2007-2008,Elementary,Boys,2007
+Sikkim,3.9,2007-2008,Elementary,Boys,2007
+Tamil Nadu,1.9,2007-2008,Elementary,Boys,2007
+Telangana,0.2,2007-2008,Elementary,Boys,2007
+Tripura,4.1,2007-2008,Elementary,Boys,2007
+Uttar Pradesh,3.0,2007-2008,Elementary,Boys,2007
+Uttarakhand,5.1,2007-2008,Elementary,Boys,2007
+West Bengal,1.4,2007-2008,Elementary,Boys,2007
+All India,0.1,2007-2008,Elementary,Boys,2007
+Andaman and Nicobar Islands,5.9,2007-2008,Elementary,Girls,2007
+Andhra Pradesh,3.4,2007-2008,Elementary,Girls,2007
+Arunachal Pradesh,0.8,2007-2008,Elementary,Girls,2007
+Assam,4.2,2007-2008,Elementary,Girls,2007
+Bihar,4.7,2007-2008,Elementary,Girls,2007
+Chandigarh,5.1,2007-2008,Elementary,Girls,2007
+Chhattisgarh,2.4,2007-2008,Elementary,Girls,2007
+Dadra and Nagar Haveli,4.1,2007-2008,Elementary,Girls,2007
+Daman and Diu,3.2,2007-2008,Elementary,Girls,2007
+Delhi,5.6,2007-2008,Elementary,Girls,2007
+Goa,3.2,2007-2008,Elementary,Girls,2007
+Gujarat,0.7,2007-2008,Elementary,Girls,2007
+Haryana,7.1,2007-2008,Elementary,Girls,2007
+Himachal Pradesh,0.2,2007-2008,Elementary,Girls,2007
+Jammu and Kashmir,4.8,2007-2008,Elementary,Girls,2007
+Jharkhand,3.7,2007-2008,Elementary,Girls,2007
+Karnataka,3.5,2007-2008,Elementary,Girls,2007
+Kerala,5.6,2007-2008,Elementary,Girls,2007
+Ladakh,1.1,2007-2008,Elementary,Girls,2007
+Lakshadweep,3.6,2007-2008,Elementary,Girls,2007
+Madhya Pradesh,2.0,2007-2008,Elementary,Girls,2007
+Maharashtra,2.4,2007-2008,Elementary,Girls,2007
+Manipur,7.4,2007-2008,Elementary,Girls,2007
+Meghalaya,2.5,2007-2008,Elementary,Girls,2007
+Mizoram,3.6,2007-2008,Elementary,Girls,2007
+Nagaland,0.1,2007-2008,Elementary,Girls,2007
+Odisha,3.8,2007-2008,Elementary,Girls,2007
+Puducherry,2.6,2007-2008,Elementary,Girls,2007
+Punjab,2.0,2007-2008,Elementary,Girls,2007
+Rajasthan,4.1,2007-2008,Elementary,Girls,2007
+Sikkim,1.9,2007-2008,Elementary,Girls,2007
+Tamil Nadu,0.0,2007-2008,Elementary,Girls,2007
+Telangana,2.5,2007-2008,Elementary,Girls,2007
+Tripura,6.3,2007-2008,Elementary,Girls,2007
+Uttar Pradesh,1.0,2007-2008,Elementary,Girls,2007
+Uttarakhand,1.7,2007-2008,Elementary,Girls,2007
+West Bengal,6.0,2007-2008,Elementary,Girls,2007
+All India,1.5,2007-2008,Elementary,Girls,2007
+Andaman and Nicobar Islands,17.1,2007-2008,Secondary,Boys,2007
+Andhra Pradesh,11.6,2007-2008,Secondary,Boys,2007
+Arunachal Pradesh,18.6,2007-2008,Secondary,Boys,2007
+Assam,20.8,2007-2008,Secondary,Boys,2007
+Bihar,11.7,2007-2008,Secondary,Boys,2007
+Chandigarh,20.0,2007-2008,Secondary,Boys,2007
+Chhattisgarh,12.6,2007-2008,Secondary,Boys,2007
+Dadra and Nagar Haveli,14.8,2007-2008,Secondary,Boys,2007
+Daman and Diu,21.0,2007-2008,Secondary,Boys,2007
+Delhi,21.7,2007-2008,Secondary,Boys,2007
+Goa,18.6,2007-2008,Secondary,Boys,2007
+Gujarat,16.3,2007-2008,Secondary,Boys,2007
+Haryana,22.0,2007-2008,Secondary,Boys,2007
+Himachal Pradesh,10.8,2007-2008,Secondary,Boys,2007
+Jammu and Kashmir,10.2,2007-2008,Secondary,Boys,2007
+Jharkhand,20.9,2007-2008,Secondary,Boys,2007
+Karnataka,11.7,2007-2008,Secondary,Boys,2007
+Kerala,24.0,2007-2008,Secondary,Boys,2007
+Ladakh,10.6,2007-2008,Secondary,Boys,2007
+Lakshadweep,16.0,2007-2008,Secondary,Boys,2007
+Madhya Pradesh,9.8,2007-2008,Secondary,Boys,2007
+Maharashtra,19.8,2007-2008,Secondary,Boys,2007
+Manipur,18.5,2007-2008,Secondary,Boys,2007
+Meghalaya,11.7,2007-2008,Secondary,Boys,2007
+Mizoram,15.7,2007-2008,Secondary,Boys,2007
+Nagaland,16.5,2007-2008,Secondary,Boys,2007
+Odisha,11.4,2007-2008,Secondary,Boys,2007
+Puducherry,15.9,2007-2008,Secondary,Boys,2007
+Punjab,11.3,2007-2008,Secondary,Boys,2007
+Rajasthan,11.2,2007-2008,Secondary,Boys,2007
+Sikkim,10.2,2007-2008,Secondary,Boys,2007
+Tamil Nadu,14.4,2007-2008,Secondary,Boys,2007
+Telangana,19.9,2007-2008,Secondary,Boys,2007
+Tripura,16.5,2007-2008,Secondary,Boys,2007
+Uttar Pradesh,21.0,2007-2008,Secondary,Boys,2007
+Uttarakhand,20.5,2007-2008,Secondary,Boys,2007
+West Bengal,21.1,2007-2008,Secondary,Boys,2007
+All India,23.5,2007-2008,Secondary,Boys,2007
+Andaman and Nicobar Islands,22.4,2007-2008,Secondary,Girls,2007
+Andhra Pradesh,16.8,2007-2008,Secondary,Girls,2007
+Arunachal Pradesh,18.0,2007-2008,Secondary,Girls,2007
+Assam,13.3,2007-2008,Secondary,Girls,2007
+Bihar,18.0,2007-2008,Secondary,Girls,2007
+Chandigarh,22.4,2007-2008,Secondary,Girls,2007
+Chhattisgarh,9.9,2007-2008,Secondary,Girls,2007
+Dadra and Nagar Haveli,19.8,2007-2008,Secondary,Girls,2007
+Daman and Diu,18.1,2007-2008,Secondary,Girls,2007
+Delhi,20.1,2007-2008,Secondary,Girls,2007
+Goa,20.7,2007-2008,Secondary,Girls,2007
+Gujarat,21.9,2007-2008,Secondary,Girls,2007
+Haryana,11.7,2007-2008,Secondary,Girls,2007
+Himachal Pradesh,20.7,2007-2008,Secondary,Girls,2007
+Jammu and Kashmir,9.3,2007-2008,Secondary,Girls,2007
+Jharkhand,9.6,2007-2008,Secondary,Girls,2007
+Karnataka,20.5,2007-2008,Secondary,Girls,2007
+Kerala,21.8,2007-2008,Secondary,Girls,2007
+Ladakh,17.7,2007-2008,Secondary,Girls,2007
+Lakshadweep,20.8,2007-2008,Secondary,Girls,2007
+Madhya Pradesh,25.2,2007-2008,Secondary,Girls,2007
+Maharashtra,19.0,2007-2008,Secondary,Girls,2007
+Manipur,18.8,2007-2008,Secondary,Girls,2007
+Meghalaya,9.8,2007-2008,Secondary,Girls,2007
+Mizoram,23.0,2007-2008,Secondary,Girls,2007
+Nagaland,18.9,2007-2008,Secondary,Girls,2007
+Odisha,13.8,2007-2008,Secondary,Girls,2007
+Puducherry,18.5,2007-2008,Secondary,Girls,2007
+Punjab,20.7,2007-2008,Secondary,Girls,2007
+Rajasthan,12.7,2007-2008,Secondary,Girls,2007
+Sikkim,13.7,2007-2008,Secondary,Girls,2007
+Tamil Nadu,21.5,2007-2008,Secondary,Girls,2007
+Telangana,15.5,2007-2008,Secondary,Girls,2007
+Tripura,15.0,2007-2008,Secondary,Girls,2007
+Uttar Pradesh,17.9,2007-2008,Secondary,Girls,2007
+Uttarakhand,20.4,2007-2008,Secondary,Girls,2007
+West Bengal,22.9,2007-2008,Secondary,Girls,2007
+All India,12.7,2007-2008,Secondary,Girls,2007
+Andaman and Nicobar Islands,5.9,2008-2009,Elementary,Boys,2008
+Andhra Pradesh,7.4,2008-2009,Elementary,Boys,2008
+Arunachal Pradesh,4.0,2008-2009,Elementary,Boys,2008
+Assam,0.1,2008-2009,Elementary,Boys,2008
+Bihar,2.9,2008-2009,Elementary,Boys,2008
+Chandigarh,0.4,2008-2009,Elementary,Boys,2008
+Chhattisgarh,0.6,2008-2009,Elementary,Boys,2008
+Dadra and Nagar Haveli,5.6,2008-2009,Elementary,Boys,2008
+Daman and Diu,2.8,2008-2009,Elementary,Boys,2008
+Delhi,1.4,2008-2009,Elementary,Boys,2008
+Goa,5.5,2008-2009,Elementary,Boys,2008
+Gujarat,4.1,2008-2009,Elementary,Boys,2008
+Haryana,1.6,2008-2009,Elementary,Boys,2008
+Himachal Pradesh,5.3,2008-2009,Elementary,Boys,2008
+Jammu and Kashmir,5.5,2008-2009,Elementary,Boys,2008
+Jharkhand,4.2,2008-2009,Elementary,Boys,2008
+Karnataka,4.0,2008-2009,Elementary,Boys,2008
+Kerala,3.1,2008-2009,Elementary,Boys,2008
+Ladakh,4.6,2008-2009,Elementary,Boys,2008
+Lakshadweep,5.9,2008-2009,Elementary,Boys,2008
+Madhya Pradesh,6.0,2008-2009,Elementary,Boys,2008
+Maharashtra,2.3,2008-2009,Elementary,Boys,2008
+Manipur,2.0,2008-2009,Elementary,Boys,2008
+Meghalaya,0.9,2008-2009,Elementary,Boys,2008
+Mizoram,3.9,2008-2009,Elementary,Boys,2008
+Nagaland,4.8,2008-2009,Elementary,Boys,2008
+Odisha,4.7,2008-2009,Elementary,Boys,2008
+Puducherry,5.0,2008-2009,Elementary,Boys,2008
+Punjab,0.4,2008-2009,Elementary,Boys,2008
+Rajasthan,4.8,2008-2009,Elementary,Boys,2008
+Sikkim,1.0,2008-2009,Elementary,Boys,2008
+Tamil Nadu,1.9,2008-2009,Elementary,Boys,2008
+Telangana,1.5,2008-2009,Elementary,Boys,2008
+Tripura,4.6,2008-2009,Elementary,Boys,2008
+Uttar Pradesh,0.9,2008-2009,Elementary,Boys,2008
+Uttarakhand,1.8,2008-2009,Elementary,Boys,2008
+West Bengal,6.3,2008-2009,Elementary,Boys,2008
+All India,3.2,2008-2009,Elementary,Boys,2008
+Andaman and Nicobar Islands,5.9,2008-2009,Elementary,Girls,2008
+Andhra Pradesh,3.1,2008-2009,Elementary,Girls,2008
+Arunachal Pradesh,2.0,2008-2009,Elementary,Girls,2008
+Assam,1.9,2008-2009,Elementary,Girls,2008
+Bihar,6.6,2008-2009,Elementary,Girls,2008
+Chandigarh,3.5,2008-2009,Elementary,Girls,2008
+Chhattisgarh,4.3,2008-2009,Elementary,Girls,2008
+Dadra and Nagar Haveli,1.3,2008-2009,Elementary,Girls,2008
+Daman and Diu,2.9,2008-2009,Elementary,Girls,2008
+Delhi,1.0,2008-2009,Elementary,Girls,2008
+Goa,1.4,2008-2009,Elementary,Girls,2008
+Gujarat,3.5,2008-2009,Elementary,Girls,2008
+Haryana,1.2,2008-2009,Elementary,Girls,2008
+Himachal Pradesh,0.3,2008-2009,Elementary,Girls,2008
+Jammu and Kashmir,2.4,2008-2009,Elementary,Girls,2008
+Jharkhand,7.3,2008-2009,Elementary,Girls,2008
+Karnataka,6.0,2008-2009,Elementary,Girls,2008
+Kerala,3.1,2008-2009,Elementary,Girls,2008
+Ladakh,4.0,2008-2009,Elementary,Girls,2008
+Lakshadweep,5.8,2008-2009,Elementary,Girls,2008
+Madhya Pradesh,6.4,2008-2009,Elementary,Girls,2008
+Maharashtra,3.5,2008-2009,Elementary,Girls,2008
+Manipur,5.2,2008-2009,Elementary,Girls,2008
+Meghalaya,4.2,2008-2009,Elementary,Girls,2008
+Mizoram,2.2,2008-2009,Elementary,Girls,2008
+Nagaland,1.9,2008-2009,Elementary,Girls,2008
+Odisha,2.1,2008-2009,Elementary,Girls,2008
+Puducherry,0.3,2008-2009,Elementary,Girls,2008
+Punjab,4.5,2008-2009,Elementary,Girls,2008
+Rajasthan,6.4,2008-2009,Elementary,Girls,2008
+Sikkim,0.1,2008-2009,Elementary,Girls,2008
+Tamil Nadu,4.0,2008-2009,Elementary,Girls,2008
+Telangana,1.8,2008-2009,Elementary,Girls,2008
+Tripura,1.3,2008-2009,Elementary,Girls,2008
+Uttar Pradesh,6.7,2008-2009,Elementary,Girls,2008
+Uttarakhand,7.2,2008-2009,Elementary,Girls,2008
+West Bengal,4.9,2008-2009,Elementary,Girls,2008
+All India,5.5,2008-2009,Elementary,Girls,2008
+Andaman and Nicobar Islands,10.8,2008-2009,Secondary,Boys,2008
+Andhra Pradesh,14.5,2008-2009,Secondary,Boys,2008
+Arunachal Pradesh,15.5,2008-2009,Secondary,Boys,2008
+Assam,20.6,2008-2009,Secondary,Boys,2008
+Bihar,8.8,2008-2009,Secondary,Boys,2008
+Chandigarh,13.3,2008-2009,Secondary,Boys,2008
+Chhattisgarh,11.5,2008-2009,Secondary,Boys,2008
+Dadra and Nagar Haveli,12.4,2008-2009,Secondary,Boys,2008
+Daman and Diu,10.8,2008-2009,Secondary,Boys,2008
+Delhi,12.5,2008-2009,Secondary,Boys,2008
+Goa,22.9,2008-2009,Secondary,Boys,2008
+Gujarat,9.7,2008-2009,Secondary,Boys,2008
+Haryana,19.3,2008-2009,Secondary,Boys,2008
+Himachal Pradesh,15.7,2008-2009,Secondary,Boys,2008
+Jammu and Kashmir,9.6,2008-2009,Secondary,Boys,2008
+Jharkhand,9.7,2008-2009,Secondary,Boys,2008
+Karnataka,21.8,2008-2009,Secondary,Boys,2008
+Kerala,18.2,2008-2009,Secondary,Boys,2008
+Ladakh,17.9,2008-2009,Secondary,Boys,2008
+Lakshadweep,14.8,2008-2009,Secondary,Boys,2008
+Madhya Pradesh,16.0,2008-2009,Secondary,Boys,2008
+Maharashtra,21.8,2008-2009,Secondary,Boys,2008
+Manipur,11.3,2008-2009,Secondary,Boys,2008
+Meghalaya,11.9,2008-2009,Secondary,Boys,2008
+Mizoram,13.7,2008-2009,Secondary,Boys,2008
+Nagaland,21.2,2008-2009,Secondary,Boys,2008
+Odisha,9.9,2008-2009,Secondary,Boys,2008
+Puducherry,13.9,2008-2009,Secondary,Boys,2008
+Punjab,23.8,2008-2009,Secondary,Boys,2008
+Rajasthan,9.8,2008-2009,Secondary,Boys,2008
+Sikkim,18.2,2008-2009,Secondary,Boys,2008
+Tamil Nadu,18.3,2008-2009,Secondary,Boys,2008
+Telangana,13.0,2008-2009,Secondary,Boys,2008
+Tripura,14.8,2008-2009,Secondary,Boys,2008
+Uttar Pradesh,14.1,2008-2009,Secondary,Boys,2008
+Uttarakhand,12.1,2008-2009,Secondary,Boys,2008
+West Bengal,21.5,2008-2009,Secondary,Boys,2008
+All India,11.8,2008-2009,Secondary,Boys,2008
+Andaman and Nicobar Islands,10.4,2008-2009,Secondary,Girls,2008
+Andhra Pradesh,12.9,2008-2009,Secondary,Girls,2008
+Arunachal Pradesh,11.5,2008-2009,Secondary,Girls,2008
+Assam,19.1,2008-2009,Secondary,Girls,2008
+Bihar,16.7,2008-2009,Secondary,Girls,2008
+Chandigarh,18.7,2008-2009,Secondary,Girls,2008
+Chhattisgarh,16.7,2008-2009,Secondary,Girls,2008
+Dadra and Nagar Haveli,19.8,2008-2009,Secondary,Girls,2008
+Daman and Diu,9.8,2008-2009,Secondary,Girls,2008
+Delhi,12.8,2008-2009,Secondary,Girls,2008
+Goa,17.4,2008-2009,Secondary,Girls,2008
+Gujarat,17.6,2008-2009,Secondary,Girls,2008
+Haryana,20.4,2008-2009,Secondary,Girls,2008
+Himachal Pradesh,15.6,2008-2009,Secondary,Girls,2008
+Jammu and Kashmir,12.6,2008-2009,Secondary,Girls,2008
+Jharkhand,9.0,2008-2009,Secondary,Girls,2008
+Karnataka,22.2,2008-2009,Secondary,Girls,2008
+Kerala,11.3,2008-2009,Secondary,Girls,2008
+Ladakh,14.4,2008-2009,Secondary,Girls,2008
+Lakshadweep,10.2,2008-2009,Secondary,Girls,2008
+Madhya Pradesh,14.7,2008-2009,Secondary,Girls,2008
+Maharashtra,16.7,2008-2009,Secondary,Girls,2008
+Manipur,20.7,2008-2009,Secondary,Girls,2008
+Meghalaya,9.7,2008-2009,Secondary,Girls,2008
+Mizoram,19.2,2008-2009,Secondary,Girls,2008
+Nagaland,21.0,2008-2009,Secondary,Girls,2008
+Odisha,16.5,2008-2009,Secondary,Girls,2008
+Puducherry,9.6,2008-2009,Secondary,Girls,2008
+Punjab,20.7,2008-2009,Secondary,Girls,2008
+Rajasthan,19.0,2008-2009,Secondary,Girls,2008
+Sikkim,9.2,2008-2009,Secondary,Girls,2008
+Tamil Nadu,17.3,2008-2009,Secondary,Girls,2008
+Telangana,10.5,2008-2009,Secondary,Girls,2008
+Tripura,9.3,2008-2009,Secondary,Girls,2008
+Uttar Pradesh,17.9,2008-2009,Secondary,Girls,2008
+Uttarakhand,10.2,2008-2009,Secondary,Girls,2008
+West Bengal,15.8,2008-2009,Secondary,Girls,2008
+All India,15.7,2008-2009,Secondary,Girls,2008
+Andaman and Nicobar Islands,2.3,2009-2010,Elementary,Boys,2009
+Andhra Pradesh,5.8,2009-2010,Elementary,Boys,2009
+Arunachal Pradesh,1.7,2009-2010,Elementary,Boys,2009
+Assam,1.1,2009-2010,Elementary,Boys,2009
+Bihar,7.0,2009-2010,Elementary,Boys,2009
+Chandigarh,4.8,2009-2010,Elementary,Boys,2009
+Chhattisgarh,0.3,2009-2010,Elementary,Boys,2009
+Dadra and Nagar Haveli,5.7,2009-2010,Elementary,Boys,2009
+Daman and Diu,4.4,2009-2010,Elementary,Boys,2009
+Delhi,6.1,2009-2010,Elementary,Boys,2009
+Goa,6.3,2009-2010,Elementary,Boys,2009
+Gujarat,3.6,2009-2010,Elementary,Boys,2009
+Haryana,2.2,2009-2010,Elementary,Boys,2009
+Himachal Pradesh,2.5,2009-2010,Elementary,Boys,2009
+Jammu and Kashmir,2.1,2009-2010,Elementary,Boys,2009
+Jharkhand,6.5,2009-2010,Elementary,Boys,2009
+Karnataka,5.4,2009-2010,Elementary,Boys,2009
+Kerala,1.9,2009-2010,Elementary,Boys,2009
+Ladakh,3.7,2009-2010,Elementary,Boys,2009
+Lakshadweep,2.9,2009-2010,Elementary,Boys,2009
+Madhya Pradesh,4.7,2009-2010,Elementary,Boys,2009
+Maharashtra,2.0,2009-2010,Elementary,Boys,2009
+Manipur,4.9,2009-2010,Elementary,Boys,2009
+Meghalaya,2.5,2009-2010,Elementary,Boys,2009
+Mizoram,0.4,2009-2010,Elementary,Boys,2009
+Nagaland,1.9,2009-2010,Elementary,Boys,2009
+Odisha,2.7,2009-2010,Elementary,Boys,2009
+Puducherry,1.6,2009-2010,Elementary,Boys,2009
+Punjab,2.8,2009-2010,Elementary,Boys,2009
+Rajasthan,5.2,2009-2010,Elementary,Boys,2009
+Sikkim,1.7,2009-2010,Elementary,Boys,2009
+Tamil Nadu,2.1,2009-2010,Elementary,Boys,2009
+Telangana,3.4,2009-2010,Elementary,Boys,2009
+Tripura,3.5,2009-2010,Elementary,Boys,2009
+Uttar Pradesh,5.2,2009-2010,Elementary,Boys,2009
+Uttarakhand,1.9,2009-2010,Elementary,Boys,2009
+West Bengal,1.2,2009-2010,Elementary,Boys,2009
+All India,5.1,2009-2010,Elementary,Boys,2009
+Andaman and Nicobar Islands,6.8,2009-2010,Elementary,Girls,2009
+Andhra Pradesh,0.9,2009-2010,Elementary,Girls,2009
+Arunachal Pradesh,1.2,2009-2010,Elementary,Girls,2009
+Assam,3.4,2009-2010,Elementary,Girls,2009
+Bihar,5.6,2009-2010,Elementary,Girls,2009
+Chandigarh,1.3,2009-2010,Elementary,Girls,2009
+Chhattisgarh,7.3,2009-2010,Elementary,Girls,2009
+Dadra and Nagar Haveli,7.2,2009-2010,Elementary,Girls,2009
+Daman and Diu,2.9,2009-2010,Elementary,Girls,2009
+Delhi,0.8,2009-2010,Elementary,Girls,2009
+Goa,5.4,2009-2010,Elementary,Girls,2009
+Gujarat,2.4,2009-2010,Elementary,Girls,2009
+Haryana,1.8,2009-2010,Elementary,Girls,2009
+Himachal Pradesh,2.7,2009-2010,Elementary,Girls,2009
+Jammu and Kashmir,4.2,2009-2010,Elementary,Girls,2009
+Jharkhand,1.2,2009-2010,Elementary,Girls,2009
+Karnataka,0.3,2009-2010,Elementary,Girls,2009
+Kerala,6.8,2009-2010,Elementary,Girls,2009
+Ladakh,6.2,2009-2010,Elementary,Girls,2009
+Lakshadweep,4.9,2009-2010,Elementary,Girls,2009
+Madhya Pradesh,6.2,2009-2010,Elementary,Girls,2009
+Maharashtra,0.3,2009-2010,Elementary,Girls,2009
+Manipur,0.4,2009-2010,Elementary,Girls,2009
+Meghalaya,5.6,2009-2010,Elementary,Girls,2009
+Mizoram,5.8,2009-2010,Elementary,Girls,2009
+Nagaland,0.3,2009-2010,Elementary,Girls,2009
+Odisha,5.1,2009-2010,Elementary,Girls,2009
+Puducherry,1.5,2009-2010,Elementary,Girls,2009
+Punjab,1.5,2009-2010,Elementary,Girls,2009
+Rajasthan,6.8,2009-2010,Elementary,Girls,2009
+Sikkim,1.8,2009-2010,Elementary,Girls,2009
+Tamil Nadu,2.1,2009-2010,Elementary,Girls,2009
+Telangana,6.2,2009-2010,Elementary,Girls,2009
+Tripura,4.9,2009-2010,Elementary,Girls,2009
+Uttar Pradesh,3.4,2009-2010,Elementary,Girls,2009
+Uttarakhand,0.7,2009-2010,Elementary,Girls,2009
+West Bengal,6.7,2009-2010,Elementary,Girls,2009
+All India,1.1,2009-2010,Elementary,Girls,2009
+Andaman and Nicobar Islands,18.7,2009-2010,Secondary,Boys,2009
+Andhra Pradesh,21.5,2009-2010,Secondary,Boys,2009
+Arunachal Pradesh,16.1,2009-2010,Secondary,Boys,2009
+Assam,18.9,2009-2010,Secondary,Boys,2009
+Bihar,17.4,2009-2010,Secondary,Boys,2009
+Chandigarh,15.3,2009-2010,Secondary,Boys,2009
+Chhattisgarh,19.4,2009-2010,Secondary,Boys,2009
+Dadra and Nagar Haveli,10.9,2009-2010,Secondary,Boys,2009
+Daman and Diu,15.7,2009-2010,Secondary,Boys,2009
+Delhi,19.7,2009-2010,Secondary,Boys,2009
+Goa,8.4,2009-2010,Secondary,Boys,2009
+Gujarat,12.2,2009-2010,Secondary,Boys,2009
+Haryana,10.0,2009-2010,Secondary,Boys,2009
+Himachal Pradesh,12.1,2009-2010,Secondary,Boys,2009
+Jammu and Kashmir,9.1,2009-2010,Secondary,Boys,2009
+Jharkhand,15.1,2009-2010,Secondary,Boys,2009
+Karnataka,16.4,2009-2010,Secondary,Boys,2009
+Kerala,15.3,2009-2010,Secondary,Boys,2009
+Ladakh,15.5,2009-2010,Secondary,Boys,2009
+Lakshadweep,8.9,2009-2010,Secondary,Boys,2009
+Madhya Pradesh,14.9,2009-2010,Secondary,Boys,2009
+Maharashtra,22.9,2009-2010,Secondary,Boys,2009
+Manipur,13.6,2009-2010,Secondary,Boys,2009
+Meghalaya,21.3,2009-2010,Secondary,Boys,2009
+Mizoram,9.5,2009-2010,Secondary,Boys,2009
+Nagaland,14.1,2009-2010,Secondary,Boys,2009
+Odisha,10.4,2009-2010,Secondary,Boys,2009
+Puducherry,21.5,2009-2010,Secondary,Boys,2009
+Punjab,17.0,2009-2010,Secondary,Boys,2009
+Rajasthan,22.5,2009-2010,Secondary,Boys,2009
+Sikkim,17.0,2009-2010,Secondary,Boys,2009
+Tamil Nadu,13.8,2009-2010,Secondary,Boys,2009
+Telangana,12.3,2009-2010,Secondary,Boys,2009
+Tripura,16.2,2009-2010,Secondary,Boys,2009
+Uttar Pradesh,18.5,2009-2010,Secondary,Boys,2009
+Uttarakhand,17.2,2009-2010,Secondary,Boys,2009
+West Bengal,15.7,2009-2010,Secondary,Boys,2009
+All India,17.3,2009-2010,Secondary,Boys,2009
+Andaman and Nicobar Islands,16.8,2009-2010,Secondary,Girls,2009
+Andhra Pradesh,11.6,2009-2010,Secondary,Girls,2009
+Arunachal Pradesh,14.1,2009-2010,Secondary,Girls,2009
+Assam,13.4,2009-2010,Secondary,Girls,2009
+Bihar,15.9,2009-2010,Secondary,Girls,2009
+Chandigarh,12.5,2009-2010,Secondary,Girls,2009
+Chhattisgarh,14.2,2009-2010,Secondary,Girls,2009
+Dadra and Nagar Haveli,9.5,2009-2010,Secondary,Girls,2009
+Daman and Diu,14.4,2009-2010,Secondary,Girls,2009
+Delhi,13.4,2009-2010,Secondary,Girls,2009
+Goa,19.3,2009-2010,Secondary,Girls,2009
+Gujarat,15.4,2009-2010,Secondary,Girls,2009
+Haryana,13.0,2009-2010,Secondary,Girls,2009
+Himachal Pradesh,9.9,2009-2010,Secondary,Girls,2009
+Jammu and Kashmir,15.1,2009-2010,Secondary,Girls,2009
+Jharkhand,16.6,2009-2010,Secondary,Girls,2009
+Karnataka,12.2,2009-2010,Secondary,Girls,2009
+Kerala,18.2,2009-2010,Secondary,Girls,2009
+Ladakh,9.9,2009-2010,Secondary,Girls,2009
+Lakshadweep,19.5,2009-2010,Secondary,Girls,2009
+Madhya Pradesh,15.4,2009-2010,Secondary,Girls,2009
+Maharashtra,13.3,2009-2010,Secondary,Girls,2009
+Manipur,13.6,2009-2010,Secondary,Girls,2009
+Meghalaya,13.9,2009-2010,Secondary,Girls,2009
+Mizoram,18.4,2009-2010,Secondary,Girls,2009
+Nagaland,8.6,2009-2010,Secondary,Girls,2009
+Odisha,16.6,2009-2010,Secondary,Girls,2009
+Puducherry,14.6,2009-2010,Secondary,Girls,2009
+Punjab,17.7,2009-2010,Secondary,Girls,2009
+Rajasthan,13.2,2009-2010,Secondary,Girls,2009
+Sikkim,16.9,2009-2010,Secondary,Girls,2009
+Tamil Nadu,17.4,2009-2010,Secondary,Girls,2009
+Telangana,15.1,2009-2010,Secondary,Girls,2009
+Tripura,10.7,2009-2010,Secondary,Girls,2009
+Uttar Pradesh,21.8,2009-2010,Secondary,Girls,2009
+Uttarakhand,11.9,2009-2010,Secondary,Girls,2009
+West Bengal,19.7,2009-2010,Secondary,Girls,2009
+All India,11.7,2009-2010,Secondary,Girls,2009
+Andaman and Nicobar Islands,3.6,2010-2011,Elementary,Boys,2010
+Andhra Pradesh,5.2,2010-2011,Elementary,Boys,2010
+Arunachal Pradesh,6.5,2010-2011,Elementary,Boys,2010
+Assam,1.9,2010-2011,Elementary,Boys,2010
+Bihar,0.8,2010-2011,Elementary,Boys,2010
+Chandigarh,6.8,2010-2011,Elementary,Boys,2010
+Chhattisgarh,6.0,2010-2011,Elementary,Boys,2010
+Dadra and Nagar Haveli,4.0,2010-2011,Elementary,Boys,2010
+Daman and Diu,4.6,2010-2011,Elementary,Boys,2010
+Delhi,3.7,2010-2011,Elementary,Boys,2010
+Goa,3.8,2010-2011,Elementary,Boys,2010
+Gujarat,3.3,2010-2011,Elementary,Boys,2010
+Haryana,6.0,2010-2011,Elementary,Boys,2010
+Himachal Pradesh,2.6,2010-2011,Elementary,Boys,2010
+Jammu and Kashmir,1.0,2010-2011,Elementary,Boys,2010
+Jharkhand,7.0,2010-2011,Elementary,Boys,2010
+Karnataka,5.5,2010-2011,Elementary,Boys,2010
+Kerala,1.7,2010-2011,Elementary,Boys,2010
+Ladakh,6.0,2010-2011,Elementary,Boys,2010
+Lakshadweep,5.8,2010-2011,Elementary,Boys,2010
+Madhya Pradesh,3.9,2010-2011,Elementary,Boys,2010
+Maharashtra,1.1,2010-2011,Elementary,Boys,2010
+Manipur,5.8,2010-2011,Elementary,Boys,2010
+Meghalaya,6.1,2010-2011,Elementary,Boys,2010
+Mizoram,5.5,2010-2011,Elementary,Boys,2010
+Nagaland,5.4,2010-2011,Elementary,Boys,2010
+Odisha,4.9,2010-2011,Elementary,Boys,2010
+Puducherry,3.0,2010-2011,Elementary,Boys,2010
+Punjab,2.7,2010-2011,Elementary,Boys,2010
+Rajasthan,0.0,2010-2011,Elementary,Boys,2010
+Sikkim,6.0,2010-2011,Elementary,Boys,2010
+Tamil Nadu,0.1,2010-2011,Elementary,Boys,2010
+Telangana,4.4,2010-2011,Elementary,Boys,2010
+Tripura,4.4,2010-2011,Elementary,Boys,2010
+Uttar Pradesh,0.8,2010-2011,Elementary,Boys,2010
+Uttarakhand,6.6,2010-2011,Elementary,Boys,2010
+West Bengal,1.6,2010-2011,Elementary,Boys,2010
+All India,3.7,2010-2011,Elementary,Boys,2010
+Andaman and Nicobar Islands,2.1,2010-2011,Elementary,Girls,2010
+Andhra Pradesh,2.6,2010-2011,Elementary,Girls,2010
+Arunachal Pradesh,1.2,2010-2011,Elementary,Girls,2010
+Assam,4.2,2010-2011,Elementary,Girls,2010
+Bihar,1.5,2010-2011,Elementary,Girls,2010
+Chandigarh,0.3,2010-2011,Elementary,Girls,2010
+Chhattisgarh,2.7,2010-2011,Elementary,Girls,2010
+Dadra and Nagar Haveli,0.6,2010-2011,Elementary,Girls,2010
+Daman and Diu,3.5,2010-2011,Elementary,Girls,2010
+Delhi,6.6,2010-2011,Elementary,Girls,2010
+Goa,4.8,2010-2011,Elementary,Girls,2010
+Gujarat,4.1,2010-2011,Elementary,Girls,2010
+Haryana,2.0,2010-2011,Elementary,Girls,2010
+Himachal Pradesh,3.4,2010-2011,Elementary,Girls,2010
+Jammu and Kashmir,4.3,2010-2011,Elementary,Girls,2010
+Jharkhand,0.5,2010-2011,Elementary,Girls,2010
+Karnataka,2.6,2010-2011,Elementary,Girls,2010
+Kerala,0.0,2010-2011,Elementary,Girls,2010
+Ladakh,2.8,2010-2011,Elementary,Girls,2010
+Lakshadweep,0.8,2010-2011,Elementary,Girls,2010
+Madhya Pradesh,0.6,2010-2011,Elementary,Girls,2010
+Maharashtra,3.6,2010-2011,Elementary,Girls,2010
+Manipur,2.5,2010-2011,Elementary,Girls,2010
+Meghalaya,2.7,2010-2011,Elementary,Girls,2010
+Mizoram,0.9,2010-2011,Elementary,Girls,2010
+Nagaland,3.1,2010-2011,Elementary,Girls,2010
+Odisha,1.2,2010-2011,Elementary,Girls,2010
+Puducherry,6.5,2010-2011,Elementary,Girls,2010
+Punjab,1.2,2010-2011,Elementary,Girls,2010
+Rajasthan,3.1,2010-2011,Elementary,Girls,2010
+Sikkim,1.7,2010-2011,Elementary,Girls,2010
+Tamil Nadu,5.6,2010-2011,Elementary,Girls,2010
+Telangana,2.2,2010-2011,Elementary,Girls,2010
+Tripura,4.0,2010-2011,Elementary,Girls,2010
+Uttar Pradesh,5.2,2010-2011,Elementary,Girls,2010
+Uttarakhand,4.2,2010-2011,Elementary,Girls,2010
+West Bengal,2.9,2010-2011,Elementary,Girls,2010
+All India,0.1,2010-2011,Elementary,Girls,2010
+Andaman and Nicobar Islands,12.9,2010-2011,Secondary,Boys,2010
+Andhra Pradesh,20.5,2010-2011,Secondary,Boys,2010
+Arunachal Pradesh,14.4,2010-2011,Secondary,Boys,2010
+Assam,19.8,2010-2011,Secondary,Boys,2010
+Bihar,17.0,2010-2011,Secondary,Boys,2010
+Chandigarh,16.5,2010-2011,Secondary,Boys,2010
+Chhattisgarh,11.6,2010-2011,Secondary,Boys,2010
+Dadra and Nagar Haveli,20.0,2010-2011,Secondary,Boys,2010
+Daman and Diu,9.1,2010-2011,Secondary,Boys,2010
+Delhi,13.2,2010-2011,Secondary,Boys,2010
+Goa,16.7,2010-2011,Secondary,Boys,2010
+Gujarat,8.9,2010-2011,Secondary,Boys,2010
+Haryana,10.6,2010-2011,Secondary,Boys,2010
+Himachal Pradesh,10.3,2010-2011,Secondary,Boys,2010
+Jammu and Kashmir,17.8,2010-2011,Secondary,Boys,2010
+Jharkhand,16.7,2010-2011,Secondary,Boys,2010
+Karnataka,16.3,2010-2011,Secondary,Boys,2010
+Kerala,12.5,2010-2011,Secondary,Boys,2010
+Ladakh,18.7,2010-2011,Secondary,Boys,2010
+Lakshadweep,10.0,2010-2011,Secondary,Boys,2010
+Madhya Pradesh,12.2,2010-2011,Secondary,Boys,2010
+Maharashtra,10.4,2010-2011,Secondary,Boys,2010
+Manipur,15.2,2010-2011,Secondary,Boys,2010
+Meghalaya,19.4,2010-2011,Secondary,Boys,2010
+Mizoram,11.6,2010-2011,Secondary,Boys,2010
+Nagaland,21.0,2010-2011,Secondary,Boys,2010
+Odisha,20.6,2010-2011,Secondary,Boys,2010
+Puducherry,9.7,2010-2011,Secondary,Boys,2010
+Punjab,17.2,2010-2011,Secondary,Boys,2010
+Rajasthan,14.9,2010-2011,Secondary,Boys,2010
+Sikkim,15.3,2010-2011,Secondary,Boys,2010
+Tamil Nadu,11.1,2010-2011,Secondary,Boys,2010
+Telangana,10.1,2010-2011,Secondary,Boys,2010
+Tripura,18.4,2010-2011,Secondary,Boys,2010
+Uttar Pradesh,22.9,2010-2011,Secondary,Boys,2010
+Uttarakhand,11.2,2010-2011,Secondary,Boys,2010
+West Bengal,13.1,2010-2011,Secondary,Boys,2010
+All India,12.3,2010-2011,Secondary,Boys,2010
+Andaman and Nicobar Islands,9.4,2010-2011,Secondary,Girls,2010
+Andhra Pradesh,19.6,2010-2011,Secondary,Girls,2010
+Arunachal Pradesh,11.4,2010-2011,Secondary,Girls,2010
+Assam,12.6,2010-2011,Secondary,Girls,2010
+Bihar,14.0,2010-2011,Secondary,Girls,2010
+Chandigarh,11.5,2010-2011,Secondary,Girls,2010
+Chhattisgarh,16.8,2010-2011,Secondary,Girls,2010
+Dadra and Nagar Haveli,13.7,2010-2011,Secondary,Girls,2010
+Daman and Diu,8.8,2010-2011,Secondary,Girls,2010
+Delhi,22.2,2010-2011,Secondary,Girls,2010
+Goa,21.2,2010-2011,Secondary,Girls,2010
+Gujarat,21.3,2010-2011,Secondary,Girls,2010
+Haryana,19.4,2010-2011,Secondary,Girls,2010
+Himachal Pradesh,9.3,2010-2011,Secondary,Girls,2010
+Jammu and Kashmir,8.8,2010-2011,Secondary,Girls,2010
+Jharkhand,7.6,2010-2011,Secondary,Girls,2010
+Karnataka,15.1,2010-2011,Secondary,Girls,2010
+Kerala,10.9,2010-2011,Secondary,Girls,2010
+Ladakh,15.4,2010-2011,Secondary,Girls,2010
+Lakshadweep,15.2,2010-2011,Secondary,Girls,2010
+Madhya Pradesh,14.5,2010-2011,Secondary,Girls,2010
+Maharashtra,18.9,2010-2011,Secondary,Girls,2010
+Manipur,12.3,2010-2011,Secondary,Girls,2010
+Meghalaya,21.3,2010-2011,Secondary,Girls,2010
+Mizoram,16.1,2010-2011,Secondary,Girls,2010
+Nagaland,20.1,2010-2011,Secondary,Girls,2010
+Odisha,18.7,2010-2011,Secondary,Girls,2010
+Puducherry,18.5,2010-2011,Secondary,Girls,2010
+Punjab,8.3,2010-2011,Secondary,Girls,2010
+Rajasthan,11.5,2010-2011,Secondary,Girls,2010
+Sikkim,12.2,2010-2011,Secondary,Girls,2010
+Tamil Nadu,13.5,2010-2011,Secondary,Girls,2010
+Telangana,9.7,2010-2011,Secondary,Girls,2010
+Tripura,9.2,2010-2011,Secondary,Girls,2010
+Uttar Pradesh,13.1,2010-2011,Secondary,Girls,2010
+Uttarakhand,10.0,2010-2011,Secondary,Girls,2010
+West Bengal,20.7,2010-2011,Secondary,Girls,2010
+All India,13.8,2010-2011,Secondary,Girls,2010
+Andaman and Nicobar Islands,2.1,2011-2012,Elementary,Boys,2011
+Andhra Pradesh,0.8,2011-2012,Elementary,Boys,2011
+Arunachal Pradesh,2.0,2011-2012,Elementary,Boys,2011
+Assam,4.6,2011-2012,Elementary,Boys,2011
+Bihar,0.1,2011-2012,Elementary,Boys,2011
+Chandigarh,3.8,2011-2012,Elementary,Boys,2011
+Chhattisgarh,1.9,2011-2012,Elementary,Boys,2011
+Dadra and Nagar Haveli,2.8,2011-2012,Elementary,Boys,2011
+Daman and Diu,5.3,2011-2012,Elementary,Boys,2011
+Delhi,0.9,2011-2012,Elementary,Boys,2011
+Goa,1.1,2011-2012,Elementary,Boys,2011
+Gujarat,6.1,2011-2012,Elementary,Boys,2011
+Haryana,1.8,2011-2012,Elementary,Boys,2011
+Himachal Pradesh,3.3,2011-2012,Elementary,Boys,2011
+Jammu and Kashmir,2.0,2011-2012,Elementary,Boys,2011
+Jharkhand,2.5,2011-2012,Elementary,Boys,2011
+Karnataka,0.9,2011-2012,Elementary,Boys,2011
+Kerala,5.2,2011-2012,Elementary,Boys,2011
+Ladakh,1.9,2011-2012,Elementary,Boys,2011
+Lakshadweep,5.8,2011-2012,Elementary,Boys,2011
+Madhya Pradesh,1.2,2011-2012,Elementary,Boys,2011
+Maharashtra,3.1,2011-2012,Elementary,Boys,2011
+Manipur,3.1,2011-2012,Elementary,Boys,2011
+Meghalaya,0.7,2011-2012,Elementary,Boys,2011
+Mizoram,4.8,2011-2012,Elementary,Boys,2011
+Nagaland,2.1,2011-2012,Elementary,Boys,2011
+Odisha,6.2,2011-2012,Elementary,Boys,2011
+Puducherry,1.2,2011-2012,Elementary,Boys,2011
+Punjab,0.8,2011-2012,Elementary,Boys,2011
+Rajasthan,3.8,2011-2012,Elementary,Boys,2011
+Sikkim,5.0,2011-2012,Elementary,Boys,2011
+Tamil Nadu,1.1,2011-2012,Elementary,Boys,2011
+Telangana,6.1,2011-2012,Elementary,Boys,2011
+Tripura,2.7,2011-2012,Elementary,Boys,2011
+Uttar Pradesh,5.8,2011-2012,Elementary,Boys,2011
+Uttarakhand,0.9,2011-2012,Elementary,Boys,2011
+West Bengal,2.1,2011-2012,Elementary,Boys,2011
+All India,2.6,2011-2012,Elementary,Boys,2011
+Andaman and Nicobar Islands,5.6,2011-2012,Elementary,Girls,2011
+Andhra Pradesh,2.2,2011-2012,Elementary,Girls,2011
+Arunachal Pradesh,0.8,2011-2012,Elementary,Girls,2011
+Assam,2.3,2011-2012,Elementary,Girls,2011
+Bihar,3.5,2011-2012,Elementary,Girls,2011
+Chandigarh,5.1,2011-2012,Elementary,Girls,2011
+Chhattisgarh,5.2,2011-2012,Elementary,Girls,2011
+Dadra and Nagar Haveli,3.2,2011-2012,Elementary,Girls,2011
+Daman and Diu,0.8,2011-2012,Elementary,Girls,2011
+Delhi,0.8,2011-2012,Elementary,Girls,2011
+Goa,4.5,2011-2012,Elementary,Girls,2011
+Gujarat,2.9,2011-2012,Elementary,Girls,2011
+Haryana,2.0,2011-2012,Elementary,Girls,2011
+Himachal Pradesh,6.2,2011-2012,Elementary,Girls,2011
+Jammu and Kashmir,4.4,2011-2012,Elementary,Girls,2011
+Jharkhand,2.2,2011-2012,Elementary,Girls,2011
+Karnataka,4.5,2011-2012,Elementary,Girls,2011
+Kerala,6.9,2011-2012,Elementary,Girls,2011
+Ladakh,1.4,2011-2012,Elementary,Girls,2011
+Lakshadweep,1.8,2011-2012,Elementary,Girls,2011
+Madhya Pradesh,0.9,2011-2012,Elementary,Girls,2011
+Maharashtra,3.6,2011-2012,Elementary,Girls,2011
+Manipur,4.4,2011-2012,Elementary,Girls,2011
+Meghalaya,6.0,2011-2012,Elementary,Girls,2011
+Mizoram,0.2,2011-2012,Elementary,Girls,2011
+Nagaland,4.2,2011-2012,Elementary,Girls,2011
+Odisha,4.8,2011-2012,Elementary,Girls,2011
+Puducherry,2.7,2011-2012,Elementary,Girls,2011
+Punjab,5.4,2011-2012,Elementary,Girls,2011
+Rajasthan,0.8,2011-2012,Elementary,Girls,2011
+Sikkim,6.1,2011-2012,Elementary,Girls,2011
+Tamil Nadu,5.2,2011-2012,Elementary,Girls,2011
+Telangana,2.8,2011-2012,Elementary,Girls,2011
+Tripura,0.4,2011-2012,Elementary,Girls,2011
+Uttar Pradesh,5.1,2011-2012,Elementary,Girls,2011
+Uttarakhand,0.2,2011-2012,Elementary,Girls,2011
+West Bengal,7.0,2011-2012,Elementary,Girls,2011
+All India,2.3,2011-2012,Elementary,Girls,2011
+Andaman and Nicobar Islands,14.7,2011-2012,Secondary,Boys,2011
+Andhra Pradesh,8.8,2011-2012,Secondary,Boys,2011
+Arunachal Pradesh,15.8,2011-2012,Secondary,Boys,2011
+Assam,9.4,2011-2012,Secondary,Boys,2011
+Bihar,18.3,2011-2012,Secondary,Boys,2011
+Chandigarh,13.3,2011-2012,Secondary,Boys,2011
+Chhattisgarh,18.4,2011-2012,Secondary,Boys,2011
+Dadra and Nagar Haveli,11.2,2011-2012,Secondary,Boys,2011
+Daman and Diu,21.1,2011-2012,Secondary,Boys,2011
+Delhi,12.3,2011-2012,Secondary,Boys,2011
+Goa,17.6,2011-2012,Secondary,Boys,2011
+Gujarat,18.8,2011-2012,Secondary,Boys,2011
+Haryana,15.2,2011-2012,Secondary,Boys,2011
+Himachal Pradesh,8.8,2011-2012,Secondary,Boys,2011
+Jammu and Kashmir,13.1,2011-2012,Secondary,Boys,2011
+Jharkhand,10.0,2011-2012,Secondary,Boys,2011
+Karnataka,13.3,2011-2012,Secondary,Boys,2011
+Kerala,16.4,2011-2012,Secondary,Boys,2011
+Ladakh,16.7,2011-2012,Secondary,Boys,2011
+Lakshadweep,20.0,2011-2012,Secondary,Boys,2011
+Madhya Pradesh,17.0,2011-2012,Secondary,Boys,2011
+Maharashtra,21.9,2011-2012,Secondary,Boys,2011
+Manipur,15.3,2011-2012,Secondary,Boys,2011
+Meghalaya,13.4,2011-2012,Secondary,Boys,2011
+Mizoram,16.9,2011-2012,Secondary,Boys,2011
+Nagaland,16.4,2011-2012,Secondary,Boys,2011
+Odisha,16.1,2011-2012,Secondary,Boys,2011
+Puducherry,14.0,2011-2012,Secondary,Boys,2011
+Punjab,12.9,2011-2012,Secondary,Boys,2011
+Rajasthan,10.4,2011-2012,Secondary,Boys,2011
+Sikkim,17.5,2011-2012,Secondary,Boys,2011
+Tamil Nadu,13.3,2011-2012,Secondary,Boys,2011
+Telangana,17.6,2011-2012,Secondary,Boys,2011
+Tripura,15.1,2011-2012,Secondary,Boys,2011
+Uttar Pradesh,15.7,2011-2012,Secondary,Boys,2011
+Uttarakhand,14.6,2011-2012,Secondary,Boys,2011
+West Bengal,13.1,2011-2012,Secondary,Boys,2011
+All India,15.1,2011-2012,Secondary,Boys,2011
+Andaman and Nicobar Islands,13.6,2011-2012,Secondary,Girls,2011
+Andhra Pradesh,15.6,2011-2012,Secondary,Girls,2011
+Arunachal Pradesh,8.5,2011-2012,Secondary,Girls,2011
+Assam,15.5,2011-2012,Secondary,Girls,2011
+Bihar,21.0,2011-2012,Secondary,Girls,2011
+Chandigarh,14.5,2011-2012,Secondary,Girls,2011
+Chhattisgarh,16.5,2011-2012,Secondary,Girls,2011
+Dadra and Nagar Haveli,11.9,2011-2012,Secondary,Girls,2011
+Daman and Diu,12.4,2011-2012,Secondary,Girls,2011
+Delhi,14.4,2011-2012,Secondary,Girls,2011
+Goa,8.8,2011-2012,Secondary,Girls,2011
+Gujarat,18.6,2011-2012,Secondary,Girls,2011
+Haryana,16.6,2011-2012,Secondary,Girls,2011
+Himachal Pradesh,20.2,2011-2012,Secondary,Girls,2011
+Jammu and Kashmir,11.4,2011-2012,Secondary,Girls,2011
+Jharkhand,14.9,2011-2012,Secondary,Girls,2011
+Karnataka,17.3,2011-2012,Secondary,Girls,2011
+Kerala,15.3,2011-2012,Secondary,Girls,2011
+Ladakh,12.6,2011-2012,Secondary,Girls,2011
+Lakshadweep,8.3,2011-2012,Secondary,Girls,2011
+Madhya Pradesh,11.5,2011-2012,Secondary,Girls,2011
+Maharashtra,10.6,2011-2012,Secondary,Girls,2011
+Manipur,10.8,2011-2012,Secondary,Girls,2011
+Meghalaya,8.9,2011-2012,Secondary,Girls,2011
+Mizoram,7.7,2011-2012,Secondary,Girls,2011
+Nagaland,11.0,2011-2012,Secondary,Girls,2011
+Odisha,17.0,2011-2012,Secondary,Girls,2011
+Puducherry,15.6,2011-2012,Secondary,Girls,2011
+Punjab,21.0,2011-2012,Secondary,Girls,2011
+Rajasthan,17.9,2011-2012,Secondary,Girls,2011
+Sikkim,16.3,2011-2012,Secondary,Girls,2011
+Tamil Nadu,14.2,2011-2012,Secondary,Girls,2011
+Telangana,21.6,2011-2012,Secondary,Girls,2011
+Tripura,17.2,2011-2012,Secondary,Girls,2011
+Uttar Pradesh,16.6,2011-2012,Secondary,Girls,2011
+Uttarakhand,15.6,2011-2012,Secondary,Girls,2011
+West Bengal,17.5,2011-2012,Secondary,Girls,2011
+All India,14.2,2011-2012,Secondary,Girls,2011
+Andaman and Nicobar Islands,5.4,2012-2013,Elementary,Boys,2012
+Andhra Pradesh,3.9,2012-2013,Elementary,Boys,2012
+Arunachal Pradesh,2.4,2012-2013,Elementary,Boys,2012
+Assam,1.7,2012-2013,Elementary,Boys,2012
+Bihar,1.0,2012-2013,Elementary,Boys,2012
+Chandigarh,4.0,2012-2013,Elementary,Boys,2012
+Chhattisgarh,6.7,2012-2013,Elementary,Boys,2012
+Dadra and Nagar Haveli,1.0,2012-2013,Elementary,Boys,2012
+Daman and Diu,5.8,2012-2013,Elementary,Boys,2012
+Delhi,0.0,2012-2013,Elementary,Boys,2012
+Goa,4.0,2012-2013,Elementary,Boys,2012
+Gujarat,6.3,2012-2013,Elementary,Boys,2012
+Haryana,5.3,2012-2013,Elementary,Boys,2012
+Himachal Pradesh,4.6,2012-2013,Elementary,Boys,2012
+Jammu and Kashmir,0.6,2012-2013,Elementary,Boys,2012
+Jharkhand,3.1,2012-2013,Elementary,Boys,2012
+Karnataka,2.9,2012-2013,Elementary,Boys,2012
+Kerala,2.5,2012-2013,Elementary,Boys,2012
+Ladakh,6.2,2012-2013,Elementary,Boys,2012
+Lakshadweep,4.8,2012-2013,Elementary,Boys,2012
+Madhya Pradesh,4.5,2012-2013,Elementary,Boys,2012
+Maharashtra,1.3,2012-2013,Elementary,Boys,2012
+Manipur,0.9,2012-2013,Elementary,Boys,2012
+Meghalaya,5.2,2012-2013,Elementary,Boys,2012
+Mizoram,1.7,2012-2013,Elementary,Boys,2012
+Nagaland,6.1,2012-2013,Elementary,Boys,2012
+Odisha,0.8,2012-2013,Elementary,Boys,2012
+Puducherry,5.9,2012-2013,Elementary,Boys,2012
+Punjab,3.7,2012-2013,Elementary,Boys,2012
+Rajasthan,6.2,2012-2013,Elementary,Boys,2012
+Sikkim,2.5,2012-2013,Elementary,Boys,2012
+Tamil Nadu,1.9,2012-2013,Elementary,Boys,2012
+Telangana,5.8,2012-2013,Elementary,Boys,2012
+Tripura,3.3,2012-2013,Elementary,Boys,2012
+Uttar Pradesh,2.2,2012-2013,Elementary,Boys,2012
+Uttarakhand,5.6,2012-2013,Elementary,Boys,2012
+West Bengal,6.0,2012-2013,Elementary,Boys,2012
+All India,1.5,2012-2013,Elementary,Boys,2012
+Andaman and Nicobar Islands,2.7,2012-2013,Elementary,Girls,2012
+Andhra Pradesh,4.1,2012-2013,Elementary,Girls,2012
+Arunachal Pradesh,1.6,2012-2013,Elementary,Girls,2012
+Assam,1.9,2012-2013,Elementary,Girls,2012
+Bihar,3.9,2012-2013,Elementary,Girls,2012
+Chandigarh,1.5,2012-2013,Elementary,Girls,2012
+Chhattisgarh,5.2,2012-2013,Elementary,Girls,2012
+Dadra and Nagar Haveli,4.2,2012-2013,Elementary,Girls,2012
+Daman and Diu,3.3,2012-2013,Elementary,Girls,2012
+Delhi,5.6,2012-2013,Elementary,Girls,2012
+Goa,2.1,2012-2013,Elementary,Girls,2012
+Gujarat,5.5,2012-2013,Elementary,Girls,2012
+Haryana,4.9,2012-2013,Elementary,Girls,2012
+Himachal Pradesh,2.3,2012-2013,Elementary,Girls,2012
+Jammu and Kashmir,0.7,2012-2013,Elementary,Girls,2012
+Jharkhand,2.3,2012-2013,Elementary,Girls,2012
+Karnataka,3.2,2012-2013,Elementary,Girls,2012
+Kerala,6.1,2012-2013,Elementary,Girls,2012
+Ladakh,1.2,2012-2013,Elementary,Girls,2012
+Lakshadweep,4.6,2012-2013,Elementary,Girls,2012
+Madhya Pradesh,5.6,2012-2013,Elementary,Girls,2012
+Maharashtra,1.0,2012-2013,Elementary,Girls,2012
+Manipur,7.3,2012-2013,Elementary,Girls,2012
+Meghalaya,2.3,2012-2013,Elementary,Girls,2012
+Mizoram,1.8,2012-2013,Elementary,Girls,2012
+Nagaland,0.7,2012-2013,Elementary,Girls,2012
+Odisha,6.1,2012-2013,Elementary,Girls,2012
+Puducherry,4.9,2012-2013,Elementary,Girls,2012
+Punjab,4.1,2012-2013,Elementary,Girls,2012
+Rajasthan,4.2,2012-2013,Elementary,Girls,2012
+Sikkim,1.1,2012-2013,Elementary,Girls,2012
+Tamil Nadu,0.7,2012-2013,Elementary,Girls,2012
+Telangana,5.0,2012-2013,Elementary,Girls,2012
+Tripura,1.9,2012-2013,Elementary,Girls,2012
+Uttar Pradesh,6.6,2012-2013,Elementary,Girls,2012
+Uttarakhand,1.9,2012-2013,Elementary,Girls,2012
+West Bengal,2.5,2012-2013,Elementary,Girls,2012
+All India,1.5,2012-2013,Elementary,Girls,2012
+Andaman and Nicobar Islands,12.4,2012-2013,Secondary,Boys,2012
+Andhra Pradesh,18.1,2012-2013,Secondary,Boys,2012
+Arunachal Pradesh,13.3,2012-2013,Secondary,Boys,2012
+Assam,9.4,2012-2013,Secondary,Boys,2012
+Bihar,14.5,2012-2013,Secondary,Boys,2012
+Chandigarh,17.2,2012-2013,Secondary,Boys,2012
+Chhattisgarh,19.1,2012-2013,Secondary,Boys,2012
+Dadra and Nagar Haveli,19.2,2012-2013,Secondary,Boys,2012
+Daman and Diu,15.6,2012-2013,Secondary,Boys,2012
+Delhi,17.8,2012-2013,Secondary,Boys,2012
+Goa,12.0,2012-2013,Secondary,Boys,2012
+Gujarat,9.9,2012-2013,Secondary,Boys,2012
+Haryana,12.9,2012-2013,Secondary,Boys,2012
+Himachal Pradesh,14.6,2012-2013,Secondary,Boys,2012
+Jammu and Kashmir,17.0,2012-2013,Secondary,Boys,2012
+Jharkhand,11.3,2012-2013,Secondary,Boys,2012
+Karnataka,21.7,2012-2013,Secondary,Boys,2012
+Kerala,18.5,2012-2013,Secondary,Boys,2012
+Ladakh,17.4,2012-2013,Secondary,Boys,2012
+Lakshadweep,20.3,2012-2013,Secondary,Boys,2012
+Madhya Pradesh,12.0,2012-2013,Secondary,Boys,2012
+Maharashtra,11.5,2012-2013,Secondary,Boys,2012
+Manipur,13.5,2012-2013,Secondary,Boys,2012
+Meghalaya,16.6,2012-2013,Secondary,Boys,2012
+Mizoram,18.8,2012-2013,Secondary,Boys,2012
+Nagaland,20.4,2012-2013,Secondary,Boys,2012
+Odisha,9.1,2012-2013,Secondary,Boys,2012
+Puducherry,12.4,2012-2013,Secondary,Boys,2012
+Punjab,8.8,2012-2013,Secondary,Boys,2012
+Rajasthan,10.2,2012-2013,Secondary,Boys,2012
+Sikkim,14.1,2012-2013,Secondary,Boys,2012
+Tamil Nadu,17.1,2012-2013,Secondary,Boys,2012
+Telangana,10.5,2012-2013,Secondary,Boys,2012
+Tripura,12.1,2012-2013,Secondary,Boys,2012
+Uttar Pradesh,7.7,2012-2013,Secondary,Boys,2012
+Uttarakhand,12.9,2012-2013,Secondary,Boys,2012
+West Bengal,20.4,2012-2013,Secondary,Boys,2012
+All India,15.2,2012-2013,Secondary,Boys,2012
+Andaman and Nicobar Islands,17.4,2012-2013,Secondary,Girls,2012
+Andhra Pradesh,14.3,2012-2013,Secondary,Girls,2012
+Arunachal Pradesh,18.9,2012-2013,Secondary,Girls,2012
+Assam,15.6,2012-2013,Secondary,Girls,2012
+Bihar,8.9,2012-2013,Secondary,Girls,2012
+Chandigarh,14.9,2012-2013,Secondary,Girls,2012
+Chhattisgarh,16.1,2012-2013,Secondary,Girls,2012
+Dadra and Nagar Haveli,9.8,2012-2013,Secondary,Girls,2012
+Daman and Diu,12.4,2012-2013,Secondary,Girls,2012
+Delhi,13.1,2012-2013,Secondary,Girls,2012
+Goa,19.7,2012-2013,Secondary,Girls,2012
+Gujarat,20.1,2012-2013,Secondary,Girls,2012
+Haryana,13.2,2012-2013,Secondary,Girls,2012
+Himachal Pradesh,12.2,2012-2013,Secondary,Girls,2012
+Jammu and Kashmir,9.1,2012-2013,Secondary,Girls,2012
+Jharkhand,13.3,2012-2013,Secondary,Girls,2012
+Karnataka,8.9,2012-2013,Secondary,Girls,2012
+Kerala,15.8,2012-2013,Secondary,Girls,2012
+Ladakh,10.3,2012-2013,Secondary,Girls,2012
+Lakshadweep,13.4,2012-2013,Secondary,Girls,2012
+Madhya Pradesh,11.8,2012-2013,Secondary,Girls,2012
+Maharashtra,13.2,2012-2013,Secondary,Girls,2012
+Manipur,10.2,2012-2013,Secondary,Girls,2012
+Meghalaya,12.4,2012-2013,Secondary,Girls,2012
+Mizoram,17.5,2012-2013,Secondary,Girls,2012
+Nagaland,15.0,2012-2013,Secondary,Girls,2012
+Odisha,15.3,2012-2013,Secondary,Girls,2012
+Puducherry,10.4,2012-2013,Secondary,Girls,2012
+Punjab,11.3,2012-2013,Secondary,Girls,2012
+Rajasthan,18.7,2012-2013,Secondary,Girls,2012
+Sikkim,9.3,2012-2013,Secondary,Girls,2012
+Tamil Nadu,11.8,2012-2013,Secondary,Girls,2012
+Telangana,12.0,2012-2013,Secondary,Girls,2012
+Tripura,16.3,2012-2013,Secondary,Girls,2012
+Uttar Pradesh,10.3,2012-2013,Secondary,Girls,2012
+Uttarakhand,17.8,2012-2013,Secondary,Girls,2012
+West Bengal,13.9,2012-2013,Secondary,Girls,2012
+All India,15.8,2012-2013,Secondary,Girls,2012
+Andaman and Nicobar Islands,2.1,2013-2014,Elementary,Boys,2013
+Andhra Pradesh,2.7,2013-2014,Elementary,Boys,2013
+Arunachal Pradesh,5.5,2013-2014,Elementary,Boys,2013
+Assam,5.8,2013-2014,Elementary,Boys,2013
+Bihar,2.9,2013-2014,Elementary,Boys,2013
+Chandigarh,3.7,2013-2014,Elementary,Boys,2013
+Chhattisgarh,2.0,2013-2014,Elementary,Boys,2013
+Dadra and Nagar Haveli,4.3,2013-2014,Elementary,Boys,2013
+Daman and Diu,1.7,2013-2014,Elementary,Boys,2013
+Delhi,0.4,2013-2014,Elementary,Boys,2013
+Goa,1.7,2013-2014,Elementary,Boys,2013
+Gujarat,3.5,2013-2014,Elementary,Boys,2013
+Haryana,3.3,2013-2014,Elementary,Boys,2013
+Himachal Pradesh,2.6,2013-2014,Elementary,Boys,2013
+Jammu and Kashmir,3.5,2013-2014,Elementary,Boys,2013
+Jharkhand,2.7,2013-2014,Elementary,Boys,2013
+Karnataka,1.3,2013-2014,Elementary,Boys,2013
+Kerala,3.3,2013-2014,Elementary,Boys,2013
+Ladakh,0.2,2013-2014,Elementary,Boys,2013
+Lakshadweep,5.1,2013-2014,Elementary,Boys,2013
+Madhya Pradesh,5.4,2013-2014,Elementary,Boys,2013
+Maharashtra,2.7,2013-2014,Elementary,Boys,2013
+Manipur,4.0,2013-2014,Elementary,Boys,2013
+Meghalaya,1.1,2013-2014,Elementary,Boys,2013
+Mizoram,3.5,2013-2014,Elementary,Boys,2013
+Nagaland,0.9,2013-2014,Elementary,Boys,2013
+Odisha,0.1,2013-2014,Elementary,Boys,2013
+Puducherry,0.3,2013-2014,Elementary,Boys,2013
+Punjab,3.3,2013-2014,Elementary,Boys,2013
+Rajasthan,3.7,2013-2014,Elementary,Boys,2013
+Sikkim,0.5,2013-2014,Elementary,Boys,2013
+Tamil Nadu,3.1,2013-2014,Elementary,Boys,2013
+Telangana,1.6,2013-2014,Elementary,Boys,2013
+Tripura,1.2,2013-2014,Elementary,Boys,2013
+Uttar Pradesh,1.8,2013-2014,Elementary,Boys,2013
+Uttarakhand,3.1,2013-2014,Elementary,Boys,2013
+West Bengal,0.2,2013-2014,Elementary,Boys,2013
+All India,3.7,2013-2014,Elementary,Boys,2013
+Andaman and Nicobar Islands,1.8,2013-2014,Elementary,Girls,2013
+Andhra Pradesh,0.9,2013-2014,Elementary,Girls,2013
+Arunachal Pradesh,5.9,2013-2014,Elementary,Girls,2013
+Assam,4.8,2013-2014,Elementary,Girls,2013
+Bihar,5.4,2013-2014,Elementary,Girls,2013
+Chandigarh,3.1,2013-2014,Elementary,Girls,2013
+Chhattisgarh,4.2,2013-2014,Elementary,Girls,2013
+Dadra and Nagar Haveli,1.1,2013-2014,Elementary,Girls,2013
+Daman and Diu,1.7,2013-2014,Elementary,Girls,2013
+Delhi,4.3,2013-2014,Elementary,Girls,2013
+Goa,0.4,2013-2014,Elementary,Girls,2013
+Gujarat,2.2,2013-2014,Elementary,Girls,2013
+Haryana,2.6,2013-2014,Elementary,Girls,2013
+Himachal Pradesh,2.6,2013-2014,Elementary,Girls,2013
+Jammu and Kashmir,3.4,2013-2014,Elementary,Girls,2013
+Jharkhand,2.1,2013-2014,Elementary,Girls,2013
+Karnataka,0.8,2013-2014,Elementary,Girls,2013
+Kerala,0.3,2013-2014,Elementary,Girls,2013
+Ladakh,3.1,2013-2014,Elementary,Girls,2013
+Lakshadweep,2.8,2013-2014,Elementary,Girls,2013
+Madhya Pradesh,1.1,2013-2014,Elementary,Girls,2013
+Maharashtra,0.3,2013-2014,Elementary,Girls,2013
+Manipur,1.7,2013-2014,Elementary,Girls,2013
+Meghalaya,3.1,2013-2014,Elementary,Girls,2013
+Mizoram,0.3,2013-2014,Elementary,Girls,2013
+Nagaland,0.3,2013-2014,Elementary,Girls,2013
+Odisha,6.2,2013-2014,Elementary,Girls,2013
+Puducherry,2.2,2013-2014,Elementary,Girls,2013
+Punjab,4.8,2013-2014,Elementary,Girls,2013
+Rajasthan,4.3,2013-2014,Elementary,Girls,2013
+Sikkim,3.1,2013-2014,Elementary,Girls,2013
+Tamil Nadu,6.5,2013-2014,Elementary,Girls,2013
+Telangana,3.9,2013-2014,Elementary,Girls,2013
+Tripura,5.5,2013-2014,Elementary,Girls,2013
+Uttar Pradesh,3.7,2013-2014,Elementary,Girls,2013
+Uttarakhand,5.7,2013-2014,Elementary,Girls,2013
+West Bengal,6.6,2013-2014,Elementary,Girls,2013
+All India,1.1,2013-2014,Elementary,Girls,2013
+Andaman and Nicobar Islands,14.0,2013-2014,Secondary,Boys,2013
+Andhra Pradesh,9.5,2013-2014,Secondary,Boys,2013
+Arunachal Pradesh,18.3,2013-2014,Secondary,Boys,2013
+Assam,14.4,2013-2014,Secondary,Boys,2013
+Bihar,10.2,2013-2014,Secondary,Boys,2013
+Chandigarh,20.8,2013-2014,Secondary,Boys,2013
+Chhattisgarh,13.5,2013-2014,Secondary,Boys,2013
+Dadra and Nagar Haveli,19.2,2013-2014,Secondary,Boys,2013
+Daman and Diu,11.5,2013-2014,Secondary,Boys,2013
+Delhi,19.8,2013-2014,Secondary,Boys,2013
+Goa,17.0,2013-2014,Secondary,Boys,2013
+Gujarat,14.5,2013-2014,Secondary,Boys,2013
+Haryana,17.1,2013-2014,Secondary,Boys,2013
+Himachal Pradesh,18.0,2013-2014,Secondary,Boys,2013
+Jammu and Kashmir,11.5,2013-2014,Secondary,Boys,2013
+Jharkhand,15.5,2013-2014,Secondary,Boys,2013
+Karnataka,18.2,2013-2014,Secondary,Boys,2013
+Kerala,17.7,2013-2014,Secondary,Boys,2013
+Ladakh,8.6,2013-2014,Secondary,Boys,2013
+Lakshadweep,16.1,2013-2014,Secondary,Boys,2013
+Madhya Pradesh,17.7,2013-2014,Secondary,Boys,2013
+Maharashtra,13.4,2013-2014,Secondary,Boys,2013
+Manipur,10.8,2013-2014,Secondary,Boys,2013
+Meghalaya,9.3,2013-2014,Secondary,Boys,2013
+Mizoram,9.2,2013-2014,Secondary,Boys,2013
+Nagaland,11.7,2013-2014,Secondary,Boys,2013
+Odisha,14.5,2013-2014,Secondary,Boys,2013
+Puducherry,9.7,2013-2014,Secondary,Boys,2013
+Punjab,16.9,2013-2014,Secondary,Boys,2013
+Rajasthan,12.4,2013-2014,Secondary,Boys,2013
+Sikkim,13.1,2013-2014,Secondary,Boys,2013
+Tamil Nadu,17.8,2013-2014,Secondary,Boys,2013
+Telangana,13.6,2013-2014,Secondary,Boys,2013
+Tripura,16.0,2013-2014,Secondary,Boys,2013
+Uttar Pradesh,12.9,2013-2014,Secondary,Boys,2013
+Uttarakhand,9.9,2013-2014,Secondary,Boys,2013
+West Bengal,11.1,2013-2014,Secondary,Boys,2013
+All India,16.6,2013-2014,Secondary,Boys,2013
+Andaman and Nicobar Islands,14.3,2013-2014,Secondary,Girls,2013
+Andhra Pradesh,17.5,2013-2014,Secondary,Girls,2013
+Arunachal Pradesh,18.0,2013-2014,Secondary,Girls,2013
+Assam,15.2,2013-2014,Secondary,Girls,2013
+Bihar,20.6,2013-2014,Secondary,Girls,2013
+Chandigarh,10.0,2013-2014,Secondary,Girls,2013
+Chhattisgarh,10.0,2013-2014,Secondary,Girls,2013
+Dadra and Nagar Haveli,13.1,2013-2014,Secondary,Girls,2013
+Daman and Diu,15.9,2013-2014,Secondary,Girls,2013
+Delhi,9.1,2013-2014,Secondary,Girls,2013
+Goa,14.4,2013-2014,Secondary,Girls,2013
+Gujarat,8.8,2013-2014,Secondary,Girls,2013
+Haryana,10.0,2013-2014,Secondary,Girls,2013
+Himachal Pradesh,18.2,2013-2014,Secondary,Girls,2013
+Jammu and Kashmir,10.1,2013-2014,Secondary,Girls,2013
+Jharkhand,9.1,2013-2014,Secondary,Girls,2013
+Karnataka,12.2,2013-2014,Secondary,Girls,2013
+Kerala,18.8,2013-2014,Secondary,Girls,2013
+Ladakh,14.8,2013-2014,Secondary,Girls,2013
+Lakshadweep,17.5,2013-2014,Secondary,Girls,2013
+Madhya Pradesh,15.9,2013-2014,Secondary,Girls,2013
+Maharashtra,12.1,2013-2014,Secondary,Girls,2013
+Manipur,17.5,2013-2014,Secondary,Girls,2013
+Meghalaya,8.2,2013-2014,Secondary,Girls,2013
+Mizoram,16.1,2013-2014,Secondary,Girls,2013
+Nagaland,12.9,2013-2014,Secondary,Girls,2013
+Odisha,17.4,2013-2014,Secondary,Girls,2013
+Puducherry,14.3,2013-2014,Secondary,Girls,2013
+Punjab,10.5,2013-2014,Secondary,Girls,2013
+Rajasthan,13.3,2013-2014,Secondary,Girls,2013
+Sikkim,10.5,2013-2014,Secondary,Girls,2013
+Tamil Nadu,16.4,2013-2014,Secondary,Girls,2013
+Telangana,19.8,2013-2014,Secondary,Girls,2013
+Tripura,9.8,2013-2014,Secondary,Girls,2013
+Uttar Pradesh,16.6,2013-2014,Secondary,Girls,2013
+Uttarakhand,9.7,2013-2014,Secondary,Girls,2013
+West Bengal,13.5,2013-2014,Secondary,Girls,2013
+All India,10.5,2013-2014,Secondary,Girls,2013
+Andaman and Nicobar Islands,6.7,2014-2015,Elementary,Boys,2014
+Andhra Pradesh,4.1,2014-2015,Elementary,Boys,2014
+Arunachal Pradesh,1.3,2014-2015,Elementary,Boys,2014
+Assam,5.4,2014-2015,Elementary,Boys,2014
+Bihar,0.3,2014-2015,Elementary,Boys,2014
+Chandigarh,0.5,2014-2015,Elementary,Boys,2014
+Chhattisgarh,3.2,2014-2015,Elementary,Boys,2014
+Dadra and Nagar Haveli,2.0,2014-2015,Elementary,Boys,2014
+Daman and Diu,3.3,2014-2015,Elementary,Boys,2014
+Delhi,2.3,2014-2015,Elementary,Boys,2014
+Goa,4.5,2014-2015,Elementary,Boys,2014
+Gujarat,1.4,2014-2015,Elementary,Boys,2014
+Haryana,4.1,2014-2015,Elementary,Boys,2014
+Himachal Pradesh,3.9,2014-2015,Elementary,Boys,2014
+Jammu and Kashmir,2.2,2014-2015,Elementary,Boys,2014
+Jharkhand,4.7,2014-2015,Elementary,Boys,2014
+Karnataka,2.3,2014-2015,Elementary,Boys,2014
+Kerala,5.7,2014-2015,Elementary,Boys,2014
+Ladakh,3.2,2014-2015,Elementary,Boys,2014
+Lakshadweep,2.5,2014-2015,Elementary,Boys,2014
+Madhya Pradesh,5.3,2014-2015,Elementary,Boys,2014
+Maharashtra,3.6,2014-2015,Elementary,Boys,2014
+Manipur,4.2,2014-2015,Elementary,Boys,2014
+Meghalaya,0.0,2014-2015,Elementary,Boys,2014
+Mizoram,2.8,2014-2015,Elementary,Boys,2014
+Nagaland,0.4,2014-2015,Elementary,Boys,2014
+Odisha,3.4,2014-2015,Elementary,Boys,2014
+Puducherry,4.1,2014-2015,Elementary,Boys,2014
+Punjab,0.3,2014-2015,Elementary,Boys,2014
+Rajasthan,6.4,2014-2015,Elementary,Boys,2014
+Sikkim,5.8,2014-2015,Elementary,Boys,2014
+Tamil Nadu,0.6,2014-2015,Elementary,Boys,2014
+Telangana,3.7,2014-2015,Elementary,Boys,2014
+Tripura,6.4,2014-2015,Elementary,Boys,2014
+Uttar Pradesh,2.3,2014-2015,Elementary,Boys,2014
+Uttarakhand,3.2,2014-2015,Elementary,Boys,2014
+West Bengal,3.5,2014-2015,Elementary,Boys,2014
+All India,4.5,2014-2015,Elementary,Boys,2014
+Andaman and Nicobar Islands,1.6,2014-2015,Elementary,Girls,2014
+Andhra Pradesh,4.7,2014-2015,Elementary,Girls,2014
+Arunachal Pradesh,4.1,2014-2015,Elementary,Girls,2014
+Assam,6.2,2014-2015,Elementary,Girls,2014
+Bihar,4.6,2014-2015,Elementary,Girls,2014
+Chandigarh,1.3,2014-2015,Elementary,Girls,2014
+Chhattisgarh,2.3,2014-2015,Elementary,Girls,2014
+Dadra and Nagar Haveli,5.6,2014-2015,Elementary,Girls,2014
+Daman and Diu,4.4,2014-2015,Elementary,Girls,2014
+Delhi,3.9,2014-2015,Elementary,Girls,2014
+Goa,2.6,2014-2015,Elementary,Girls,2014
+Gujarat,5.1,2014-2015,Elementary,Girls,2014
+Haryana,1.4,2014-2015,Elementary,Girls,2014
+Himachal Pradesh,6.1,2014-2015,Elementary,Girls,2014
+Jammu and Kashmir,4.7,2014-2015,Elementary,Girls,2014
+Jharkhand,2.2,2014-2015,Elementary,Girls,2014
+Karnataka,0.2,2014-2015,Elementary,Girls,2014
+Kerala,2.0,2014-2015,Elementary,Girls,2014
+Ladakh,5.3,2014-2015,Elementary,Girls,2014
+Lakshadweep,3.9,2014-2015,Elementary,Girls,2014
+Madhya Pradesh,3.4,2014-2015,Elementary,Girls,2014
+Maharashtra,0.9,2014-2015,Elementary,Girls,2014
+Manipur,4.5,2014-2015,Elementary,Girls,2014
+Meghalaya,6.8,2014-2015,Elementary,Girls,2014
+Mizoram,3.0,2014-2015,Elementary,Girls,2014
+Nagaland,2.7,2014-2015,Elementary,Girls,2014
+Odisha,4.5,2014-2015,Elementary,Girls,2014
+Puducherry,3.3,2014-2015,Elementary,Girls,2014
+Punjab,5.1,2014-2015,Elementary,Girls,2014
+Rajasthan,6.0,2014-2015,Elementary,Girls,2014
+Sikkim,1.2,2014-2015,Elementary,Girls,2014
+Tamil Nadu,1.0,2014-2015,Elementary,Girls,2014
+Telangana,2.2,2014-2015,Elementary,Girls,2014
+Tripura,4.6,2014-2015,Elementary,Girls,2014
+Uttar Pradesh,5.5,2014-2015,Elementary,Girls,2014
+Uttarakhand,4.3,2014-2015,Elementary,Girls,2014
+West Bengal,4.6,2014-2015,Elementary,Girls,2014
+All India,3.3,2014-2015,Elementary,Girls,2014
+Andaman and Nicobar Islands,16.0,2014-2015,Secondary,Boys,2014
+Andhra Pradesh,16.1,2014-2015,Secondary,Boys,2014
+Arunachal Pradesh,19.7,2014-2015,Secondary,Boys,2014
+Assam,13.6,2014-2015,Secondary,Boys,2014
+Bihar,19.0,2014-2015,Secondary,Boys,2014
+Chandigarh,14.3,2014-2015,Secondary,Boys,2014
+Chhattisgarh,7.6,2014-2015,Secondary,Boys,2014
+Dadra and Nagar Haveli,16.2,2014-2015,Secondary,Boys,2014
+Daman and Diu,9.8,2014-2015,Secondary,Boys,2014
+Delhi,10.0,2014-2015,Secondary,Boys,2014
+Goa,13.9,2014-2015,Secondary,Boys,2014
+Gujarat,8.9,2014-2015,Secondary,Boys,2014
+Haryana,16.0,2014-2015,Secondary,Boys,2014
+Himachal Pradesh,19.3,2014-2015,Secondary,Boys,2014
+Jammu and Kashmir,16.2,2014-2015,Secondary,Boys,2014
+Jharkhand,8.9,2014-2015,Secondary,Boys,2014
+Karnataka,9.2,2014-2015,Secondary,Boys,2014
+Kerala,14.6,2014-2015,Secondary,Boys,2014
+Ladakh,13.5,2014-2015,Secondary,Boys,2014
+Lakshadweep,11.9,2014-2015,Secondary,Boys,2014
+Madhya Pradesh,10.6,2014-2015,Secondary,Boys,2014
+Maharashtra,14.7,2014-2015,Secondary,Boys,2014
+Manipur,8.7,2014-2015,Secondary,Boys,2014
+Meghalaya,9.5,2014-2015,Secondary,Boys,2014
+Mizoram,11.8,2014-2015,Secondary,Boys,2014
+Nagaland,15.9,2014-2015,Secondary,Boys,2014
+Odisha,18.4,2014-2015,Secondary,Boys,2014
+Puducherry,17.1,2014-2015,Secondary,Boys,2014
+Punjab,10.4,2014-2015,Secondary,Boys,2014
+Rajasthan,13.4,2014-2015,Secondary,Boys,2014
+Sikkim,16.8,2014-2015,Secondary,Boys,2014
+Tamil Nadu,10.6,2014-2015,Secondary,Boys,2014
+Telangana,18.8,2014-2015,Secondary,Boys,2014
+Tripura,9.6,2014-2015,Secondary,Boys,2014
+Uttar Pradesh,11.1,2014-2015,Secondary,Boys,2014
+Uttarakhand,12.2,2014-2015,Secondary,Boys,2014
+West Bengal,7.3,2014-2015,Secondary,Boys,2014
+All India,14.8,2014-2015,Secondary,Boys,2014
+Andaman and Nicobar Islands,20.3,2014-2015,Secondary,Girls,2014
+Andhra Pradesh,14.3,2014-2015,Secondary,Girls,2014
+Arunachal Pradesh,12.1,2014-2015,Secondary,Girls,2014
+Assam,17.8,2014-2015,Secondary,Girls,2014
+Bihar,15.7,2014-2015,Secondary,Girls,2014
+Chandigarh,14.1,2014-2015,Secondary,Girls,2014
+Chhattisgarh,12.8,2014-2015,Secondary,Girls,2014
+Dadra and Nagar Haveli,14.3,2014-2015,Secondary,Girls,2014
+Daman and Diu,17.5,2014-2015,Secondary,Girls,2014
+Delhi,17.0,2014-2015,Secondary,Girls,2014
+Goa,15.3,2014-2015,Secondary,Girls,2014
+Gujarat,18.4,2014-2015,Secondary,Girls,2014
+Haryana,10.4,2014-2015,Secondary,Girls,2014
+Himachal Pradesh,13.2,2014-2015,Secondary,Girls,2014
+Jammu and Kashmir,14.8,2014-2015,Secondary,Girls,2014
+Jharkhand,10.8,2014-2015,Secondary,Girls,2014
+Karnataka,12.8,2014-2015,Secondary,Girls,2014
+Kerala,18.1,2014-2015,Secondary,Girls,2014
+Ladakh,10.4,2014-2015,Secondary,Girls,2014
+Lakshadweep,14.2,2014-2015,Secondary,Girls,2014
+Madhya Pradesh,14.8,2014-2015,Secondary,Girls,2014
+Maharashtra,18.4,2014-2015,Secondary,Girls,2014
+Manipur,13.7,2014-2015,Secondary,Girls,2014
+Meghalaya,17.7,2014-2015,Secondary,Girls,2014
+Mizoram,12.8,2014-2015,Secondary,Girls,2014
+Nagaland,10.1,2014-2015,Secondary,Girls,2014
+Odisha,19.2,2014-2015,Secondary,Girls,2014
+Puducherry,11.6,2014-2015,Secondary,Girls,2014
+Punjab,17.5,2014-2015,Secondary,Girls,2014
+Rajasthan,9.4,2014-2015,Secondary,Girls,2014
+Sikkim,17.5,2014-2015,Secondary,Girls,2014
+Tamil Nadu,14.6,2014-2015,Secondary,Girls,2014
+Telangana,10.1,2014-2015,Secondary,Girls,2014
+Tripura,11.3,2014-2015,Secondary,Girls,2014
+Uttar Pradesh,16.7,2014-2015,Secondary,Girls,2014
+Uttarakhand,12.5,2014-2015,Secondary,Girls,2014
+West Bengal,15.9,2014-2015,Secondary,Girls,2014
+All India,7.8,2014-2015,Secondary,Girls,2014
+Andaman and Nicobar Islands,2.0,2015-2016,Elementary,Boys,2015
+Andhra Pradesh,2.6,2015-2016,Elementary,Boys,2015
+Arunachal Pradesh,2.9,2015-2016,Elementary,Boys,2015
+Assam,0.2,2015-2016,Elementary,Boys,2015
+Bihar,3.1,2015-2016,Elementary,Boys,2015
+Chandigarh,3.6,2015-2016,Elementary,Boys,2015
+Chhattisgarh,2.1,2015-2016,Elementary,Boys,2015
+Dadra and Nagar Haveli,0.7,2015-2016,Elementary,Boys,2015
+Daman and Diu,6.0,2015-2016,Elementary,Boys,2015
+Delhi,1.6,2015-2016,Elementary,Boys,2015
+Goa,2.4,2015-2016,Elementary,Boys,2015
+Gujarat,5.1,2015-2016,Elementary,Boys,2015
+Haryana,1.3,2015-2016,Elementary,Boys,2015
+Himachal Pradesh,4.4,2015-2016,Elementary,Boys,2015
+Jammu and Kashmir,4.3,2015-2016,Elementary,Boys,2015
+Jharkhand,5.6,2015-2016,Elementary,Boys,2015
+Karnataka,4.2,2015-2016,Elementary,Boys,2015
+Kerala,4.6,2015-2016,Elementary,Boys,2015
+Ladakh,2.5,2015-2016,Elementary,Boys,2015
+Lakshadweep,4.7,2015-2016,Elementary,Boys,2015
+Madhya Pradesh,3.8,2015-2016,Elementary,Boys,2015
+Maharashtra,1.2,2015-2016,Elementary,Boys,2015
+Manipur,3.8,2015-2016,Elementary,Boys,2015
+Meghalaya,5.9,2015-2016,Elementary,Boys,2015
+Mizoram,4.5,2015-2016,Elementary,Boys,2015
+Nagaland,1.4,2015-2016,Elementary,Boys,2015
+Odisha,2.0,2015-2016,Elementary,Boys,2015
+Puducherry,0.9,2015-2016,Elementary,Boys,2015
+Punjab,0.2,2015-2016,Elementary,Boys,2015
+Rajasthan,5.5,2015-2016,Elementary,Boys,2015
+Sikkim,4.5,2015-2016,Elementary,Boys,2015
+Tamil Nadu,6.0,2015-2016,Elementary,Boys,2015
+Telangana,3.8,2015-2016,Elementary,Boys,2015
+Tripura,3.6,2015-2016,Elementary,Boys,2015
+Uttar Pradesh,4.8,2015-2016,Elementary,Boys,2015
+Uttarakhand,5.2,2015-2016,Elementary,Boys,2015
+West Bengal,4.3,2015-2016,Elementary,Boys,2015
+All India,1.8,2015-2016,Elementary,Boys,2015
+Andaman and Nicobar Islands,4.0,2015-2016,Elementary,Girls,2015
+Andhra Pradesh,0.1,2015-2016,Elementary,Girls,2015
+Arunachal Pradesh,1.6,2015-2016,Elementary,Girls,2015
+Assam,0.5,2015-2016,Elementary,Girls,2015
+Bihar,5.2,2015-2016,Elementary,Girls,2015
+Chandigarh,5.7,2015-2016,Elementary,Girls,2015
+Chhattisgarh,6.0,2015-2016,Elementary,Girls,2015
+Dadra and Nagar Haveli,3.3,2015-2016,Elementary,Girls,2015
+Daman and Diu,0.8,2015-2016,Elementary,Girls,2015
+Delhi,3.0,2015-2016,Elementary,Girls,2015
+Goa,1.2,2015-2016,Elementary,Girls,2015
+Gujarat,3.6,2015-2016,Elementary,Girls,2015
+Haryana,6.0,2015-2016,Elementary,Girls,2015
+Himachal Pradesh,5.0,2015-2016,Elementary,Girls,2015
+Jammu and Kashmir,0.7,2015-2016,Elementary,Girls,2015
+Jharkhand,3.8,2015-2016,Elementary,Girls,2015
+Karnataka,3.0,2015-2016,Elementary,Girls,2015
+Kerala,1.3,2015-2016,Elementary,Girls,2015
+Ladakh,0.5,2015-2016,Elementary,Girls,2015
+Lakshadweep,0.4,2015-2016,Elementary,Girls,2015
+Madhya Pradesh,0.6,2015-2016,Elementary,Girls,2015
+Maharashtra,6.3,2015-2016,Elementary,Girls,2015
+Manipur,5.3,2015-2016,Elementary,Girls,2015
+Meghalaya,0.7,2015-2016,Elementary,Girls,2015
+Mizoram,4.9,2015-2016,Elementary,Girls,2015
+Nagaland,1.2,2015-2016,Elementary,Girls,2015
+Odisha,1.9,2015-2016,Elementary,Girls,2015
+Puducherry,3.3,2015-2016,Elementary,Girls,2015
+Punjab,1.4,2015-2016,Elementary,Girls,2015
+Rajasthan,3.9,2015-2016,Elementary,Girls,2015
+Sikkim,1.5,2015-2016,Elementary,Girls,2015
+Tamil Nadu,0.3,2015-2016,Elementary,Girls,2015
+Telangana,3.6,2015-2016,Elementary,Girls,2015
+Tripura,0.9,2015-2016,Elementary,Girls,2015
+Uttar Pradesh,5.5,2015-2016,Elementary,Girls,2015
+Uttarakhand,3.8,2015-2016,Elementary,Girls,2015
+West Bengal,1.6,2015-2016,Elementary,Girls,2015
+All India,6.1,2015-2016,Elementary,Girls,2015
+Andaman and Nicobar Islands,9.6,2015-2016,Secondary,Boys,2015
+Andhra Pradesh,9.3,2015-2016,Secondary,Boys,2015
+Arunachal Pradesh,14.2,2015-2016,Secondary,Boys,2015
+Assam,15.9,2015-2016,Secondary,Boys,2015
+Bihar,12.0,2015-2016,Secondary,Boys,2015
+Chandigarh,15.4,2015-2016,Secondary,Boys,2015
+Chhattisgarh,16.3,2015-2016,Secondary,Boys,2015
+Dadra and Nagar Haveli,8.7,2015-2016,Secondary,Boys,2015
+Daman and Diu,17.6,2015-2016,Secondary,Boys,2015
+Delhi,8.0,2015-2016,Secondary,Boys,2015
+Goa,11.2,2015-2016,Secondary,Boys,2015
+Gujarat,10.2,2015-2016,Secondary,Boys,2015
+Haryana,10.1,2015-2016,Secondary,Boys,2015
+Himachal Pradesh,18.7,2015-2016,Secondary,Boys,2015
+Jammu and Kashmir,16.4,2015-2016,Secondary,Boys,2015
+Jharkhand,13.0,2015-2016,Secondary,Boys,2015
+Karnataka,10.7,2015-2016,Secondary,Boys,2015
+Kerala,17.7,2015-2016,Secondary,Boys,2015
+Ladakh,12.9,2015-2016,Secondary,Boys,2015
+Lakshadweep,11.3,2015-2016,Secondary,Boys,2015
+Madhya Pradesh,16.1,2015-2016,Secondary,Boys,2015
+Maharashtra,17.7,2015-2016,Secondary,Boys,2015
+Manipur,14.3,2015-2016,Secondary,Boys,2015
+Meghalaya,8.6,2015-2016,Secondary,Boys,2015
+Mizoram,12.4,2015-2016,Secondary,Boys,2015
+Nagaland,12.6,2015-2016,Secondary,Boys,2015
+Odisha,9.6,2015-2016,Secondary,Boys,2015
+Puducherry,13.8,2015-2016,Secondary,Boys,2015
+Punjab,11.7,2015-2016,Secondary,Boys,2015
+Rajasthan,11.2,2015-2016,Secondary,Boys,2015
+Sikkim,11.9,2015-2016,Secondary,Boys,2015
+Tamil Nadu,18.2,2015-2016,Secondary,Boys,2015
+Telangana,17.1,2015-2016,Secondary,Boys,2015
+Tripura,14.5,2015-2016,Secondary,Boys,2015
+Uttar Pradesh,12.2,2015-2016,Secondary,Boys,2015
+Uttarakhand,19.1,2015-2016,Secondary,Boys,2015
+West Bengal,8.6,2015-2016,Secondary,Boys,2015
+All India,15.4,2015-2016,Secondary,Boys,2015
+Andaman and Nicobar Islands,12.6,2015-2016,Secondary,Girls,2015
+Andhra Pradesh,13.7,2015-2016,Secondary,Girls,2015
+Arunachal Pradesh,19.5,2015-2016,Secondary,Girls,2015
+Assam,16.4,2015-2016,Secondary,Girls,2015
+Bihar,13.0,2015-2016,Secondary,Girls,2015
+Chandigarh,18.7,2015-2016,Secondary,Girls,2015
+Chhattisgarh,13.2,2015-2016,Secondary,Girls,2015
+Dadra and Nagar Haveli,18.2,2015-2016,Secondary,Girls,2015
+Daman and Diu,9.2,2015-2016,Secondary,Girls,2015
+Delhi,21.3,2015-2016,Secondary,Girls,2015
+Goa,8.6,2015-2016,Secondary,Girls,2015
+Gujarat,17.0,2015-2016,Secondary,Girls,2015
+Haryana,8.4,2015-2016,Secondary,Girls,2015
+Himachal Pradesh,12.2,2015-2016,Secondary,Girls,2015
+Jammu and Kashmir,16.5,2015-2016,Secondary,Girls,2015
+Jharkhand,14.8,2015-2016,Secondary,Girls,2015
+Karnataka,8.9,2015-2016,Secondary,Girls,2015
+Kerala,12.7,2015-2016,Secondary,Girls,2015
+Ladakh,10.4,2015-2016,Secondary,Girls,2015
+Lakshadweep,10.3,2015-2016,Secondary,Girls,2015
+Madhya Pradesh,17.9,2015-2016,Secondary,Girls,2015
+Maharashtra,7.7,2015-2016,Secondary,Girls,2015
+Manipur,10.8,2015-2016,Secondary,Girls,2015
+Meghalaya,12.5,2015-2016,Secondary,Girls,2015
+Mizoram,10.6,2015-2016,Secondary,Girls,2015
+Nagaland,10.3,2015-2016,Secondary,Girls,2015
+Odisha,13.6,2015-2016,Secondary,Girls,2015
+Puducherry,10.1,2015-2016,Secondary,Girls,2015
+Punjab,10.7,2015-2016,Secondary,Girls,2015
+Rajasthan,14.3,2015-2016,Secondary,Girls,2015
+Sikkim,19.0,2015-2016,Secondary,Girls,2015
+Tamil Nadu,10.4,2015-2016,Secondary,Girls,2015
+Telangana,18.1,2015-2016,Secondary,Girls,2015
+Tripura,7.6,2015-2016,Secondary,Girls,2015
+Uttar Pradesh,11.3,2015-2016,Secondary,Girls,2015
+Uttarakhand,11.0,2015-2016,Secondary,Girls,2015
+West Bengal,14.9,2015-2016,Secondary,Girls,2015
+All India,7.9,2015-2016,Secondary,Girls,2015
+Andaman and Nicobar Islands,5.3,2016-2017,Elementary,Boys,2016
+Andhra Pradesh,6.1,2016-2017,Elementary,Boys,2016
+Arunachal Pradesh,3.9,2016-2017,Elementary,Boys,2016
+Assam,2.0,2016-2017,Elementary,Boys,2016
+Bihar,3.4,2016-2017,Elementary,Boys,2016
+Chandigarh,1.1,2016-2017,Elementary,Boys,2016
+Chhattisgarh,3.8,2016-2017,Elementary,Boys,2016
+Dadra and Nagar Haveli,1.7,2016-2017,Elementary,Boys,2016
+Daman and Diu,3.0,2016-2017,Elementary,Boys,2016
+Delhi,3.6,2016-2017,Elementary,Boys,2016
+Goa,0.4,2016-2017,Elementary,Boys,2016
+Gujarat,3.6,2016-2017,Elementary,Boys,2016
+Haryana,3.2,2016-2017,Elementary,Boys,2016
+Himachal Pradesh,5.5,2016-2017,Elementary,Boys,2016
+Jammu and Kashmir,4.2,2016-2017,Elementary,Boys,2016
+Jharkhand,3.5,2016-2017,Elementary,Boys,2016
+Karnataka,4.4,2016-2017,Elementary,Boys,2016
+Kerala,1.3,2016-2017,Elementary,Boys,2016
+Ladakh,6.1,2016-2017,Elementary,Boys,2016
+Lakshadweep,3.4,2016-2017,Elementary,Boys,2016
+Madhya Pradesh,4.0,2016-2017,Elementary,Boys,2016
+Maharashtra,2.7,2016-2017,Elementary,Boys,2016
+Manipur,5.7,2016-2017,Elementary,Boys,2016
+Meghalaya,5.8,2016-2017,Elementary,Boys,2016
+Mizoram,5.4,2016-2017,Elementary,Boys,2016
+Nagaland,3.9,2016-2017,Elementary,Boys,2016
+Odisha,1.9,2016-2017,Elementary,Boys,2016
+Puducherry,1.7,2016-2017,Elementary,Boys,2016
+Punjab,2.1,2016-2017,Elementary,Boys,2016
+Rajasthan,1.4,2016-2017,Elementary,Boys,2016
+Sikkim,1.7,2016-2017,Elementary,Boys,2016
+Tamil Nadu,5.4,2016-2017,Elementary,Boys,2016
+Telangana,0.7,2016-2017,Elementary,Boys,2016
+Tripura,2.7,2016-2017,Elementary,Boys,2016
+Uttar Pradesh,5.3,2016-2017,Elementary,Boys,2016
+Uttarakhand,2.9,2016-2017,Elementary,Boys,2016
+West Bengal,1.7,2016-2017,Elementary,Boys,2016
+All India,4.1,2016-2017,Elementary,Boys,2016
+Andaman and Nicobar Islands,5.4,2016-2017,Elementary,Girls,2016
+Andhra Pradesh,1.3,2016-2017,Elementary,Girls,2016
+Arunachal Pradesh,3.6,2016-2017,Elementary,Girls,2016
+Assam,1.5,2016-2017,Elementary,Girls,2016
+Bihar,1.2,2016-2017,Elementary,Girls,2016
+Chandigarh,0.5,2016-2017,Elementary,Girls,2016
+Chhattisgarh,5.2,2016-2017,Elementary,Girls,2016
+Dadra and Nagar Haveli,4.5,2016-2017,Elementary,Girls,2016
+Daman and Diu,3.5,2016-2017,Elementary,Girls,2016
+Delhi,0.5,2016-2017,Elementary,Girls,2016
+Goa,3.5,2016-2017,Elementary,Girls,2016
+Gujarat,4.0,2016-2017,Elementary,Girls,2016
+Haryana,4.2,2016-2017,Elementary,Girls,2016
+Himachal Pradesh,3.3,2016-2017,Elementary,Girls,2016
+Jammu and Kashmir,4.8,2016-2017,Elementary,Girls,2016
+Jharkhand,0.1,2016-2017,Elementary,Girls,2016
+Karnataka,2.0,2016-2017,Elementary,Girls,2016
+Kerala,2.5,2016-2017,Elementary,Girls,2016
+Ladakh,4.8,2016-2017,Elementary,Girls,2016
+Lakshadweep,0.3,2016-2017,Elementary,Girls,2016
+Madhya Pradesh,5.9,2016-2017,Elementary,Girls,2016
+Maharashtra,4.3,2016-2017,Elementary,Girls,2016
+Manipur,1.3,2016-2017,Elementary,Girls,2016
+Meghalaya,2.6,2016-2017,Elementary,Girls,2016
+Mizoram,4.3,2016-2017,Elementary,Girls,2016
+Nagaland,4.3,2016-2017,Elementary,Girls,2016
+Odisha,5.3,2016-2017,Elementary,Girls,2016
+Puducherry,2.3,2016-2017,Elementary,Girls,2016
+Punjab,3.7,2016-2017,Elementary,Girls,2016
+Rajasthan,2.9,2016-2017,Elementary,Girls,2016
+Sikkim,3.5,2016-2017,Elementary,Girls,2016
+Tamil Nadu,3.3,2016-2017,Elementary,Girls,2016
+Telangana,0.5,2016-2017,Elementary,Girls,2016
+Tripura,1.5,2016-2017,Elementary,Girls,2016
+Uttar Pradesh,0.6,2016-2017,Elementary,Girls,2016
+Uttarakhand,0.9,2016-2017,Elementary,Girls,2016
+West Bengal,5.2,2016-2017,Elementary,Girls,2016
+All India,5.3,2016-2017,Elementary,Girls,2016
+Andaman and Nicobar Islands,15.2,2016-2017,Secondary,Boys,2016
+Andhra Pradesh,18.7,2016-2017,Secondary,Boys,2016
+Arunachal Pradesh,15.9,2016-2017,Secondary,Boys,2016
+Assam,7.8,2016-2017,Secondary,Boys,2016
+Bihar,7.7,2016-2017,Secondary,Boys,2016
+Chandigarh,12.3,2016-2017,Secondary,Boys,2016
+Chhattisgarh,12.5,2016-2017,Secondary,Boys,2016
+Dadra and Nagar Haveli,17.2,2016-2017,Secondary,Boys,2016
+Daman and Diu,9.4,2016-2017,Secondary,Boys,2016
+Delhi,10.8,2016-2017,Secondary,Boys,2016
+Goa,11.1,2016-2017,Secondary,Boys,2016
+Gujarat,14.7,2016-2017,Secondary,Boys,2016
+Haryana,16.4,2016-2017,Secondary,Boys,2016
+Himachal Pradesh,11.1,2016-2017,Secondary,Boys,2016
+Jammu and Kashmir,18.3,2016-2017,Secondary,Boys,2016
+Jharkhand,14.7,2016-2017,Secondary,Boys,2016
+Karnataka,10.4,2016-2017,Secondary,Boys,2016
+Kerala,9.9,2016-2017,Secondary,Boys,2016
+Ladakh,18.3,2016-2017,Secondary,Boys,2016
+Lakshadweep,10.7,2016-2017,Secondary,Boys,2016
+Madhya Pradesh,14.6,2016-2017,Secondary,Boys,2016
+Maharashtra,10.9,2016-2017,Secondary,Boys,2016
+Manipur,8.3,2016-2017,Secondary,Boys,2016
+Meghalaya,17.6,2016-2017,Secondary,Boys,2016
+Mizoram,14.3,2016-2017,Secondary,Boys,2016
+Nagaland,9.4,2016-2017,Secondary,Boys,2016
+Odisha,17.5,2016-2017,Secondary,Boys,2016
+Puducherry,11.7,2016-2017,Secondary,Boys,2016
+Punjab,12.0,2016-2017,Secondary,Boys,2016
+Rajasthan,18.6,2016-2017,Secondary,Boys,2016
+Sikkim,15.5,2016-2017,Secondary,Boys,2016
+Tamil Nadu,13.5,2016-2017,Secondary,Boys,2016
+Telangana,9.6,2016-2017,Secondary,Boys,2016
+Tripura,15.3,2016-2017,Secondary,Boys,2016
+Uttar Pradesh,17.8,2016-2017,Secondary,Boys,2016
+Uttarakhand,9.5,2016-2017,Secondary,Boys,2016
+West Bengal,12.4,2016-2017,Secondary,Boys,2016
+All India,10.1,2016-2017,Secondary,Boys,2016
+Andaman and Nicobar Islands,11.1,2016-2017,Secondary,Girls,2016
+Andhra Pradesh,13.8,2016-2017,Secondary,Girls,2016
+Arunachal Pradesh,15.0,2016-2017,Secondary,Girls,2016
+Assam,17.7,2016-2017,Secondary,Girls,2016
+Bihar,14.0,2016-2017,Secondary,Girls,2016
+Chandigarh,10.6,2016-2017,Secondary,Girls,2016
+Chhattisgarh,14.0,2016-2017,Secondary,Girls,2016
+Dadra and Nagar Haveli,11.5,2016-2017,Secondary,Girls,2016
+Daman and Diu,14.3,2016-2017,Secondary,Girls,2016
+Delhi,10.4,2016-2017,Secondary,Girls,2016
+Goa,13.3,2016-2017,Secondary,Girls,2016
+Gujarat,9.8,2016-2017,Secondary,Girls,2016
+Haryana,16.3,2016-2017,Secondary,Girls,2016
+Himachal Pradesh,11.7,2016-2017,Secondary,Girls,2016
+Jammu and Kashmir,12.7,2016-2017,Secondary,Girls,2016
+Jharkhand,15.3,2016-2017,Secondary,Girls,2016
+Karnataka,9.1,2016-2017,Secondary,Girls,2016
+Kerala,8.0,2016-2017,Secondary,Girls,2016
+Ladakh,10.8,2016-2017,Secondary,Girls,2016
+Lakshadweep,14.2,2016-2017,Secondary,Girls,2016
+Madhya Pradesh,14.5,2016-2017,Secondary,Girls,2016
+Maharashtra,15.1,2016-2017,Secondary,Girls,2016
+Manipur,16.6,2016-2017,Secondary,Girls,2016
+Meghalaya,11.8,2016-2017,Secondary,Girls,2016
+Mizoram,9.2,2016-2017,Secondary,Girls,2016
+Nagaland,15.1,2016-2017,Secondary,Girls,2016
+Odisha,12.7,2016-2017,Secondary,Girls,2016
+Puducherry,10.3,2016-2017,Secondary,Girls,2016
+Punjab,10.8,2016-2017,Secondary,Girls,2016
+Rajasthan,11.2,2016-2017,Secondary,Girls,2016
+Sikkim,11.5,2016-2017,Secondary,Girls,2016
+Tamil Nadu,13.8,2016-2017,Secondary,Girls,2016
+Telangana,17.8,2016-2017,Secondary,Girls,2016
+Tripura,10.8,2016-2017,Secondary,Girls,2016
+Uttar Pradesh,12.1,2016-2017,Secondary,Girls,2016
+Uttarakhand,11.0,2016-2017,Secondary,Girls,2016
+West Bengal,14.7,2016-2017,Secondary,Girls,2016
+All India,8.0,2016-2017,Secondary,Girls,2016
+Andaman and Nicobar Islands,0.6,2017-2018,Elementary,Boys,2017
+Andhra Pradesh,6.2,2017-2018,Elementary,Boys,2017
+Arunachal Pradesh,0.2,2017-2018,Elementary,Boys,2017
+Assam,5.6,2017-2018,Elementary,Boys,2017
+Bihar,4.0,2017-2018,Elementary,Boys,2017
+Chandigarh,2.5,2017-2018,Elementary,Boys,2017
+Chhattisgarh,3.5,2017-2018,Elementary,Boys,2017
+Dadra and Nagar Haveli,5.2,2017-2018,Elementary,Boys,2017
+Daman and Diu,3.4,2017-2018,Elementary,Boys,2017
+Delhi,2.5,2017-2018,Elementary,Boys,2017
+Goa,2.0,2017-2018,Elementary,Boys,2017
+Gujarat,1.3,2017-2018,Elementary,Boys,2017
+Haryana,4.4,2017-2018,Elementary,Boys,2017
+Himachal Pradesh,3.9,2017-2018,Elementary,Boys,2017
+Jammu and Kashmir,0.5,2017-2018,Elementary,Boys,2017
+Jharkhand,4.0,2017-2018,Elementary,Boys,2017
+Karnataka,2.9,2017-2018,Elementary,Boys,2017
+Kerala,3.1,2017-2018,Elementary,Boys,2017
+Ladakh,2.7,2017-2018,Elementary,Boys,2017
+Lakshadweep,1.2,2017-2018,Elementary,Boys,2017
+Madhya Pradesh,4.8,2017-2018,Elementary,Boys,2017
+Maharashtra,1.1,2017-2018,Elementary,Boys,2017
+Manipur,4.7,2017-2018,Elementary,Boys,2017
+Meghalaya,2.0,2017-2018,Elementary,Boys,2017
+Mizoram,2.0,2017-2018,Elementary,Boys,2017
+Nagaland,2.3,2017-2018,Elementary,Boys,2017
+Odisha,6.2,2017-2018,Elementary,Boys,2017
+Puducherry,3.9,2017-2018,Elementary,Boys,2017
+Punjab,0.7,2017-2018,Elementary,Boys,2017
+Rajasthan,2.6,2017-2018,Elementary,Boys,2017
+Sikkim,0.8,2017-2018,Elementary,Boys,2017
+Tamil Nadu,2.3,2017-2018,Elementary,Boys,2017
+Telangana,2.5,2017-2018,Elementary,Boys,2017
+Tripura,1.6,2017-2018,Elementary,Boys,2017
+Uttar Pradesh,1.8,2017-2018,Elementary,Boys,2017
+Uttarakhand,0.7,2017-2018,Elementary,Boys,2017
+West Bengal,1.9,2017-2018,Elementary,Boys,2017
+All India,1.9,2017-2018,Elementary,Boys,2017
+Andaman and Nicobar Islands,2.1,2017-2018,Elementary,Girls,2017
+Andhra Pradesh,2.8,2017-2018,Elementary,Girls,2017
+Arunachal Pradesh,2.1,2017-2018,Elementary,Girls,2017
+Assam,3.1,2017-2018,Elementary,Girls,2017
+Bihar,5.2,2017-2018,Elementary,Girls,2017
+Chandigarh,3.1,2017-2018,Elementary,Girls,2017
+Chhattisgarh,1.6,2017-2018,Elementary,Girls,2017
+Dadra and Nagar Haveli,0.6,2017-2018,Elementary,Girls,2017
+Daman and Diu,4.9,2017-2018,Elementary,Girls,2017
+Delhi,5.9,2017-2018,Elementary,Girls,2017
+Goa,5.7,2017-2018,Elementary,Girls,2017
+Gujarat,1.2,2017-2018,Elementary,Girls,2017
+Haryana,2.8,2017-2018,Elementary,Girls,2017
+Himachal Pradesh,4.8,2017-2018,Elementary,Girls,2017
+Jammu and Kashmir,3.0,2017-2018,Elementary,Girls,2017
+Jharkhand,1.5,2017-2018,Elementary,Girls,2017
+Karnataka,4.7,2017-2018,Elementary,Girls,2017
+Kerala,2.9,2017-2018,Elementary,Girls,2017
+Ladakh,2.7,2017-2018,Elementary,Girls,2017
+Lakshadweep,0.1,2017-2018,Elementary,Girls,2017
+Madhya Pradesh,0.5,2017-2018,Elementary,Girls,2017
+Maharashtra,0.7,2017-2018,Elementary,Girls,2017
+Manipur,0.3,2017-2018,Elementary,Girls,2017
+Meghalaya,5.5,2017-2018,Elementary,Girls,2017
+Mizoram,3.0,2017-2018,Elementary,Girls,2017
+Nagaland,1.0,2017-2018,Elementary,Girls,2017
+Odisha,1.9,2017-2018,Elementary,Girls,2017
+Puducherry,3.6,2017-2018,Elementary,Girls,2017
+Punjab,1.0,2017-2018,Elementary,Girls,2017
+Rajasthan,0.0,2017-2018,Elementary,Girls,2017
+Sikkim,4.2,2017-2018,Elementary,Girls,2017
+Tamil Nadu,4.5,2017-2018,Elementary,Girls,2017
+Telangana,2.7,2017-2018,Elementary,Girls,2017
+Tripura,2.9,2017-2018,Elementary,Girls,2017
+Uttar Pradesh,3.4,2017-2018,Elementary,Girls,2017
+Uttarakhand,3.7,2017-2018,Elementary,Girls,2017
+West Bengal,4.2,2017-2018,Elementary,Girls,2017
+All India,4.1,2017-2018,Elementary,Girls,2017
+Andaman and Nicobar Islands,17.5,2017-2018,Secondary,Boys,2017
+Andhra Pradesh,19.8,2017-2018,Secondary,Boys,2017
+Arunachal Pradesh,16.3,2017-2018,Secondary,Boys,2017
+Assam,17.6,2017-2018,Secondary,Boys,2017
+Bihar,15.3,2017-2018,Secondary,Boys,2017
+Chandigarh,15.8,2017-2018,Secondary,Boys,2017
+Chhattisgarh,8.1,2017-2018,Secondary,Boys,2017
+Dadra and Nagar Haveli,13.2,2017-2018,Secondary,Boys,2017
+Daman and Diu,17.6,2017-2018,Secondary,Boys,2017
+Delhi,16.3,2017-2018,Secondary,Boys,2017
+Goa,18.4,2017-2018,Secondary,Boys,2017
+Gujarat,11.9,2017-2018,Secondary,Boys,2017
+Haryana,11.9,2017-2018,Secondary,Boys,2017
+Himachal Pradesh,8.5,2017-2018,Secondary,Boys,2017
+Jammu and Kashmir,16.4,2017-2018,Secondary,Boys,2017
+Jharkhand,11.4,2017-2018,Secondary,Boys,2017
+Karnataka,10.9,2017-2018,Secondary,Boys,2017
+Kerala,11.8,2017-2018,Secondary,Boys,2017
+Ladakh,18.1,2017-2018,Secondary,Boys,2017
+Lakshadweep,15.1,2017-2018,Secondary,Boys,2017
+Madhya Pradesh,20.0,2017-2018,Secondary,Boys,2017
+Maharashtra,12.3,2017-2018,Secondary,Boys,2017
+Manipur,14.4,2017-2018,Secondary,Boys,2017
+Meghalaya,13.0,2017-2018,Secondary,Boys,2017
+Mizoram,16.0,2017-2018,Secondary,Boys,2017
+Nagaland,18.1,2017-2018,Secondary,Boys,2017
+Odisha,8.4,2017-2018,Secondary,Boys,2017
+Puducherry,7.9,2017-2018,Secondary,Boys,2017
+Punjab,13.6,2017-2018,Secondary,Boys,2017
+Rajasthan,10.9,2017-2018,Secondary,Boys,2017
+Sikkim,19.3,2017-2018,Secondary,Boys,2017
+Tamil Nadu,13.5,2017-2018,Secondary,Boys,2017
+Telangana,13.1,2017-2018,Secondary,Boys,2017
+Tripura,10.2,2017-2018,Secondary,Boys,2017
+Uttar Pradesh,17.5,2017-2018,Secondary,Boys,2017
+Uttarakhand,9.0,2017-2018,Secondary,Boys,2017
+West Bengal,17.1,2017-2018,Secondary,Boys,2017
+All India,16.3,2017-2018,Secondary,Boys,2017
+Andaman and Nicobar Islands,8.5,2017-2018,Secondary,Girls,2017
+Andhra Pradesh,8.9,2017-2018,Secondary,Girls,2017
+Arunachal Pradesh,8.4,2017-2018,Secondary,Girls,2017
+Assam,17.0,2017-2018,Secondary,Girls,2017
+Bihar,16.4,2017-2018,Secondary,Girls,2017
+Chandigarh,15.0,2017-2018,Secondary,Girls,2017
+Chhattisgarh,14.7,2017-2018,Secondary,Girls,2017
+Dadra and Nagar Haveli,9.5,2017-2018,Secondary,Girls,2017
+Daman and Diu,12.0,2017-2018,Secondary,Girls,2017
+Delhi,14.3,2017-2018,Secondary,Girls,2017
+Goa,14.1,2017-2018,Secondary,Girls,2017
+Gujarat,11.1,2017-2018,Secondary,Girls,2017
+Haryana,16.5,2017-2018,Secondary,Girls,2017
+Himachal Pradesh,9.3,2017-2018,Secondary,Girls,2017
+Jammu and Kashmir,9.7,2017-2018,Secondary,Girls,2017
+Jharkhand,7.6,2017-2018,Secondary,Girls,2017
+Karnataka,10.6,2017-2018,Secondary,Girls,2017
+Kerala,12.5,2017-2018,Secondary,Girls,2017
+Ladakh,10.6,2017-2018,Secondary,Girls,2017
+Lakshadweep,9.4,2017-2018,Secondary,Girls,2017
+Madhya Pradesh,9.2,2017-2018,Secondary,Girls,2017
+Maharashtra,9.4,2017-2018,Secondary,Girls,2017
+Manipur,15.4,2017-2018,Secondary,Girls,2017
+Meghalaya,14.5,2017-2018,Secondary,Girls,2017
+Mizoram,16.2,2017-2018,Secondary,Girls,2017
+Nagaland,12.1,2017-2018,Secondary,Girls,2017
+Odisha,6.8,2017-2018,Secondary,Girls,2017
+Puducherry,16.3,2017-2018,Secondary,Girls,2017
+Punjab,9.0,2017-2018,Secondary,Girls,2017
+Rajasthan,13.8,2017-2018,Secondary,Girls,2017
+Sikkim,16.3,2017-2018,Secondary,Girls,2017
+Tamil Nadu,8.4,2017-2018,Secondary,Girls,2017
+Telangana,17.6,2017-2018,Secondary,Girls,2017
+Tripura,10.5,2017-2018,Secondary,Girls,2017
+Uttar Pradesh,14.5,2017-2018,Secondary,Girls,2017
+Uttarakhand,10.8,2017-2018,Secondary,Girls,2017
+West Bengal,12.4,2017-2018,Secondary,Girls,2017
+All India,16.8,2017-2018,Secondary,Girls,2017
+Andaman and Nicobar Islands,0.9,2018-2019,Elementary,Boys,2018
+Andhra Pradesh,2.5,2018-2019,Elementary,Boys,2018
+Arunachal Pradesh,1.4,2018-2019,Elementary,Boys,2018
+Assam,1.2,2018-2019,Elementary,Boys,2018
+Bihar,5.4,2018-2019,Elementary,Boys,2018
+Chandigarh,0.2,2018-2019,Elementary,Boys,2018
+Chhattisgarh,4.1,2018-2019,Elementary,Boys,2018
+Dadra and Nagar Haveli,4.5,2018-2019,Elementary,Boys,2018
+Daman and Diu,5.0,2018-2019,Elementary,Boys,2018
+Delhi,0.4,2018-2019,Elementary,Boys,2018
+Goa,3.9,2018-2019,Elementary,Boys,2018
+Gujarat,4.0,2018-2019,Elementary,Boys,2018
+Haryana,2.6,2018-2019,Elementary,Boys,2018
+Himachal Pradesh,4.9,2018-2019,Elementary,Boys,2018
+Jammu and Kashmir,2.0,2018-2019,Elementary,Boys,2018
+Jharkhand,3.3,2018-2019,Elementary,Boys,2018
+Karnataka,1.0,2018-2019,Elementary,Boys,2018
+Kerala,0.4,2018-2019,Elementary,Boys,2018
+Ladakh,3.2,2018-2019,Elementary,Boys,2018
+Lakshadweep,0.2,2018-2019,Elementary,Boys,2018
+Madhya Pradesh,1.2,2018-2019,Elementary,Boys,2018
+Maharashtra,2.4,2018-2019,Elementary,Boys,2018
+Manipur,5.3,2018-2019,Elementary,Boys,2018
+Meghalaya,3.9,2018-2019,Elementary,Boys,2018
+Mizoram,2.7,2018-2019,Elementary,Boys,2018
+Nagaland,2.6,2018-2019,Elementary,Boys,2018
+Odisha,2.3,2018-2019,Elementary,Boys,2018
+Puducherry,3.3,2018-2019,Elementary,Boys,2018
+Punjab,1.7,2018-2019,Elementary,Boys,2018
+Rajasthan,2.0,2018-2019,Elementary,Boys,2018
+Sikkim,0.2,2018-2019,Elementary,Boys,2018
+Tamil Nadu,2.4,2018-2019,Elementary,Boys,2018
+Telangana,0.4,2018-2019,Elementary,Boys,2018
+Tripura,1.6,2018-2019,Elementary,Boys,2018
+Uttar Pradesh,4.6,2018-2019,Elementary,Boys,2018
+Uttarakhand,0.1,2018-2019,Elementary,Boys,2018
+West Bengal,2.2,2018-2019,Elementary,Boys,2018
+All India,1.1,2018-2019,Elementary,Boys,2018
+Andaman and Nicobar Islands,0.0,2018-2019,Elementary,Girls,2018
+Andhra Pradesh,5.6,2018-2019,Elementary,Girls,2018
+Arunachal Pradesh,4.3,2018-2019,Elementary,Girls,2018
+Assam,1.6,2018-2019,Elementary,Girls,2018
+Bihar,4.6,2018-2019,Elementary,Girls,2018
+Chandigarh,0.5,2018-2019,Elementary,Girls,2018
+Chhattisgarh,1.8,2018-2019,Elementary,Girls,2018
+Dadra and Nagar Haveli,5.7,2018-2019,Elementary,Girls,2018
+Daman and Diu,2.8,2018-2019,Elementary,Girls,2018
+Delhi,4.3,2018-2019,Elementary,Girls,2018
+Goa,3.3,2018-2019,Elementary,Girls,2018
+Gujarat,1.9,2018-2019,Elementary,Girls,2018
+Haryana,2.9,2018-2019,Elementary,Girls,2018
+Himachal Pradesh,1.8,2018-2019,Elementary,Girls,2018
+Jammu and Kashmir,2.2,2018-2019,Elementary,Girls,2018
+Jharkhand,0.5,2018-2019,Elementary,Girls,2018
+Karnataka,0.7,2018-2019,Elementary,Girls,2018
+Kerala,1.2,2018-2019,Elementary,Girls,2018
+Ladakh,3.5,2018-2019,Elementary,Girls,2018
+Lakshadweep,4.8,2018-2019,Elementary,Girls,2018
+Madhya Pradesh,0.1,2018-2019,Elementary,Girls,2018
+Maharashtra,5.4,2018-2019,Elementary,Girls,2018
+Manipur,4.3,2018-2019,Elementary,Girls,2018
+Meghalaya,4.1,2018-2019,Elementary,Girls,2018
+Mizoram,2.0,2018-2019,Elementary,Girls,2018
+Nagaland,2.7,2018-2019,Elementary,Girls,2018
+Odisha,0.9,2018-2019,Elementary,Girls,2018
+Puducherry,2.8,2018-2019,Elementary,Girls,2018
+Punjab,0.6,2018-2019,Elementary,Girls,2018
+Rajasthan,2.6,2018-2019,Elementary,Girls,2018
+Sikkim,4.4,2018-2019,Elementary,Girls,2018
+Tamil Nadu,2.2,2018-2019,Elementary,Girls,2018
+Telangana,5.6,2018-2019,Elementary,Girls,2018
+Tripura,0.3,2018-2019,Elementary,Girls,2018
+Uttar Pradesh,1.8,2018-2019,Elementary,Girls,2018
+Uttarakhand,1.2,2018-2019,Elementary,Girls,2018
+West Bengal,5.1,2018-2019,Elementary,Girls,2018
+All India,5.5,2018-2019,Elementary,Girls,2018
+Andaman and Nicobar Islands,13.3,2018-2019,Secondary,Boys,2018
+Andhra Pradesh,13.7,2018-2019,Secondary,Boys,2018
+Arunachal Pradesh,9.5,2018-2019,Secondary,Boys,2018
+Assam,7.3,2018-2019,Secondary,Boys,2018
+Bihar,13.3,2018-2019,Secondary,Boys,2018
+Chandigarh,9.6,2018-2019,Secondary,Boys,2018
+Chhattisgarh,10.5,2018-2019,Secondary,Boys,2018
+Dadra and Nagar Haveli,9.8,2018-2019,Secondary,Boys,2018
+Daman and Diu,13.2,2018-2019,Secondary,Boys,2018
+Delhi,15.6,2018-2019,Secondary,Boys,2018
+Goa,18.8,2018-2019,Secondary,Boys,2018
+Gujarat,15.1,2018-2019,Secondary,Boys,2018
+Haryana,17.2,2018-2019,Secondary,Boys,2018
+Himachal Pradesh,8.7,2018-2019,Secondary,Boys,2018
+Jammu and Kashmir,9.5,2018-2019,Secondary,Boys,2018
+Jharkhand,12.3,2018-2019,Secondary,Boys,2018
+Karnataka,9.3,2018-2019,Secondary,Boys,2018
+Kerala,7.3,2018-2019,Secondary,Boys,2018
+Ladakh,8.0,2018-2019,Secondary,Boys,2018
+Lakshadweep,11.6,2018-2019,Secondary,Boys,2018
+Madhya Pradesh,11.5,2018-2019,Secondary,Boys,2018
+Maharashtra,9.1,2018-2019,Secondary,Boys,2018
+Manipur,19.1,2018-2019,Secondary,Boys,2018
+Meghalaya,14.5,2018-2019,Secondary,Boys,2018
+Mizoram,16.1,2018-2019,Secondary,Boys,2018
+Nagaland,18.1,2018-2019,Secondary,Boys,2018
+Odisha,9.8,2018-2019,Secondary,Boys,2018
+Puducherry,13.4,2018-2019,Secondary,Boys,2018
+Punjab,12.2,2018-2019,Secondary,Boys,2018
+Rajasthan,11.4,2018-2019,Secondary,Boys,2018
+Sikkim,12.9,2018-2019,Secondary,Boys,2018
+Tamil Nadu,15.8,2018-2019,Secondary,Boys,2018
+Telangana,9.0,2018-2019,Secondary,Boys,2018
+Tripura,17.5,2018-2019,Secondary,Boys,2018
+Uttar Pradesh,13.6,2018-2019,Secondary,Boys,2018
+Uttarakhand,10.6,2018-2019,Secondary,Boys,2018
+West Bengal,13.8,2018-2019,Secondary,Boys,2018
+All India,12.6,2018-2019,Secondary,Boys,2018
+Andaman and Nicobar Islands,10.1,2018-2019,Secondary,Girls,2018
+Andhra Pradesh,8.5,2018-2019,Secondary,Girls,2018
+Arunachal Pradesh,19.1,2018-2019,Secondary,Girls,2018
+Assam,14.7,2018-2019,Secondary,Girls,2018
+Bihar,17.4,2018-2019,Secondary,Girls,2018
+Chandigarh,10.8,2018-2019,Secondary,Girls,2018
+Chhattisgarh,17.9,2018-2019,Secondary,Girls,2018
+Dadra and Nagar Haveli,17.4,2018-2019,Secondary,Girls,2018
+Daman and Diu,9.2,2018-2019,Secondary,Girls,2018
+Delhi,8.1,2018-2019,Secondary,Girls,2018
+Goa,14.0,2018-2019,Secondary,Girls,2018
+Gujarat,12.9,2018-2019,Secondary,Girls,2018
+Haryana,9.8,2018-2019,Secondary,Girls,2018
+Himachal Pradesh,15.3,2018-2019,Secondary,Girls,2018
+Jammu and Kashmir,19.0,2018-2019,Secondary,Girls,2018
+Jharkhand,7.4,2018-2019,Secondary,Girls,2018
+Karnataka,19.0,2018-2019,Secondary,Girls,2018
+Kerala,7.8,2018-2019,Secondary,Girls,2018
+Ladakh,14.2,2018-2019,Secondary,Girls,2018
+Lakshadweep,14.3,2018-2019,Secondary,Girls,2018
+Madhya Pradesh,9.2,2018-2019,Secondary,Girls,2018
+Maharashtra,13.9,2018-2019,Secondary,Girls,2018
+Manipur,16.3,2018-2019,Secondary,Girls,2018
+Meghalaya,17.1,2018-2019,Secondary,Girls,2018
+Mizoram,13.9,2018-2019,Secondary,Girls,2018
+Nagaland,15.0,2018-2019,Secondary,Girls,2018
+Odisha,7.7,2018-2019,Secondary,Girls,2018
+Puducherry,8.1,2018-2019,Secondary,Girls,2018
+Punjab,12.5,2018-2019,Secondary,Girls,2018
+Rajasthan,15.5,2018-2019,Secondary,Girls,2018
+Sikkim,11.6,2018-2019,Secondary,Girls,2018
+Tamil Nadu,8.1,2018-2019,Secondary,Girls,2018
+Telangana,17.9,2018-2019,Secondary,Girls,2018
+Tripura,8.6,2018-2019,Secondary,Girls,2018
+Uttar Pradesh,9.9,2018-2019,Secondary,Girls,2018
+Uttarakhand,14.4,2018-2019,Secondary,Girls,2018
+West Bengal,9.2,2018-2019,Secondary,Girls,2018
+All India,9.1,2018-2019,Secondary,Girls,2018
+Andaman and Nicobar Islands,1.9,2019-2020,Elementary,Boys,2019
+Andhra Pradesh,4.6,2019-2020,Elementary,Boys,2019
+Arunachal Pradesh,1.0,2019-2020,Elementary,Boys,2019
+Assam,1.3,2019-2020,Elementary,Boys,2019
+Bihar,1.0,2019-2020,Elementary,Boys,2019
+Chandigarh,5.1,2019-2020,Elementary,Boys,2019
+Chhattisgarh,3.9,2019-2020,Elementary,Boys,2019
+Dadra and Nagar Haveli,3.6,2019-2020,Elementary,Boys,2019
+Daman and Diu,1.6,2019-2020,Elementary,Boys,2019
+Delhi,3.1,2019-2020,Elementary,Boys,2019
+Goa,5.4,2019-2020,Elementary,Boys,2019
+Gujarat,4.3,2019-2020,Elementary,Boys,2019
+Haryana,0.2,2019-2020,Elementary,Boys,2019
+Himachal Pradesh,0.5,2019-2020,Elementary,Boys,2019
+Jammu and Kashmir,0.1,2019-2020,Elementary,Boys,2019
+Jharkhand,4.9,2019-2020,Elementary,Boys,2019
+Karnataka,1.4,2019-2020,Elementary,Boys,2019
+Kerala,4.6,2019-2020,Elementary,Boys,2019
+Ladakh,2.3,2019-2020,Elementary,Boys,2019
+Lakshadweep,1.0,2019-2020,Elementary,Boys,2019
+Madhya Pradesh,4.4,2019-2020,Elementary,Boys,2019
+Maharashtra,0.9,2019-2020,Elementary,Boys,2019
+Manipur,5.1,2019-2020,Elementary,Boys,2019
+Meghalaya,5.7,2019-2020,Elementary,Boys,2019
+Mizoram,4.8,2019-2020,Elementary,Boys,2019
+Nagaland,0.6,2019-2020,Elementary,Boys,2019
+Odisha,0.4,2019-2020,Elementary,Boys,2019
+Puducherry,2.3,2019-2020,Elementary,Boys,2019
+Punjab,1.2,2019-2020,Elementary,Boys,2019
+Rajasthan,4.2,2019-2020,Elementary,Boys,2019
+Sikkim,0.5,2019-2020,Elementary,Boys,2019
+Tamil Nadu,5.7,2019-2020,Elementary,Boys,2019
+Telangana,5.9,2019-2020,Elementary,Boys,2019
+Tripura,1.9,2019-2020,Elementary,Boys,2019
+Uttar Pradesh,1.0,2019-2020,Elementary,Boys,2019
+Uttarakhand,4.1,2019-2020,Elementary,Boys,2019
+West Bengal,3.2,2019-2020,Elementary,Boys,2019
+All India,2.1,2019-2020,Elementary,Boys,2019
+Andaman and Nicobar Islands,3.8,2019-2020,Elementary,Girls,2019
+Andhra Pradesh,5.9,2019-2020,Elementary,Girls,2019
+Arunachal Pradesh,0.1,2019-2020,Elementary,Girls,2019
+Assam,5.2,2019-2020,Elementary,Girls,2019
+Bihar,1.5,2019-2020,Elementary,Girls,2019
+Chandigarh,2.1,2019-2020,Elementary,Girls,2019
+Chhattisgarh,0.7,2019-2020,Elementary,Girls,2019
+Dadra and Nagar Haveli,5.1,2019-2020,Elementary,Girls,2019
+Daman and Diu,1.2,2019-2020,Elementary,Girls,2019
+Delhi,0.1,2019-2020,Elementary,Girls,2019
+Goa,0.5,2019-2020,Elementary,Girls,2019
+Gujarat,0.5,2019-2020,Elementary,Girls,2019
+Haryana,2.9,2019-2020,Elementary,Girls,2019
+Himachal Pradesh,1.0,2019-2020,Elementary,Girls,2019
+Jammu and Kashmir,4.1,2019-2020,Elementary,Girls,2019
+Jharkhand,4.8,2019-2020,Elementary,Girls,2019
+Karnataka,0.1,2019-2020,Elementary,Girls,2019
+Kerala,4.5,2019-2020,Elementary,Girls,2019
+Ladakh,4.8,2019-2020,Elementary,Girls,2019
+Lakshadweep,3.8,2019-2020,Elementary,Girls,2019
+Madhya Pradesh,1.7,2019-2020,Elementary,Girls,2019
+Maharashtra,2.6,2019-2020,Elementary,Girls,2019
+Manipur,3.7,2019-2020,Elementary,Girls,2019
+Meghalaya,4.5,2019-2020,Elementary,Girls,2019
+Mizoram,0.0,2019-2020,Elementary,Girls,2019
+Nagaland,3.4,2019-2020,Elementary,Girls,2019
+Odisha,4.2,2019-2020,Elementary,Girls,2019
+Puducherry,5.5,2019-2020,Elementary,Girls,2019
+Punjab,0.6,2019-2020,Elementary,Girls,2019
+Rajasthan,3.1,2019-2020,Elementary,Girls,2019
+Sikkim,3.8,2019-2020,Elementary,Girls,2019
+Tamil Nadu,1.9,2019-2020,Elementary,Girls,2019
+Telangana,4.6,2019-2020,Elementary,Girls,2019
+Tripura,2.8,2019-2020,Elementary,Girls,2019
+Uttar Pradesh,3.9,2019-2020,Elementary,Girls,2019
+Uttarakhand,3.2,2019-2020,Elementary,Girls,2019
+West Bengal,3.9,2019-2020,Elementary,Girls,2019
+All India,3.2,2019-2020,Elementary,Girls,2019
+Andaman and Nicobar Islands,10.1,2019-2020,Secondary,Boys,2019
+Andhra Pradesh,7.8,2019-2020,Secondary,Boys,2019
+Arunachal Pradesh,13.3,2019-2020,Secondary,Boys,2019
+Assam,8.8,2019-2020,Secondary,Boys,2019
+Bihar,13.3,2019-2020,Secondary,Boys,2019
+Chandigarh,14.6,2019-2020,Secondary,Boys,2019
+Chhattisgarh,12.4,2019-2020,Secondary,Boys,2019
+Dadra and Nagar Haveli,10.9,2019-2020,Secondary,Boys,2019
+Daman and Diu,18.5,2019-2020,Secondary,Boys,2019
+Delhi,8.5,2019-2020,Secondary,Boys,2019
+Goa,11.1,2019-2020,Secondary,Boys,2019
+Gujarat,11.7,2019-2020,Secondary,Boys,2019
+Haryana,10.4,2019-2020,Secondary,Boys,2019
+Himachal Pradesh,16.2,2019-2020,Secondary,Boys,2019
+Jammu and Kashmir,12.3,2019-2020,Secondary,Boys,2019
+Jharkhand,15.0,2019-2020,Secondary,Boys,2019
+Karnataka,16.5,2019-2020,Secondary,Boys,2019
+Kerala,8.5,2019-2020,Secondary,Boys,2019
+Ladakh,12.4,2019-2020,Secondary,Boys,2019
+Lakshadweep,15.1,2019-2020,Secondary,Boys,2019
+Madhya Pradesh,16.0,2019-2020,Secondary,Boys,2019
+Maharashtra,7.7,2019-2020,Secondary,Boys,2019
+Manipur,13.8,2019-2020,Secondary,Boys,2019
+Meghalaya,14.8,2019-2020,Secondary,Boys,2019
+Mizoram,13.2,2019-2020,Secondary,Boys,2019
+Nagaland,8.8,2019-2020,Secondary,Boys,2019
+Odisha,13.8,2019-2020,Secondary,Boys,2019
+Puducherry,7.3,2019-2020,Secondary,Boys,2019
+Punjab,14.1,2019-2020,Secondary,Boys,2019
+Rajasthan,17.4,2019-2020,Secondary,Boys,2019
+Sikkim,9.0,2019-2020,Secondary,Boys,2019
+Tamil Nadu,10.2,2019-2020,Secondary,Boys,2019
+Telangana,14.5,2019-2020,Secondary,Boys,2019
+Tripura,13.4,2019-2020,Secondary,Boys,2019
+Uttar Pradesh,15.6,2019-2020,Secondary,Boys,2019
+Uttarakhand,10.6,2019-2020,Secondary,Boys,2019
+West Bengal,10.6,2019-2020,Secondary,Boys,2019
+All India,11.8,2019-2020,Secondary,Boys,2019
+Andaman and Nicobar Islands,10.4,2019-2020,Secondary,Girls,2019
+Andhra Pradesh,8.2,2019-2020,Secondary,Girls,2019
+Arunachal Pradesh,8.7,2019-2020,Secondary,Girls,2019
+Assam,12.7,2019-2020,Secondary,Girls,2019
+Bihar,9.7,2019-2020,Secondary,Girls,2019
+Chandigarh,12.0,2019-2020,Secondary,Girls,2019
+Chhattisgarh,11.9,2019-2020,Secondary,Girls,2019
+Dadra and Nagar Haveli,11.5,2019-2020,Secondary,Girls,2019
+Daman and Diu,7.4,2019-2020,Secondary,Girls,2019
+Delhi,16.5,2019-2020,Secondary,Girls,2019
+Goa,6.2,2019-2020,Secondary,Girls,2019
+Gujarat,12.3,2019-2020,Secondary,Girls,2019
+Haryana,9.7,2019-2020,Secondary,Girls,2019
+Himachal Pradesh,11.0,2019-2020,Secondary,Girls,2019
+Jammu and Kashmir,8.1,2019-2020,Secondary,Girls,2019
+Jharkhand,9.2,2019-2020,Secondary,Girls,2019
+Karnataka,10.1,2019-2020,Secondary,Girls,2019
+Kerala,9.4,2019-2020,Secondary,Girls,2019
+Ladakh,19.7,2019-2020,Secondary,Girls,2019
+Lakshadweep,10.8,2019-2020,Secondary,Girls,2019
+Madhya Pradesh,14.9,2019-2020,Secondary,Girls,2019
+Maharashtra,11.7,2019-2020,Secondary,Girls,2019
+Manipur,9.4,2019-2020,Secondary,Girls,2019
+Meghalaya,10.7,2019-2020,Secondary,Girls,2019
+Mizoram,9.4,2019-2020,Secondary,Girls,2019
+Nagaland,10.5,2019-2020,Secondary,Girls,2019
+Odisha,11.8,2019-2020,Secondary,Girls,2019
+Puducherry,12.6,2019-2020,Secondary,Girls,2019
+Punjab,14.4,2019-2020,Secondary,Girls,2019
+Rajasthan,13.9,2019-2020,Secondary,Girls,2019
+Sikkim,10.7,2019-2020,Secondary,Girls,2019
+Tamil Nadu,14.1,2019-2020,Secondary,Girls,2019
+Telangana,7.1,2019-2020,Secondary,Girls,2019
+Tripura,11.5,2019-2020,Secondary,Girls,2019
+Uttar Pradesh,12.0,2019-2020,Secondary,Girls,2019
+Uttarakhand,6.9,2019-2020,Secondary,Girls,2019
+West Bengal,10.7,2019-2020,Secondary,Girls,2019
+All India,10.8,2019-2020,Secondary,Girls,2019
+Andaman and Nicobar Islands,4.8,2020-2021,Elementary,Boys,2020
+Andhra Pradesh,3.2,2020-2021,Elementary,Boys,2020
+Arunachal Pradesh,3.5,2020-2021,Elementary,Boys,2020
+Assam,1.2,2020-2021,Elementary,Boys,2020
+Bihar,4.7,2020-2021,Elementary,Boys,2020
+Chandigarh,0.9,2020-2021,Elementary,Boys,2020
+Chhattisgarh,1.8,2020-2021,Elementary,Boys,2020
+Dadra and Nagar Haveli,5.4,2020-2021,Elementary,Boys,2020
+Daman and Diu,3.8,2020-2021,Elementary,Boys,2020
+Delhi,3.8,2020-2021,Elementary,Boys,2020
+Goa,2.9,2020-2021,Elementary,Boys,2020
+Gujarat,1.7,2020-2021,Elementary,Boys,2020
+Haryana,0.1,2020-2021,Elementary,Boys,2020
+Himachal Pradesh,0.2,2020-2021,Elementary,Boys,2020
+Jammu and Kashmir,3.0,2020-2021,Elementary,Boys,2020
+Jharkhand,1.5,2020-2021,Elementary,Boys,2020
+Karnataka,1.9,2020-2021,Elementary,Boys,2020
+Kerala,1.6,2020-2021,Elementary,Boys,2020
+Ladakh,3.1,2020-2021,Elementary,Boys,2020
+Lakshadweep,4.7,2020-2021,Elementary,Boys,2020
+Madhya Pradesh,2.5,2020-2021,Elementary,Boys,2020
+Maharashtra,4.5,2020-2021,Elementary,Boys,2020
+Manipur,2.7,2020-2021,Elementary,Boys,2020
+Meghalaya,5.4,2020-2021,Elementary,Boys,2020
+Mizoram,4.9,2020-2021,Elementary,Boys,2020
+Nagaland,0.5,2020-2021,Elementary,Boys,2020
+Odisha,2.1,2020-2021,Elementary,Boys,2020
+Puducherry,3.5,2020-2021,Elementary,Boys,2020
+Punjab,0.1,2020-2021,Elementary,Boys,2020
+Rajasthan,4.5,2020-2021,Elementary,Boys,2020
+Sikkim,6.1,2020-2021,Elementary,Boys,2020
+Tamil Nadu,4.3,2020-2021,Elementary,Boys,2020
+Telangana,3.2,2020-2021,Elementary,Boys,2020
+Tripura,2.1,2020-2021,Elementary,Boys,2020
+Uttar Pradesh,3.7,2020-2021,Elementary,Boys,2020
+Uttarakhand,3.8,2020-2021,Elementary,Boys,2020
+West Bengal,3.1,2020-2021,Elementary,Boys,2020
+All India,0.7,2020-2021,Elementary,Boys,2020
+Andaman and Nicobar Islands,3.5,2020-2021,Elementary,Girls,2020
+Andhra Pradesh,2.4,2020-2021,Elementary,Girls,2020
+Arunachal Pradesh,4.9,2020-2021,Elementary,Girls,2020
+Assam,4.0,2020-2021,Elementary,Girls,2020
+Bihar,4.5,2020-2021,Elementary,Girls,2020
+Chandigarh,3.5,2020-2021,Elementary,Girls,2020
+Chhattisgarh,1.4,2020-2021,Elementary,Girls,2020
+Dadra and Nagar Haveli,3.5,2020-2021,Elementary,Girls,2020
+Daman and Diu,4.2,2020-2021,Elementary,Girls,2020
+Delhi,2.6,2020-2021,Elementary,Girls,2020
+Goa,4.1,2020-2021,Elementary,Girls,2020
+Gujarat,5.1,2020-2021,Elementary,Girls,2020
+Haryana,3.4,2020-2021,Elementary,Girls,2020
+Himachal Pradesh,0.2,2020-2021,Elementary,Girls,2020
+Jammu and Kashmir,1.8,2020-2021,Elementary,Girls,2020
+Jharkhand,2.5,2020-2021,Elementary,Girls,2020
+Karnataka,3.8,2020-2021,Elementary,Girls,2020
+Kerala,4.1,2020-2021,Elementary,Girls,2020
+Ladakh,4.3,2020-2021,Elementary,Girls,2020
+Lakshadweep,3.9,2020-2021,Elementary,Girls,2020
+Madhya Pradesh,4.5,2020-2021,Elementary,Girls,2020
+Maharashtra,5.8,2020-2021,Elementary,Girls,2020
+Manipur,0.9,2020-2021,Elementary,Girls,2020
+Meghalaya,4.9,2020-2021,Elementary,Girls,2020
+Mizoram,2.2,2020-2021,Elementary,Girls,2020
+Nagaland,3.1,2020-2021,Elementary,Girls,2020
+Odisha,5.1,2020-2021,Elementary,Girls,2020
+Puducherry,0.7,2020-2021,Elementary,Girls,2020
+Punjab,1.1,2020-2021,Elementary,Girls,2020
+Rajasthan,3.5,2020-2021,Elementary,Girls,2020
+Sikkim,5.0,2020-2021,Elementary,Girls,2020
+Tamil Nadu,2.0,2020-2021,Elementary,Girls,2020
+Telangana,0.9,2020-2021,Elementary,Girls,2020
+Tripura,2.2,2020-2021,Elementary,Girls,2020
+Uttar Pradesh,0.4,2020-2021,Elementary,Girls,2020
+Uttarakhand,4.9,2020-2021,Elementary,Girls,2020
+West Bengal,0.6,2020-2021,Elementary,Girls,2020
+All India,5.2,2020-2021,Elementary,Girls,2020
+Andaman and Nicobar Islands,13.0,2020-2021,Secondary,Boys,2020
+Andhra Pradesh,15.5,2020-2021,Secondary,Boys,2020
+Arunachal Pradesh,7.9,2020-2021,Secondary,Boys,2020
+Assam,18.3,2020-2021,Secondary,Boys,2020
+Bihar,11.4,2020-2021,Secondary,Boys,2020
+Chandigarh,15.5,2020-2021,Secondary,Boys,2020
+Chhattisgarh,11.5,2020-2021,Secondary,Boys,2020
+Dadra and Nagar Haveli,11.7,2020-2021,Secondary,Boys,2020
+Daman and Diu,14.9,2020-2021,Secondary,Boys,2020
+Delhi,10.2,2020-2021,Secondary,Boys,2020
+Goa,14.8,2020-2021,Secondary,Boys,2020
+Gujarat,15.9,2020-2021,Secondary,Boys,2020
+Haryana,10.3,2020-2021,Secondary,Boys,2020
+Himachal Pradesh,14.7,2020-2021,Secondary,Boys,2020
+Jammu and Kashmir,12.3,2020-2021,Secondary,Boys,2020
+Jharkhand,7.7,2020-2021,Secondary,Boys,2020
+Karnataka,12.4,2020-2021,Secondary,Boys,2020
+Kerala,17.4,2020-2021,Secondary,Boys,2020
+Ladakh,10.5,2020-2021,Secondary,Boys,2020
+Lakshadweep,12.1,2020-2021,Secondary,Boys,2020
+Madhya Pradesh,19.3,2020-2021,Secondary,Boys,2020
+Maharashtra,13.8,2020-2021,Secondary,Boys,2020
+Manipur,12.0,2020-2021,Secondary,Boys,2020
+Meghalaya,11.8,2020-2021,Secondary,Boys,2020
+Mizoram,16.8,2020-2021,Secondary,Boys,2020
+Nagaland,12.0,2020-2021,Secondary,Boys,2020
+Odisha,12.5,2020-2021,Secondary,Boys,2020
+Puducherry,7.6,2020-2021,Secondary,Boys,2020
+Punjab,16.0,2020-2021,Secondary,Boys,2020
+Rajasthan,7.1,2020-2021,Secondary,Boys,2020
+Sikkim,16.0,2020-2021,Secondary,Boys,2020
+Tamil Nadu,16.7,2020-2021,Secondary,Boys,2020
+Telangana,12.2,2020-2021,Secondary,Boys,2020
+Tripura,13.1,2020-2021,Secondary,Boys,2020
+Uttar Pradesh,6.7,2020-2021,Secondary,Boys,2020
+Uttarakhand,12.9,2020-2021,Secondary,Boys,2020
+West Bengal,16.4,2020-2021,Secondary,Boys,2020
+All India,11.5,2020-2021,Secondary,Boys,2020
+Andaman and Nicobar Islands,17.0,2020-2021,Secondary,Girls,2020
+Andhra Pradesh,16.4,2020-2021,Secondary,Girls,2020
+Arunachal Pradesh,11.7,2020-2021,Secondary,Girls,2020
+Assam,8.0,2020-2021,Secondary,Girls,2020
+Bihar,13.7,2020-2021,Secondary,Girls,2020
+Chandigarh,15.4,2020-2021,Secondary,Girls,2020
+Chhattisgarh,11.2,2020-2021,Secondary,Girls,2020
+Dadra and Nagar Haveli,12.5,2020-2021,Secondary,Girls,2020
+Daman and Diu,12.6,2020-2021,Secondary,Girls,2020
+Delhi,7.1,2020-2021,Secondary,Girls,2020
+Goa,8.8,2020-2021,Secondary,Girls,2020
+Gujarat,6.8,2020-2021,Secondary,Girls,2020
+Haryana,8.8,2020-2021,Secondary,Girls,2020
+Himachal Pradesh,10.8,2020-2021,Secondary,Girls,2020
+Jammu and Kashmir,13.8,2020-2021,Secondary,Girls,2020
+Jharkhand,8.7,2020-2021,Secondary,Girls,2020
+Karnataka,8.8,2020-2021,Secondary,Girls,2020
+Kerala,13.9,2020-2021,Secondary,Girls,2020
+Ladakh,14.5,2020-2021,Secondary,Girls,2020
+Lakshadweep,15.3,2020-2021,Secondary,Girls,2020
+Madhya Pradesh,7.5,2020-2021,Secondary,Girls,2020
+Maharashtra,12.1,2020-2021,Secondary,Girls,2020
+Manipur,14.0,2020-2021,Secondary,Girls,2020
+Meghalaya,6.3,2020-2021,Secondary,Girls,2020
+Mizoram,9.0,2020-2021,Secondary,Girls,2020
+Nagaland,15.7,2020-2021,Secondary,Girls,2020
+Odisha,13.6,2020-2021,Secondary,Girls,2020
+Puducherry,13.0,2020-2021,Secondary,Girls,2020
+Punjab,16.4,2020-2021,Secondary,Girls,2020
+Rajasthan,15.5,2020-2021,Secondary,Girls,2020
+Sikkim,13.8,2020-2021,Secondary,Girls,2020
+Tamil Nadu,17.0,2020-2021,Secondary,Girls,2020
+Telangana,12.1,2020-2021,Secondary,Girls,2020
+Tripura,14.0,2020-2021,Secondary,Girls,2020
+Uttar Pradesh,14.9,2020-2021,Secondary,Girls,2020
+Uttarakhand,17.7,2020-2021,Secondary,Girls,2020
+West Bengal,13.7,2020-2021,Secondary,Girls,2020
+All India,12.9,2020-2021,Secondary,Girls,2020
+Andaman and Nicobar Islands,5.0,2021-2022,Elementary,Boys,2021
+Andhra Pradesh,4.1,2021-2022,Elementary,Boys,2021
+Arunachal Pradesh,0.3,2021-2022,Elementary,Boys,2021
+Assam,4.4,2021-2022,Elementary,Boys,2021
+Bihar,2.5,2021-2022,Elementary,Boys,2021
+Chandigarh,0.8,2021-2022,Elementary,Boys,2021
+Chhattisgarh,0.7,2021-2022,Elementary,Boys,2021
+Dadra and Nagar Haveli,5.0,2021-2022,Elementary,Boys,2021
+Daman and Diu,0.4,2021-2022,Elementary,Boys,2021
+Delhi,4.4,2021-2022,Elementary,Boys,2021
+Goa,0.3,2021-2022,Elementary,Boys,2021
+Gujarat,5.6,2021-2022,Elementary,Boys,2021
+Haryana,4.3,2021-2022,Elementary,Boys,2021
+Himachal Pradesh,5.5,2021-2022,Elementary,Boys,2021
+Jammu and Kashmir,2.1,2021-2022,Elementary,Boys,2021
+Jharkhand,2.3,2021-2022,Elementary,Boys,2021
+Karnataka,2.6,2021-2022,Elementary,Boys,2021
+Kerala,2.2,2021-2022,Elementary,Boys,2021
+Ladakh,1.4,2021-2022,Elementary,Boys,2021
+Lakshadweep,0.7,2021-2022,Elementary,Boys,2021
+Madhya Pradesh,5.3,2021-2022,Elementary,Boys,2021
+Maharashtra,2.9,2021-2022,Elementary,Boys,2021
+Manipur,1.8,2021-2022,Elementary,Boys,2021
+Meghalaya,1.2,2021-2022,Elementary,Boys,2021
+Mizoram,2.7,2021-2022,Elementary,Boys,2021
+Nagaland,3.7,2021-2022,Elementary,Boys,2021
+Odisha,4.0,2021-2022,Elementary,Boys,2021
+Puducherry,0.8,2021-2022,Elementary,Boys,2021
+Punjab,2.9,2021-2022,Elementary,Boys,2021
+Rajasthan,0.4,2021-2022,Elementary,Boys,2021
+Sikkim,4.7,2021-2022,Elementary,Boys,2021
+Tamil Nadu,2.3,2021-2022,Elementary,Boys,2021
+Telangana,3.7,2021-2022,Elementary,Boys,2021
+Tripura,4.4,2021-2022,Elementary,Boys,2021
+Uttar Pradesh,5.4,2021-2022,Elementary,Boys,2021
+Uttarakhand,3.5,2021-2022,Elementary,Boys,2021
+West Bengal,4.5,2021-2022,Elementary,Boys,2021
+All India,3.8,2021-2022,Elementary,Boys,2021
+Andaman and Nicobar Islands,5.0,2021-2022,Elementary,Girls,2021
+Andhra Pradesh,5.0,2021-2022,Elementary,Girls,2021
+Arunachal Pradesh,2.5,2021-2022,Elementary,Girls,2021
+Assam,2.8,2021-2022,Elementary,Girls,2021
+Bihar,0.9,2021-2022,Elementary,Girls,2021
+Chandigarh,1.9,2021-2022,Elementary,Girls,2021
+Chhattisgarh,2.6,2021-2022,Elementary,Girls,2021
+Dadra and Nagar Haveli,3.8,2021-2022,Elementary,Girls,2021
+Daman and Diu,1.8,2021-2022,Elementary,Girls,2021
+Delhi,4.6,2021-2022,Elementary,Girls,2021
+Goa,3.9,2021-2022,Elementary,Girls,2021
+Gujarat,4.7,2021-2022,Elementary,Girls,2021
+Haryana,5.6,2021-2022,Elementary,Girls,2021
+Himachal Pradesh,1.3,2021-2022,Elementary,Girls,2021
+Jammu and Kashmir,3.9,2021-2022,Elementary,Girls,2021
+Jharkhand,5.1,2021-2022,Elementary,Girls,2021
+Karnataka,0.2,2021-2022,Elementary,Girls,2021
+Kerala,1.8,2021-2022,Elementary,Girls,2021
+Ladakh,5.0,2021-2022,Elementary,Girls,2021
+Lakshadweep,3.5,2021-2022,Elementary,Girls,2021
+Madhya Pradesh,3.5,2021-2022,Elementary,Girls,2021
+Maharashtra,4.0,2021-2022,Elementary,Girls,2021
+Manipur,0.9,2021-2022,Elementary,Girls,2021
+Meghalaya,0.1,2021-2022,Elementary,Girls,2021
+Mizoram,0.3,2021-2022,Elementary,Girls,2021
+Nagaland,2.9,2021-2022,Elementary,Girls,2021
+Odisha,3.4,2021-2022,Elementary,Girls,2021
+Puducherry,4.9,2021-2022,Elementary,Girls,2021
+Punjab,3.6,2021-2022,Elementary,Girls,2021
+Rajasthan,0.9,2021-2022,Elementary,Girls,2021
+Sikkim,4.8,2021-2022,Elementary,Girls,2021
+Tamil Nadu,3.3,2021-2022,Elementary,Girls,2021
+Telangana,3.1,2021-2022,Elementary,Girls,2021
+Tripura,1.9,2021-2022,Elementary,Girls,2021
+Uttar Pradesh,1.4,2021-2022,Elementary,Girls,2021
+Uttarakhand,1.5,2021-2022,Elementary,Girls,2021
+West Bengal,3.5,2021-2022,Elementary,Girls,2021
+All India,5.5,2021-2022,Elementary,Girls,2021
+Andaman and Nicobar Islands,10.0,2021-2022,Secondary,Boys,2021
+Andhra Pradesh,11.7,2021-2022,Secondary,Boys,2021
+Arunachal Pradesh,9.7,2021-2022,Secondary,Boys,2021
+Assam,14.5,2021-2022,Secondary,Boys,2021
+Bihar,13.5,2021-2022,Secondary,Boys,2021
+Chandigarh,7.9,2021-2022,Secondary,Boys,2021
+Chhattisgarh,7.5,2021-2022,Secondary,Boys,2021
+Dadra and Nagar Haveli,9.7,2021-2022,Secondary,Boys,2021
+Daman and Diu,13.6,2021-2022,Secondary,Boys,2021
+Delhi,9.6,2021-2022,Secondary,Boys,2021
+Goa,15.4,2021-2022,Secondary,Boys,2021
+Gujarat,6.4,2021-2022,Secondary,Boys,2021
+Haryana,6.8,2021-2022,Secondary,Boys,2021
+Himachal Pradesh,11.9,2021-2022,Secondary,Boys,2021
+Jammu and Kashmir,16.3,2021-2022,Secondary,Boys,2021
+Jharkhand,18.0,2021-2022,Secondary,Boys,2021
+Karnataka,15.5,2021-2022,Secondary,Boys,2021
+Kerala,11.5,2021-2022,Secondary,Boys,2021
+Ladakh,10.8,2021-2022,Secondary,Boys,2021
+Lakshadweep,8.0,2021-2022,Secondary,Boys,2021
+Madhya Pradesh,11.8,2021-2022,Secondary,Boys,2021
+Maharashtra,12.8,2021-2022,Secondary,Boys,2021
+Manipur,10.5,2021-2022,Secondary,Boys,2021
+Meghalaya,9.5,2021-2022,Secondary,Boys,2021
+Mizoram,15.5,2021-2022,Secondary,Boys,2021
+Nagaland,8.9,2021-2022,Secondary,Boys,2021
+Odisha,13.2,2021-2022,Secondary,Boys,2021
+Puducherry,12.9,2021-2022,Secondary,Boys,2021
+Punjab,7.7,2021-2022,Secondary,Boys,2021
+Rajasthan,18.7,2021-2022,Secondary,Boys,2021
+Sikkim,12.3,2021-2022,Secondary,Boys,2021
+Tamil Nadu,12.1,2021-2022,Secondary,Boys,2021
+Telangana,11.8,2021-2022,Secondary,Boys,2021
+Tripura,11.6,2021-2022,Secondary,Boys,2021
+Uttar Pradesh,11.0,2021-2022,Secondary,Boys,2021
+Uttarakhand,10.8,2021-2022,Secondary,Boys,2021
+West Bengal,10.2,2021-2022,Secondary,Boys,2021
+All India,9.6,2021-2022,Secondary,Boys,2021
+Andaman and Nicobar Islands,12.8,2021-2022,Secondary,Girls,2021
+Andhra Pradesh,14.5,2021-2022,Secondary,Girls,2021
+Arunachal Pradesh,12.4,2021-2022,Secondary,Girls,2021
+Assam,15.5,2021-2022,Secondary,Girls,2021
+Bihar,16.8,2021-2022,Secondary,Girls,2021
+Chandigarh,11.3,2021-2022,Secondary,Girls,2021
+Chhattisgarh,13.3,2021-2022,Secondary,Girls,2021
+Dadra and Nagar Haveli,9.3,2021-2022,Secondary,Girls,2021
+Daman and Diu,11.7,2021-2022,Secondary,Girls,2021
+Delhi,10.7,2021-2022,Secondary,Girls,2021
+Goa,12.4,2021-2022,Secondary,Girls,2021
+Gujarat,9.9,2021-2022,Secondary,Girls,2021
+Haryana,9.8,2021-2022,Secondary,Girls,2021
+Himachal Pradesh,13.8,2021-2022,Secondary,Girls,2021
+Jammu and Kashmir,11.4,2021-2022,Secondary,Girls,2021
+Jharkhand,11.8,2021-2022,Secondary,Girls,2021
+Karnataka,10.3,2021-2022,Secondary,Girls,2021
+Kerala,9.6,2021-2022,Secondary,Girls,2021
+Ladakh,7.6,2021-2022,Secondary,Girls,2021
+Lakshadweep,8.6,2021-2022,Secondary,Girls,2021
+Madhya Pradesh,10.1,2021-2022,Secondary,Girls,2021
+Maharashtra,13.1,2021-2022,Secondary,Girls,2021
+Manipur,12.2,2021-2022,Secondary,Girls,2021
+Meghalaya,16.4,2021-2022,Secondary,Girls,2021
+Mizoram,7.1,2021-2022,Secondary,Girls,2021
+Nagaland,10.0,2021-2022,Secondary,Girls,2021
+Odisha,16.1,2021-2022,Secondary,Girls,2021
+Puducherry,8.3,2021-2022,Secondary,Girls,2021
+Punjab,13.1,2021-2022,Secondary,Girls,2021
+Rajasthan,14.2,2021-2022,Secondary,Girls,2021
+Sikkim,7.2,2021-2022,Secondary,Girls,2021
+Tamil Nadu,12.2,2021-2022,Secondary,Girls,2021
+Telangana,11.2,2021-2022,Secondary,Girls,2021
+Tripura,12.7,2021-2022,Secondary,Girls,2021
+Uttar Pradesh,13.5,2021-2022,Secondary,Girls,2021
+Uttarakhand,15.7,2021-2022,Secondary,Girls,2021
+West Bengal,16.1,2021-2022,Secondary,Girls,2021
+All India,13.1,2021-2022,Secondary,Girls,2021
+Andaman and Nicobar Islands,4.4,2022-2023,Elementary,Boys,2022
+Andhra Pradesh,2.9,2022-2023,Elementary,Boys,2022
+Arunachal Pradesh,0.6,2022-2023,Elementary,Boys,2022
+Assam,4.6,2022-2023,Elementary,Boys,2022
+Bihar,2.9,2022-2023,Elementary,Boys,2022
+Chandigarh,1.5,2022-2023,Elementary,Boys,2022
+Chhattisgarh,4.8,2022-2023,Elementary,Boys,2022
+Dadra and Nagar Haveli,4.4,2022-2023,Elementary,Boys,2022
+Daman and Diu,3.5,2022-2023,Elementary,Boys,2022
+Delhi,3.4,2022-2023,Elementary,Boys,2022
+Goa,1.1,2022-2023,Elementary,Boys,2022
+Gujarat,4.3,2022-2023,Elementary,Boys,2022
+Haryana,1.8,2022-2023,Elementary,Boys,2022
+Himachal Pradesh,1.1,2022-2023,Elementary,Boys,2022
+Jammu and Kashmir,2.7,2022-2023,Elementary,Boys,2022
+Jharkhand,4.4,2022-2023,Elementary,Boys,2022
+Karnataka,4.7,2022-2023,Elementary,Boys,2022
+Kerala,1.8,2022-2023,Elementary,Boys,2022
+Ladakh,0.2,2022-2023,Elementary,Boys,2022
+Lakshadweep,1.3,2022-2023,Elementary,Boys,2022
+Madhya Pradesh,2.3,2022-2023,Elementary,Boys,2022
+Maharashtra,4.4,2022-2023,Elementary,Boys,2022
+Manipur,2.9,2022-2023,Elementary,Boys,2022
+Meghalaya,4.2,2022-2023,Elementary,Boys,2022
+Mizoram,2.5,2022-2023,Elementary,Boys,2022
+Nagaland,1.6,2022-2023,Elementary,Boys,2022
+Odisha,0.4,2022-2023,Elementary,Boys,2022
+Puducherry,2.2,2022-2023,Elementary,Boys,2022
+Punjab,2.5,2022-2023,Elementary,Boys,2022
+Rajasthan,2.0,2022-2023,Elementary,Boys,2022
+Sikkim,3.2,2022-2023,Elementary,Boys,2022
+Tamil Nadu,4.0,2022-2023,Elementary,Boys,2022
+Telangana,5.1,2022-2023,Elementary,Boys,2022
+Tripura,1.3,2022-2023,Elementary,Boys,2022
+Uttar Pradesh,2.5,2022-2023,Elementary,Boys,2022
+Uttarakhand,1.6,2022-2023,Elementary,Boys,2022
+West Bengal,2.0,2022-2023,Elementary,Boys,2022
+All India,2.9,2022-2023,Elementary,Boys,2022
+Andaman and Nicobar Islands,3.2,2022-2023,Elementary,Girls,2022
+Andhra Pradesh,2.8,2022-2023,Elementary,Girls,2022
+Arunachal Pradesh,4.7,2022-2023,Elementary,Girls,2022
+Assam,0.5,2022-2023,Elementary,Girls,2022
+Bihar,1.4,2022-2023,Elementary,Girls,2022
+Chandigarh,3.2,2022-2023,Elementary,Girls,2022
+Chhattisgarh,1.3,2022-2023,Elementary,Girls,2022
+Dadra and Nagar Haveli,3.1,2022-2023,Elementary,Girls,2022
+Daman and Diu,1.1,2022-2023,Elementary,Girls,2022
+Delhi,1.0,2022-2023,Elementary,Girls,2022
+Goa,2.8,2022-2023,Elementary,Girls,2022
+Gujarat,1.1,2022-2023,Elementary,Girls,2022
+Haryana,4.9,2022-2023,Elementary,Girls,2022
+Himachal Pradesh,1.6,2022-2023,Elementary,Girls,2022
+Jammu and Kashmir,0.6,2022-2023,Elementary,Girls,2022
+Jharkhand,4.8,2022-2023,Elementary,Girls,2022
+Karnataka,5.1,2022-2023,Elementary,Girls,2022
+Kerala,0.6,2022-2023,Elementary,Girls,2022
+Ladakh,2.3,2022-2023,Elementary,Girls,2022
+Lakshadweep,4.8,2022-2023,Elementary,Girls,2022
+Madhya Pradesh,3.3,2022-2023,Elementary,Girls,2022
+Maharashtra,0.8,2022-2023,Elementary,Girls,2022
+Manipur,4.5,2022-2023,Elementary,Girls,2022
+Meghalaya,2.1,2022-2023,Elementary,Girls,2022
+Mizoram,3.7,2022-2023,Elementary,Girls,2022
+Nagaland,1.4,2022-2023,Elementary,Girls,2022
+Odisha,4.2,2022-2023,Elementary,Girls,2022
+Puducherry,4.5,2022-2023,Elementary,Girls,2022
+Punjab,1.7,2022-2023,Elementary,Girls,2022
+Rajasthan,1.3,2022-2023,Elementary,Girls,2022
+Sikkim,4.4,2022-2023,Elementary,Girls,2022
+Tamil Nadu,2.0,2022-2023,Elementary,Girls,2022
+Telangana,2.1,2022-2023,Elementary,Girls,2022
+Tripura,0.8,2022-2023,Elementary,Girls,2022
+Uttar Pradesh,0.6,2022-2023,Elementary,Girls,2022
+Uttarakhand,4.3,2022-2023,Elementary,Girls,2022
+West Bengal,0.4,2022-2023,Elementary,Girls,2022
+All India,2.4,2022-2023,Elementary,Girls,2022
+Andaman and Nicobar Islands,11.7,2022-2023,Secondary,Boys,2022
+Andhra Pradesh,10.8,2022-2023,Secondary,Boys,2022
+Arunachal Pradesh,12.2,2022-2023,Secondary,Boys,2022
+Assam,8.8,2022-2023,Secondary,Boys,2022
+Bihar,16.2,2022-2023,Secondary,Boys,2022
+Chandigarh,12.4,2022-2023,Secondary,Boys,2022
+Chhattisgarh,9.4,2022-2023,Secondary,Boys,2022
+Dadra and Nagar Haveli,11.1,2022-2023,Secondary,Boys,2022
+Daman and Diu,16.3,2022-2023,Secondary,Boys,2022
+Delhi,7.8,2022-2023,Secondary,Boys,2022
+Goa,16.5,2022-2023,Secondary,Boys,2022
+Gujarat,12.7,2022-2023,Secondary,Boys,2022
+Haryana,13.8,2022-2023,Secondary,Boys,2022
+Himachal Pradesh,6.5,2022-2023,Secondary,Boys,2022
+Jammu and Kashmir,15.7,2022-2023,Secondary,Boys,2022
+Jharkhand,14.0,2022-2023,Secondary,Boys,2022
+Karnataka,8.8,2022-2023,Secondary,Boys,2022
+Kerala,9.4,2022-2023,Secondary,Boys,2022
+Ladakh,9.3,2022-2023,Secondary,Boys,2022
+Lakshadweep,7.8,2022-2023,Secondary,Boys,2022
+Madhya Pradesh,11.5,2022-2023,Secondary,Boys,2022
+Maharashtra,9.0,2022-2023,Secondary,Boys,2022
+Manipur,11.5,2022-2023,Secondary,Boys,2022
+Meghalaya,14.5,2022-2023,Secondary,Boys,2022
+Mizoram,7.2,2022-2023,Secondary,Boys,2022
+Nagaland,13.9,2022-2023,Secondary,Boys,2022
+Odisha,11.7,2022-2023,Secondary,Boys,2022
+Puducherry,7.9,2022-2023,Secondary,Boys,2022
+Punjab,10.4,2022-2023,Secondary,Boys,2022
+Rajasthan,6.5,2022-2023,Secondary,Boys,2022
+Sikkim,14.6,2022-2023,Secondary,Boys,2022
+Tamil Nadu,10.8,2022-2023,Secondary,Boys,2022
+Telangana,7.5,2022-2023,Secondary,Boys,2022
+Tripura,13.0,2022-2023,Secondary,Boys,2022
+Uttar Pradesh,13.8,2022-2023,Secondary,Boys,2022
+Uttarakhand,6.9,2022-2023,Secondary,Boys,2022
+West Bengal,8.1,2022-2023,Secondary,Boys,2022
+All India,14.5,2022-2023,Secondary,Boys,2022
+Andaman and Nicobar Islands,13.7,2022-2023,Secondary,Girls,2022
+Andhra Pradesh,9.3,2022-2023,Secondary,Girls,2022
+Arunachal Pradesh,14.5,2022-2023,Secondary,Girls,2022
+Assam,9.7,2022-2023,Secondary,Girls,2022
+Bihar,11.2,2022-2023,Secondary,Girls,2022
+Chandigarh,17.8,2022-2023,Secondary,Girls,2022
+Chhattisgarh,12.9,2022-2023,Secondary,Girls,2022
+Dadra and Nagar Haveli,11.2,2022-2023,Secondary,Girls,2022
+Daman and Diu,10.8,2022-2023,Secondary,Girls,2022
+Delhi,12.6,2022-2023,Secondary,Girls,2022
+Goa,11.7,2022-2023,Secondary,Girls,2022
+Gujarat,13.4,2022-2023,Secondary,Girls,2022
+Haryana,14.3,2022-2023,Secondary,Girls,2022
+Himachal Pradesh,9.9,2022-2023,Secondary,Girls,2022
+Jammu and Kashmir,13.0,2022-2023,Secondary,Girls,2022
+Jharkhand,13.8,2022-2023,Secondary,Girls,2022
+Karnataka,15.9,2022-2023,Secondary,Girls,2022
+Kerala,15.5,2022-2023,Secondary,Girls,2022
+Ladakh,12.2,2022-2023,Secondary,Girls,2022
+Lakshadweep,16.0,2022-2023,Secondary,Girls,2022
+Madhya Pradesh,8.8,2022-2023,Secondary,Girls,2022
+Maharashtra,9.2,2022-2023,Secondary,Girls,2022
+Manipur,10.5,2022-2023,Secondary,Girls,2022
+Meghalaya,9.6,2022-2023,Secondary,Girls,2022
+Mizoram,14.2,2022-2023,Secondary,Girls,2022
+Nagaland,9.6,2022-2023,Secondary,Girls,2022
+Odisha,12.6,2022-2023,Secondary,Girls,2022
+Puducherry,8.2,2022-2023,Secondary,Girls,2022
+Punjab,6.7,2022-2023,Secondary,Girls,2022
+Rajasthan,7.3,2022-2023,Secondary,Girls,2022
+Sikkim,8.2,2022-2023,Secondary,Girls,2022
+Tamil Nadu,11.5,2022-2023,Secondary,Girls,2022
+Telangana,10.0,2022-2023,Secondary,Girls,2022
+Tripura,15.0,2022-2023,Secondary,Girls,2022
+Uttar Pradesh,9.2,2022-2023,Secondary,Girls,2022
+Uttarakhand,7.7,2022-2023,Secondary,Girls,2022
+West Bengal,9.7,2022-2023,Secondary,Girls,2022
+All India,11.9,2022-2023,Secondary,Girls,2022
+Andaman and Nicobar Islands,1.9,2023-2024,Elementary,Boys,2023
+Andhra Pradesh,0.7,2023-2024,Elementary,Boys,2023
+Arunachal Pradesh,2.5,2023-2024,Elementary,Boys,2023
+Assam,3.4,2023-2024,Elementary,Boys,2023
+Bihar,0.2,2023-2024,Elementary,Boys,2023
+Chandigarh,0.3,2023-2024,Elementary,Boys,2023
+Chhattisgarh,0.3,2023-2024,Elementary,Boys,2023
+Dadra and Nagar Haveli,2.5,2023-2024,Elementary,Boys,2023
+Daman and Diu,1.1,2023-2024,Elementary,Boys,2023
+Delhi,2.4,2023-2024,Elementary,Boys,2023
+Goa,4.4,2023-2024,Elementary,Boys,2023
+Gujarat,4.3,2023-2024,Elementary,Boys,2023
+Haryana,3.9,2023-2024,Elementary,Boys,2023
+Himachal Pradesh,2.9,2023-2024,Elementary,Boys,2023
+Jammu and Kashmir,1.6,2023-2024,Elementary,Boys,2023
+Jharkhand,2.6,2023-2024,Elementary,Boys,2023
+Karnataka,5.0,2023-2024,Elementary,Boys,2023
+Kerala,3.2,2023-2024,Elementary,Boys,2023
+Ladakh,5.3,2023-2024,Elementary,Boys,2023
+Lakshadweep,2.0,2023-2024,Elementary,Boys,2023
+Madhya Pradesh,4.0,2023-2024,Elementary,Boys,2023
+Maharashtra,4.4,2023-2024,Elementary,Boys,2023
+Manipur,2.4,2023-2024,Elementary,Boys,2023
+Meghalaya,4.1,2023-2024,Elementary,Boys,2023
+Mizoram,4.4,2023-2024,Elementary,Boys,2023
+Nagaland,2.3,2023-2024,Elementary,Boys,2023
+Odisha,3.6,2023-2024,Elementary,Boys,2023
+Puducherry,1.1,2023-2024,Elementary,Boys,2023
+Punjab,0.4,2023-2024,Elementary,Boys,2023
+Rajasthan,1.3,2023-2024,Elementary,Boys,2023
+Sikkim,4.4,2023-2024,Elementary,Boys,2023
+Tamil Nadu,2.0,2023-2024,Elementary,Boys,2023
+Telangana,3.4,2023-2024,Elementary,Boys,2023
+Tripura,0.7,2023-2024,Elementary,Boys,2023
+Uttar Pradesh,1.0,2023-2024,Elementary,Boys,2023
+Uttarakhand,2.8,2023-2024,Elementary,Boys,2023
+West Bengal,5.0,2023-2024,Elementary,Boys,2023
+All India,2.5,2023-2024,Elementary,Boys,2023
+Andaman and Nicobar Islands,4.5,2023-2024,Elementary,Girls,2023
+Andhra Pradesh,1.7,2023-2024,Elementary,Girls,2023
+Arunachal Pradesh,1.0,2023-2024,Elementary,Girls,2023
+Assam,2.6,2023-2024,Elementary,Girls,2023
+Bihar,2.3,2023-2024,Elementary,Girls,2023
+Chandigarh,3.3,2023-2024,Elementary,Girls,2023
+Chhattisgarh,1.8,2023-2024,Elementary,Girls,2023
+Dadra and Nagar Haveli,0.5,2023-2024,Elementary,Girls,2023
+Daman and Diu,1.8,2023-2024,Elementary,Girls,2023
+Delhi,1.4,2023-2024,Elementary,Girls,2023
+Goa,3.5,2023-2024,Elementary,Girls,2023
+Gujarat,3.8,2023-2024,Elementary,Girls,2023
+Haryana,5.5,2023-2024,Elementary,Girls,2023
+Himachal Pradesh,3.9,2023-2024,Elementary,Girls,2023
+Jammu and Kashmir,2.8,2023-2024,Elementary,Girls,2023
+Jharkhand,3.5,2023-2024,Elementary,Girls,2023
+Karnataka,0.4,2023-2024,Elementary,Girls,2023
+Kerala,2.1,2023-2024,Elementary,Girls,2023
+Ladakh,3.2,2023-2024,Elementary,Girls,2023
+Lakshadweep,1.0,2023-2024,Elementary,Girls,2023
+Madhya Pradesh,2.3,2023-2024,Elementary,Girls,2023
+Maharashtra,1.9,2023-2024,Elementary,Girls,2023
+Manipur,2.1,2023-2024,Elementary,Girls,2023
+Meghalaya,3.6,2023-2024,Elementary,Girls,2023
+Mizoram,3.5,2023-2024,Elementary,Girls,2023
+Nagaland,3.1,2023-2024,Elementary,Girls,2023
+Odisha,2.7,2023-2024,Elementary,Girls,2023
+Puducherry,0.5,2023-2024,Elementary,Girls,2023
+Punjab,3.2,2023-2024,Elementary,Girls,2023
+Rajasthan,2.4,2023-2024,Elementary,Girls,2023
+Sikkim,1.7,2023-2024,Elementary,Girls,2023
+Tamil Nadu,0.8,2023-2024,Elementary,Girls,2023
+Telangana,2.1,2023-2024,Elementary,Girls,2023
+Tripura,1.0,2023-2024,Elementary,Girls,2023
+Uttar Pradesh,0.2,2023-2024,Elementary,Girls,2023
+Uttarakhand,2.2,2023-2024,Elementary,Girls,2023
+West Bengal,0.5,2023-2024,Elementary,Girls,2023
+All India,4.0,2023-2024,Elementary,Girls,2023
+Andaman and Nicobar Islands,11.3,2023-2024,Secondary,Boys,2023
+Andhra Pradesh,10.6,2023-2024,Secondary,Boys,2023
+Arunachal Pradesh,7.9,2023-2024,Secondary,Boys,2023
+Assam,9.9,2023-2024,Secondary,Boys,2023
+Bihar,13.5,2023-2024,Secondary,Boys,2023
+Chandigarh,16.0,2023-2024,Secondary,Boys,2023
+Chhattisgarh,12.4,2023-2024,Secondary,Boys,2023
+Dadra and Nagar Haveli,10.2,2023-2024,Secondary,Boys,2023
+Daman and Diu,10.9,2023-2024,Secondary,Boys,2023
+Delhi,14.8,2023-2024,Secondary,Boys,2023
+Goa,11.8,2023-2024,Secondary,Boys,2023
+Gujarat,10.2,2023-2024,Secondary,Boys,2023
+Haryana,6.0,2023-2024,Secondary,Boys,2023
+Himachal Pradesh,7.9,2023-2024,Secondary,Boys,2023
+Jammu and Kashmir,8.9,2023-2024,Secondary,Boys,2023
+Jharkhand,8.2,2023-2024,Secondary,Boys,2023
+Karnataka,11.1,2023-2024,Secondary,Boys,2023
+Kerala,13.4,2023-2024,Secondary,Boys,2023
+Ladakh,7.6,2023-2024,Secondary,Boys,2023
+Lakshadweep,7.4,2023-2024,Secondary,Boys,2023
+Madhya Pradesh,10.5,2023-2024,Secondary,Boys,2023
+Maharashtra,10.7,2023-2024,Secondary,Boys,2023
+Manipur,13.2,2023-2024,Secondary,Boys,2023
+Meghalaya,7.9,2023-2024,Secondary,Boys,2023
+Mizoram,15.4,2023-2024,Secondary,Boys,2023
+Nagaland,10.0,2023-2024,Secondary,Boys,2023
+Odisha,9.4,2023-2024,Secondary,Boys,2023
+Puducherry,8.9,2023-2024,Secondary,Boys,2023
+Punjab,13.1,2023-2024,Secondary,Boys,2023
+Rajasthan,15.5,2023-2024,Secondary,Boys,2023
+Sikkim,10.3,2023-2024,Secondary,Boys,2023
+Tamil Nadu,7.5,2023-2024,Secondary,Boys,2023
+Telangana,11.6,2023-2024,Secondary,Boys,2023
+Tripura,14.7,2023-2024,Secondary,Boys,2023
+Uttar Pradesh,13.6,2023-2024,Secondary,Boys,2023
+Uttarakhand,10.2,2023-2024,Secondary,Boys,2023
+West Bengal,8.6,2023-2024,Secondary,Boys,2023
+All India,6.8,2023-2024,Secondary,Boys,2023
+Andaman and Nicobar Islands,14.8,2023-2024,Secondary,Girls,2023
+Andhra Pradesh,12.0,2023-2024,Secondary,Girls,2023
+Arunachal Pradesh,6.5,2023-2024,Secondary,Girls,2023
+Assam,16.5,2023-2024,Secondary,Girls,2023
+Bihar,11.4,2023-2024,Secondary,Girls,2023
+Chandigarh,13.1,2023-2024,Secondary,Girls,2023
+Chhattisgarh,7.0,2023-2024,Secondary,Girls,2023
+Dadra and Nagar Haveli,12.7,2023-2024,Secondary,Girls,2023
+Daman and Diu,12.2,2023-2024,Secondary,Girls,2023
+Delhi,11.4,2023-2024,Secondary,Girls,2023
+Goa,6.4,2023-2024,Secondary,Girls,2023
+Gujarat,13.1,2023-2024,Secondary,Girls,2023
+Haryana,13.5,2023-2024,Secondary,Girls,2023
+Himachal Pradesh,5.8,2023-2024,Secondary,Girls,2023
+Jammu and Kashmir,11.7,2023-2024,Secondary,Girls,2023
+Jharkhand,9.1,2023-2024,Secondary,Girls,2023
+Karnataka,13.3,2023-2024,Secondary,Girls,2023
+Kerala,8.3,2023-2024,Secondary,Girls,2023
+Ladakh,14.7,2023-2024,Secondary,Girls,2023
+Lakshadweep,7.0,2023-2024,Secondary,Girls,2023
+Madhya Pradesh,14.2,2023-2024,Secondary,Girls,2023
+Maharashtra,11.2,2023-2024,Secondary,Girls,2023
+Manipur,9.2,2023-2024,Secondary,Girls,2023
+Meghalaya,12.5,2023-2024,Secondary,Girls,2023
+Mizoram,10.0,2023-2024,Secondary,Girls,2023
+Nagaland,13.8,2023-2024,Secondary,Girls,2023
+Odisha,13.2,2023-2024,Secondary,Girls,2023
+Puducherry,7.0,2023-2024,Secondary,Girls,2023
+Punjab,8.7,2023-2024,Secondary,Girls,2023
+Rajasthan,6.4,2023-2024,Secondary,Girls,2023
+Sikkim,12.5,2023-2024,Secondary,Girls,2023
+Tamil Nadu,10.5,2023-2024,Secondary,Girls,2023
+Telangana,10.9,2023-2024,Secondary,Girls,2023
+Tripura,11.7,2023-2024,Secondary,Girls,2023
+Uttar Pradesh,9.7,2023-2024,Secondary,Girls,2023
+Uttarakhand,7.7,2023-2024,Secondary,Girls,2023
+West Bengal,8.3,2023-2024,Secondary,Girls,2023
+All India,8.3,2023-2024,Secondary,Girls,2023
+Andaman and Nicobar Islands,4.0,2024-2025,Elementary,Boys,2024
+Andhra Pradesh,3.6,2024-2025,Elementary,Boys,2024
+Arunachal Pradesh,2.9,2024-2025,Elementary,Boys,2024
+Assam,4.1,2024-2025,Elementary,Boys,2024
+Bihar,4.4,2024-2025,Elementary,Boys,2024
+Chandigarh,2.2,2024-2025,Elementary,Boys,2024
+Chhattisgarh,2.1,2024-2025,Elementary,Boys,2024
+Dadra and Nagar Haveli,4.5,2024-2025,Elementary,Boys,2024
+Daman and Diu,0.4,2024-2025,Elementary,Boys,2024
+Delhi,2.1,2024-2025,Elementary,Boys,2024
+Goa,3.8,2024-2025,Elementary,Boys,2024
+Gujarat,1.7,2024-2025,Elementary,Boys,2024
+Haryana,4.7,2024-2025,Elementary,Boys,2024
+Himachal Pradesh,0.2,2024-2025,Elementary,Boys,2024
+Jammu and Kashmir,0.4,2024-2025,Elementary,Boys,2024
+Jharkhand,3.4,2024-2025,Elementary,Boys,2024
+Karnataka,1.7,2024-2025,Elementary,Boys,2024
+Kerala,3.9,2024-2025,Elementary,Boys,2024
+Ladakh,0.1,2024-2025,Elementary,Boys,2024
+Lakshadweep,0.6,2024-2025,Elementary,Boys,2024
+Madhya Pradesh,4.0,2024-2025,Elementary,Boys,2024
+Maharashtra,3.3,2024-2025,Elementary,Boys,2024
+Manipur,5.3,2024-2025,Elementary,Boys,2024
+Meghalaya,1.0,2024-2025,Elementary,Boys,2024
+Mizoram,1.4,2024-2025,Elementary,Boys,2024
+Nagaland,1.0,2024-2025,Elementary,Boys,2024
+Odisha,1.1,2024-2025,Elementary,Boys,2024
+Puducherry,3.6,2024-2025,Elementary,Boys,2024
+Punjab,0.2,2024-2025,Elementary,Boys,2024
+Rajasthan,2.0,2024-2025,Elementary,Boys,2024
+Sikkim,3.3,2024-2025,Elementary,Boys,2024
+Tamil Nadu,4.1,2024-2025,Elementary,Boys,2024
+Telangana,0.7,2024-2025,Elementary,Boys,2024
+Tripura,3.6,2024-2025,Elementary,Boys,2024
+Uttar Pradesh,2.4,2024-2025,Elementary,Boys,2024
+Uttarakhand,4.5,2024-2025,Elementary,Boys,2024
+West Bengal,3.3,2024-2025,Elementary,Boys,2024
+All India,0.3,2024-2025,Elementary,Boys,2024
+Andaman and Nicobar Islands,2.7,2024-2025,Elementary,Girls,2024
+Andhra Pradesh,2.2,2024-2025,Elementary,Girls,2024
+Arunachal Pradesh,2.1,2024-2025,Elementary,Girls,2024
+Assam,3.5,2024-2025,Elementary,Girls,2024
+Bihar,4.8,2024-2025,Elementary,Girls,2024
+Chandigarh,1.7,2024-2025,Elementary,Girls,2024
+Chhattisgarh,0.9,2024-2025,Elementary,Girls,2024
+Dadra and Nagar Haveli,1.8,2024-2025,Elementary,Girls,2024
+Daman and Diu,3.6,2024-2025,Elementary,Girls,2024
+Delhi,1.6,2024-2025,Elementary,Girls,2024
+Goa,1.4,2024-2025,Elementary,Girls,2024
+Gujarat,3.1,2024-2025,Elementary,Girls,2024
+Haryana,0.3,2024-2025,Elementary,Girls,2024
+Himachal Pradesh,3.2,2024-2025,Elementary,Girls,2024
+Jammu and Kashmir,4.5,2024-2025,Elementary,Girls,2024
+Jharkhand,3.1,2024-2025,Elementary,Girls,2024
+Karnataka,1.4,2024-2025,Elementary,Girls,2024
+Kerala,1.0,2024-2025,Elementary,Girls,2024
+Ladakh,0.6,2024-2025,Elementary,Girls,2024
+Lakshadweep,3.4,2024-2025,Elementary,Girls,2024
+Madhya Pradesh,4.1,2024-2025,Elementary,Girls,2024
+Maharashtra,3.4,2024-2025,Elementary,Girls,2024
+Manipur,1.9,2024-2025,Elementary,Girls,2024
+Meghalaya,2.0,2024-2025,Elementary,Girls,2024
+Mizoram,3.4,2024-2025,Elementary,Girls,2024
+Nagaland,3.0,2024-2025,Elementary,Girls,2024
+Odisha,2.7,2024-2025,Elementary,Girls,2024
+Puducherry,3.4,2024-2025,Elementary,Girls,2024
+Punjab,1.8,2024-2025,Elementary,Girls,2024
+Rajasthan,2.9,2024-2025,Elementary,Girls,2024
+Sikkim,1.3,2024-2025,Elementary,Girls,2024
+Tamil Nadu,5.1,2024-2025,Elementary,Girls,2024
+Telangana,1.9,2024-2025,Elementary,Girls,2024
+Tripura,0.0,2024-2025,Elementary,Girls,2024
+Uttar Pradesh,0.8,2024-2025,Elementary,Girls,2024
+Uttarakhand,2.6,2024-2025,Elementary,Girls,2024
+West Bengal,2.7,2024-2025,Elementary,Girls,2024
+All India,2.3,2024-2025,Elementary,Girls,2024
+Andaman and Nicobar Islands,11.5,2024-2025,Secondary,Boys,2024
+Andhra Pradesh,8.0,2024-2025,Secondary,Boys,2024
+Arunachal Pradesh,6.7,2024-2025,Secondary,Boys,2024
+Assam,12.6,2024-2025,Secondary,Boys,2024
+Bihar,13.7,2024-2025,Secondary,Boys,2024
+Chandigarh,12.0,2024-2025,Secondary,Boys,2024
+Chhattisgarh,12.8,2024-2025,Secondary,Boys,2024
+Dadra and Nagar Haveli,10.8,2024-2025,Secondary,Boys,2024
+Daman and Diu,11.0,2024-2025,Secondary,Boys,2024
+Delhi,5.2,2024-2025,Secondary,Boys,2024
+Goa,10.0,2024-2025,Secondary,Boys,2024
+Gujarat,11.0,2024-2025,Secondary,Boys,2024
+Haryana,11.4,2024-2025,Secondary,Boys,2024
+Himachal Pradesh,12.9,2024-2025,Secondary,Boys,2024
+Jammu and Kashmir,12.1,2024-2025,Secondary,Boys,2024
+Jharkhand,6.6,2024-2025,Secondary,Boys,2024
+Karnataka,13.4,2024-2025,Secondary,Boys,2024
+Kerala,7.7,2024-2025,Secondary,Boys,2024
+Ladakh,8.6,2024-2025,Secondary,Boys,2024
+Lakshadweep,10.7,2024-2025,Secondary,Boys,2024
+Madhya Pradesh,6.0,2024-2025,Secondary,Boys,2024
+Maharashtra,6.4,2024-2025,Secondary,Boys,2024
+Manipur,7.1,2024-2025,Secondary,Boys,2024
+Meghalaya,10.2,2024-2025,Secondary,Boys,2024
+Mizoram,6.4,2024-2025,Secondary,Boys,2024
+Nagaland,13.1,2024-2025,Secondary,Boys,2024
+Odisha,12.6,2024-2025,Secondary,Boys,2024
+Puducherry,12.5,2024-2025,Secondary,Boys,2024
+Punjab,8.5,2024-2025,Secondary,Boys,2024
+Rajasthan,13.5,2024-2025,Secondary,Boys,2024
+Sikkim,11.1,2024-2025,Secondary,Boys,2024
+Tamil Nadu,7.0,2024-2025,Secondary,Boys,2024
+Telangana,9.0,2024-2025,Secondary,Boys,2024
+Tripura,13.1,2024-2025,Secondary,Boys,2024
+Uttar Pradesh,5.7,2024-2025,Secondary,Boys,2024
+Uttarakhand,6.7,2024-2025,Secondary,Boys,2024
+West Bengal,9.3,2024-2025,Secondary,Boys,2024
+All India,10.5,2024-2025,Secondary,Boys,2024
+Andaman and Nicobar Islands,5.5,2024-2025,Secondary,Girls,2024
+Andhra Pradesh,7.6,2024-2025,Secondary,Girls,2024
+Arunachal Pradesh,9.1,2024-2025,Secondary,Girls,2024
+Assam,12.8,2024-2025,Secondary,Girls,2024
+Bihar,11.9,2024-2025,Secondary,Girls,2024
+Chandigarh,6.5,2024-2025,Secondary,Girls,2024
+Chhattisgarh,8.1,2024-2025,Secondary,Girls,2024
+Dadra and Nagar Haveli,15.7,2024-2025,Secondary,Girls,2024
+Daman and Diu,10.0,2024-2025,Secondary,Girls,2024
+Delhi,13.7,2024-2025,Secondary,Girls,2024
+Goa,9.3,2024-2025,Secondary,Girls,2024
+Gujarat,8.4,2024-2025,Secondary,Girls,2024
+Haryana,7.7,2024-2025,Secondary,Girls,2024
+Himachal Pradesh,7.7,2024-2025,Secondary,Girls,2024
+Jammu and Kashmir,15.2,2024-2025,Secondary,Girls,2024
+Jharkhand,11.9,2024-2025,Secondary,Girls,2024
+Karnataka,9.8,2024-2025,Secondary,Girls,2024
+Kerala,10.3,2024-2025,Secondary,Girls,2024
+Ladakh,6.2,2024-2025,Secondary,Girls,2024
+Lakshadweep,10.7,2024-2025,Secondary,Girls,2024
+Madhya Pradesh,9.0,2024-2025,Secondary,Girls,2024
+Maharashtra,11.1,2024-2025,Secondary,Girls,2024
+Manipur,8.0,2024-2025,Secondary,Girls,2024
+Meghalaya,6.0,2024-2025,Secondary,Girls,2024
+Mizoram,8.9,2024-2025,Secondary,Girls,2024
+Nagaland,7.6,2024-2025,Secondary,Girls,2024
+Odisha,10.1,2024-2025,Secondary,Girls,2024
+Puducherry,13.5,2024-2025,Secondary,Girls,2024
+Punjab,8.4,2024-2025,Secondary,Girls,2024
+Rajasthan,7.0,2024-2025,Secondary,Girls,2024
+Sikkim,12.3,2024-2025,Secondary,Girls,2024
+Tamil Nadu,12.6,2024-2025,Secondary,Girls,2024
+Telangana,16.7,2024-2025,Secondary,Girls,2024
+Tripura,7.9,2024-2025,Secondary,Girls,2024
+Uttar Pradesh,14.6,2024-2025,Secondary,Girls,2024
+Uttarakhand,6.4,2024-2025,Secondary,Girls,2024
+West Bengal,11.0,2024-2025,Secondary,Girls,2024
+All India,11.2,2024-2025,Secondary,Girls,2024
